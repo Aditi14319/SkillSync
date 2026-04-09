@@ -1,0 +1,2161 @@
+coding_interest,writing_interest,design_interest,law_interest,medical_interest,math_comfort,empathy,public_speaking,problem_solving,creativity,biology_interest,portfolio_preference,work_environment,subject_preference,top1,top2,top3
+1,0,0,0,0,5,7,4,9,10,3,6,0,Commerce,Software Engineer,Lawyer,Software Engineer
+1,0,0,0,0,3,4,3,9,5,5,9,0,Arts,Software Engineer,Neurologist,UI/UX Designer
+1,0,0,0,0,7,6,8,8,9,3,3,1,Commerce,Software Engineer,Surgeon,Author
+1,0,0,0,0,4,9,5,7,8,2,1,0,Arts,Software Engineer,Animator,Copywriter
+1,0,0,0,0,7,7,7,5,10,6,2,1,Commerce,Software Engineer,Cardiologist,Doctor
+1,0,0,0,0,10,10,4,10,5,9,4,0,Arts,Software Engineer,Animator,Cloud Engineer
+1,0,0,0,0,8,9,10,9,8,5,2,0,Commerce,Software Engineer,Content Writer,Surgeon
+1,0,0,0,0,5,9,5,5,9,7,1,1,Arts,Software Engineer,Software Engineer,Lawyer
+1,0,0,0,0,10,4,8,7,6,3,7,1,Science,Software Engineer,Entrepreneur,Psychiatrist
+1,0,0,0,0,6,10,8,8,5,1,10,0,Science,Software Engineer,Editor,AI Engineer
+1,0,0,0,0,4,10,8,10,9,9,2,0,Science,Software Engineer,Cardiologist,Data Scientist
+1,0,0,0,0,8,5,3,4,8,6,3,1,Science,Software Engineer,Cloud Engineer,Graphic Designer
+1,0,0,0,0,5,8,8,7,4,9,9,1,Arts,Software Engineer,Public Prosecutor,Author
+1,0,0,0,0,6,8,9,8,7,6,5,1,Science,Software Engineer,Physiotherapist,Public Prosecutor
+1,0,0,0,0,9,10,10,7,4,2,6,0,Science,Software Engineer,Graphic Designer,Content Writer
+1,0,0,0,0,7,10,7,3,10,6,10,0,Science,Software Engineer,Author,Data Scientist
+1,0,0,0,0,8,9,9,9,6,8,6,0,Arts,Software Engineer,Physiotherapist,Animator
+1,0,0,0,0,10,9,3,3,4,7,2,1,Commerce,Software Engineer,Cloud Engineer,Radiologist
+1,0,0,0,0,8,10,4,6,10,7,10,1,Science,Software Engineer,Physiotherapist,Judge
+1,0,0,0,0,10,3,5,7,9,5,8,0,Commerce,Software Engineer,AI Engineer,Animator
+1,0,0,0,0,5,8,5,4,7,7,5,1,Arts,Software Engineer,Cardiologist,Doctor
+1,0,0,0,0,5,4,3,6,10,1,5,1,Commerce,Software Engineer,Graphic Designer,Legal Advisor
+1,0,0,0,0,8,3,8,10,6,10,5,0,Science,Software Engineer,AI Engineer,Cloud Engineer
+1,0,0,0,0,6,9,8,7,4,5,9,0,Arts,Software Engineer,Pharmacist,UI/UX Designer
+1,0,0,0,0,5,4,10,8,8,3,2,1,Commerce,Software Engineer,Editor,Cybersecurity Analyst
+1,0,0,0,0,3,5,10,6,7,2,2,1,Arts,Software Engineer,Editor,Neurologist
+1,0,0,0,0,4,6,8,5,9,4,3,0,Science,Software Engineer,Marketing Manager,Accountant
+1,0,0,0,0,5,8,10,3,6,3,10,0,Science,Software Engineer,Physiotherapist,Judge
+1,0,0,0,0,6,10,5,3,10,6,8,1,Arts,Software Engineer,UI/UX Designer,Legal Advisor
+1,0,0,0,0,9,8,6,5,4,9,4,0,Commerce,Software Engineer,Data Scientist,Content Writer
+1,0,0,0,0,4,8,6,8,5,5,3,1,Arts,Software Engineer,Author,Entrepreneur
+1,0,0,0,0,9,9,6,10,7,7,2,0,Commerce,Software Engineer,Pharmacist,Dentist
+1,0,0,0,0,8,8,9,6,8,4,6,0,Commerce,Software Engineer,Doctor,Dentist
+1,0,0,0,0,4,5,5,4,10,1,1,1,Arts,Software Engineer,Dentist,Doctor
+1,0,0,0,0,5,6,4,4,5,8,6,1,Science,Software Engineer,Animator,Author
+1,0,0,0,0,5,7,4,5,10,10,6,0,Arts,Software Engineer,Physiotherapist,Web Developer
+1,0,0,0,0,6,5,3,9,10,6,6,1,Science,Software Engineer,Accountant,Copywriter
+1,0,0,0,0,8,8,5,3,4,10,7,0,Science,Software Engineer,Cloud Engineer,Software Engineer
+1,0,0,0,0,6,3,6,7,7,5,1,1,Science,Software Engineer,Content Writer,Web Developer
+1,0,0,0,0,8,5,6,4,6,5,7,1,Arts,Software Engineer,Author,Web Developer
+1,0,0,0,0,7,8,9,3,6,5,8,0,Commerce,Software Engineer,Fashion Designer,Psychiatrist
+1,0,0,0,0,10,6,8,3,9,8,8,1,Commerce,Software Engineer,Dentist,Lawyer
+1,0,0,0,0,3,9,7,5,5,2,3,1,Arts,Software Engineer,UI/UX Designer,Graphic Designer
+1,0,0,0,0,8,3,5,9,9,7,9,0,Arts,Software Engineer,Pharmacist,Cybersecurity Analyst
+1,0,0,0,0,5,3,5,6,10,5,5,1,Commerce,Software Engineer,Manager,Graphic Designer
+1,0,0,0,0,5,10,3,9,7,10,9,0,Science,Software Engineer,Radiologist,Manager
+1,0,0,0,0,3,10,5,6,10,1,6,0,Science,Software Engineer,UI/UX Designer,Cloud Engineer
+1,0,0,0,0,10,3,9,5,5,8,5,0,Arts,Software Engineer,Data Scientist,Legal Advisor
+1,0,0,0,0,5,5,5,10,8,8,7,1,Science,Software Engineer,Radiologist,Fashion Designer
+1,0,0,0,0,3,8,4,7,10,2,4,0,Science,Software Engineer,Doctor,Editor
+1,0,0,0,0,10,7,9,4,10,7,9,1,Commerce,Software Engineer,Business Analyst,Judge
+1,0,0,0,0,6,8,5,8,9,8,10,1,Commerce,Software Engineer,Software Engineer,Lawyer
+1,0,0,0,0,3,9,9,10,5,2,3,0,Arts,Software Engineer,Doctor,Graphic Designer
+1,0,0,0,0,4,4,7,10,6,4,10,1,Arts,Software Engineer,Fashion Designer,Judge
+1,0,0,0,0,5,3,6,7,7,9,1,0,Arts,Software Engineer,Pharmacist,Cybersecurity Analyst
+1,0,0,0,0,6,10,7,9,8,6,2,1,Arts,Software Engineer,Lawyer,AI Engineer
+1,0,0,0,0,6,4,7,9,7,1,10,0,Arts,Software Engineer,Corporate Lawyer,Psychiatrist
+1,0,0,0,0,4,8,10,6,8,8,7,1,Science,Software Engineer,Radiologist,Public Prosecutor
+1,0,0,0,0,8,6,10,7,8,6,5,1,Science,Software Engineer,Journalist,Entrepreneur
+1,0,0,0,0,10,9,5,6,8,2,6,1,Arts,Software Engineer,Data Scientist,Lawyer
+1,0,0,0,0,4,5,9,6,8,8,5,1,Science,Data Scientist,Accountant,Web Developer
+1,0,0,0,0,7,9,7,5,6,3,3,0,Science,Data Scientist,Content Writer,Lawyer
+1,0,0,0,0,8,3,5,8,9,3,10,0,Commerce,Data Scientist,Business Analyst,Doctor
+1,0,0,0,0,9,8,5,7,3,4,3,1,Commerce,Data Scientist,Psychiatrist,Public Prosecutor
+1,0,0,0,0,5,8,6,6,10,8,4,0,Science,Data Scientist,Legal Advisor,Cloud Engineer
+1,0,0,0,0,8,7,4,3,9,1,4,0,Science,Data Scientist,Neurologist,Physiotherapist
+1,0,0,0,0,8,10,3,4,4,6,6,0,Science,Data Scientist,Neurologist,AI Engineer
+1,0,0,0,0,5,9,10,7,8,5,7,0,Commerce,Data Scientist,Psychiatrist,Product Designer
+1,0,0,0,0,6,10,9,3,9,3,4,1,Science,Data Scientist,Accountant,Graphic Designer
+1,0,0,0,0,10,5,10,7,3,2,1,1,Science,Data Scientist,Cloud Engineer,Doctor
+1,0,0,0,0,10,10,9,9,3,1,1,0,Arts,Data Scientist,Product Designer,Physiotherapist
+1,0,0,0,0,8,10,5,8,7,3,7,1,Commerce,Data Scientist,Copywriter,Physiotherapist
+1,0,0,0,0,8,9,10,6,3,4,6,0,Commerce,Data Scientist,Editor,Journalist
+1,0,0,0,0,3,3,4,6,4,10,6,1,Arts,Data Scientist,Doctor,Physiotherapist
+1,0,0,0,0,4,3,9,4,7,9,1,1,Arts,Data Scientist,Accountant,AI Engineer
+1,0,0,0,0,6,8,4,7,8,9,1,1,Commerce,Data Scientist,Data Scientist,UI/UX Designer
+1,0,0,0,0,8,9,9,10,9,1,10,0,Science,Data Scientist,Lawyer,Marketing Manager
+1,0,0,0,0,10,4,4,7,6,3,10,0,Arts,Data Scientist,Business Analyst,Corporate Lawyer
+1,0,0,0,0,10,4,9,8,10,10,4,0,Commerce,Data Scientist,Neurologist,Corporate Lawyer
+1,0,0,0,0,6,4,9,5,5,1,1,1,Commerce,Data Scientist,Nurse,Cybersecurity Analyst
+1,0,0,0,0,7,4,6,5,6,9,5,1,Science,Data Scientist,Nurse,Doctor
+1,0,0,0,0,7,4,5,10,6,5,3,1,Commerce,Data Scientist,Graphic Designer,Entrepreneur
+1,0,0,0,0,9,9,5,7,10,2,2,1,Arts,Data Scientist,Judge,Author
+1,0,0,0,0,9,4,6,9,5,6,9,1,Science,Data Scientist,Corporate Lawyer,Physiotherapist
+1,0,0,0,0,8,5,3,5,8,1,6,0,Arts,Data Scientist,Entrepreneur,Product Designer
+1,0,0,0,0,5,9,8,4,5,3,9,1,Arts,Data Scientist,Marketing Manager,Psychiatrist
+1,0,0,0,0,10,10,5,5,8,1,8,1,Commerce,Data Scientist,Author,Software Engineer
+1,0,0,0,0,6,3,3,5,10,2,5,1,Science,Data Scientist,Marketing Manager,Data Scientist
+1,0,0,0,0,5,6,3,10,10,1,1,0,Science,Data Scientist,Data Scientist,Software Engineer
+1,0,0,0,0,3,7,4,5,3,3,10,1,Commerce,Data Scientist,Copywriter,Pharmacist
+1,0,0,0,0,6,6,9,3,5,4,5,1,Arts,Data Scientist,Copywriter,Content Writer
+1,0,0,0,0,10,7,7,8,4,2,6,1,Commerce,Data Scientist,Fashion Designer,Accountant
+1,0,0,0,0,4,3,9,9,4,4,3,1,Arts,Data Scientist,Dentist,Cloud Engineer
+1,0,0,0,0,7,5,8,10,3,6,3,0,Commerce,Data Scientist,Product Designer,Surgeon
+1,0,0,0,0,6,9,6,7,4,2,7,1,Arts,Data Scientist,Content Writer,Neurologist
+1,0,0,0,0,8,8,5,6,9,5,8,0,Arts,Data Scientist,Copywriter,Pharmacist
+1,0,0,0,0,6,6,5,10,4,1,8,0,Arts,Data Scientist,Surgeon,Dentist
+1,0,0,0,0,3,10,4,9,7,10,10,0,Commerce,Data Scientist,AI Engineer,Radiologist
+1,0,0,0,0,3,8,7,4,7,9,9,0,Science,Data Scientist,Psychiatrist,Neurologist
+1,0,0,0,0,7,4,8,7,3,6,5,1,Commerce,Data Scientist,Cloud Engineer,Psychiatrist
+1,0,0,0,0,6,7,3,6,9,5,1,0,Science,Data Scientist,Cardiologist,Accountant
+1,0,0,0,0,3,5,9,4,8,3,2,0,Science,Data Scientist,Dentist,Product Designer
+1,0,0,0,0,3,4,4,7,6,5,10,1,Commerce,Data Scientist,Surgeon,Graphic Designer
+1,0,0,0,0,9,6,9,9,7,8,6,1,Arts,Data Scientist,Data Scientist,Corporate Lawyer
+1,0,0,0,0,3,3,3,9,4,1,2,1,Science,Data Scientist,Doctor,UI/UX Designer
+1,0,0,0,0,10,4,6,9,6,4,4,0,Science,Data Scientist,Data Scientist,Lawyer
+1,0,0,0,0,5,4,6,6,6,4,8,1,Commerce,Data Scientist,Copywriter,Animator
+1,0,0,0,0,6,9,3,10,7,10,5,0,Commerce,Data Scientist,Product Designer,Doctor
+1,0,0,0,0,9,8,9,5,5,3,7,1,Science,Data Scientist,Surgeon,Software Engineer
+1,0,0,0,0,7,5,10,6,3,5,4,1,Arts,Data Scientist,Corporate Lawyer,Author
+1,0,0,0,0,10,5,6,4,9,5,7,1,Commerce,Data Scientist,Doctor,Accountant
+1,0,0,0,0,9,7,8,4,9,10,8,1,Commerce,Data Scientist,Pharmacist,Legal Advisor
+1,0,0,0,0,5,3,10,5,10,7,3,1,Arts,Data Scientist,Public Prosecutor,Author
+1,0,0,0,0,4,6,3,9,8,6,7,1,Commerce,Data Scientist,Data Scientist,Product Designer
+1,0,0,0,0,8,6,10,6,8,7,4,1,Commerce,Data Scientist,Doctor,Software Engineer
+1,0,0,0,0,5,6,3,10,5,8,4,0,Science,Data Scientist,Nurse,Data Scientist
+1,0,0,0,0,10,7,6,4,5,6,8,1,Commerce,Data Scientist,UI/UX Designer,Editor
+1,0,0,0,0,8,8,10,10,9,4,3,1,Commerce,Data Scientist,Copywriter,Cloud Engineer
+1,0,0,0,0,6,10,8,7,4,2,2,0,Commerce,Data Scientist,Animator,Editor
+1,0,0,0,0,8,9,7,3,6,9,6,1,Commerce,Data Scientist,Graphic Designer,Marketing Manager
+1,0,0,0,0,6,3,4,4,6,8,8,1,Commerce,AI Engineer,Surgeon,Data Scientist
+1,0,0,0,0,8,7,4,8,6,9,8,0,Commerce,AI Engineer,Marketing Manager,Editor
+1,0,0,0,0,9,5,8,3,6,9,1,1,Commerce,AI Engineer,Accountant,Radiologist
+1,0,0,0,0,3,3,9,10,8,10,7,0,Commerce,AI Engineer,Accountant,Neurologist
+1,0,0,0,0,3,5,7,6,10,6,5,1,Science,AI Engineer,Pharmacist,UI/UX Designer
+1,0,0,0,0,10,3,3,5,6,7,4,1,Commerce,AI Engineer,Data Scientist,Accountant
+1,0,0,0,0,3,9,4,8,8,10,10,0,Arts,AI Engineer,Web Developer,Legal Advisor
+1,0,0,0,0,9,6,7,10,9,4,10,1,Arts,AI Engineer,Copywriter,Physiotherapist
+1,0,0,0,0,10,6,10,8,8,6,6,0,Science,AI Engineer,Software Engineer,Judge
+1,0,0,0,0,10,7,9,5,4,2,2,0,Science,AI Engineer,Cardiologist,Entrepreneur
+1,0,0,0,0,4,7,8,3,3,10,10,0,Commerce,AI Engineer,Copywriter,Accountant
+1,0,0,0,0,6,10,8,7,4,5,7,0,Commerce,AI Engineer,Accountant,AI Engineer
+1,0,0,0,0,7,5,7,9,7,4,4,1,Science,AI Engineer,Dentist,Marketing Manager
+1,0,0,0,0,7,4,9,3,9,8,8,1,Science,AI Engineer,Physiotherapist,Business Analyst
+1,0,0,0,0,9,5,3,4,4,3,4,0,Arts,AI Engineer,AI Engineer,Surgeon
+1,0,0,0,0,6,10,9,10,4,2,8,0,Commerce,AI Engineer,Journalist,Judge
+1,0,0,0,0,9,9,7,10,6,4,5,0,Science,AI Engineer,Manager,Doctor
+1,0,0,0,0,9,4,3,10,4,2,9,1,Arts,AI Engineer,Physiotherapist,Editor
+1,0,0,0,0,4,3,3,9,5,1,5,1,Science,AI Engineer,Lawyer,Neurologist
+1,0,0,0,0,9,4,3,7,7,2,5,1,Arts,AI Engineer,AI Engineer,Cloud Engineer
+1,0,0,0,0,5,3,3,5,3,2,7,1,Arts,AI Engineer,Public Prosecutor,Graphic Designer
+1,0,0,0,0,4,4,8,6,5,8,4,0,Arts,AI Engineer,Judge,AI Engineer
+1,0,0,0,0,3,8,3,4,9,7,6,0,Arts,AI Engineer,Data Scientist,Judge
+1,0,0,0,0,10,7,3,8,10,8,4,1,Commerce,AI Engineer,Cloud Engineer,Data Scientist
+1,0,0,0,0,4,7,6,7,7,2,2,0,Commerce,AI Engineer,Software Engineer,Marketing Manager
+1,0,0,0,0,3,8,4,6,3,5,9,1,Science,AI Engineer,Nurse,AI Engineer
+1,0,0,0,0,3,9,10,5,4,2,10,0,Commerce,AI Engineer,Corporate Lawyer,Doctor
+1,0,0,0,0,4,7,6,6,8,2,2,0,Commerce,AI Engineer,Journalist,Surgeon
+1,0,0,0,0,6,7,7,5,4,9,6,0,Arts,AI Engineer,Editor,Corporate Lawyer
+1,0,0,0,0,9,7,10,10,6,10,2,0,Arts,AI Engineer,Nurse,Product Designer
+1,0,0,0,0,7,7,7,9,10,4,5,0,Science,AI Engineer,Author,Fashion Designer
+1,0,0,0,0,10,4,6,6,9,9,2,0,Science,AI Engineer,Accountant,Animator
+1,0,0,0,0,6,3,7,5,4,8,4,1,Arts,AI Engineer,AI Engineer,Pharmacist
+1,0,0,0,0,8,6,9,8,8,1,1,1,Science,AI Engineer,Product Designer,Business Analyst
+1,0,0,0,0,5,4,10,6,8,5,3,0,Commerce,AI Engineer,Entrepreneur,Fashion Designer
+1,0,0,0,0,5,3,10,9,5,9,7,0,Commerce,AI Engineer,Dentist,Public Prosecutor
+1,0,0,0,0,4,10,5,3,8,4,2,0,Arts,AI Engineer,UI/UX Designer,Business Analyst
+1,0,0,0,0,10,7,6,3,8,3,3,1,Arts,AI Engineer,Author,Cloud Engineer
+1,0,0,0,0,3,8,10,6,5,8,5,1,Science,AI Engineer,Doctor,Neurologist
+1,0,0,0,0,9,10,5,8,7,7,3,1,Arts,AI Engineer,Copywriter,Content Writer
+1,0,0,0,0,3,5,4,8,10,10,10,0,Commerce,AI Engineer,Physiotherapist,Surgeon
+1,0,0,0,0,10,3,6,8,9,3,10,1,Arts,AI Engineer,Accountant,Nurse
+1,0,0,0,0,5,5,5,7,10,7,4,0,Commerce,AI Engineer,Copywriter,UI/UX Designer
+1,0,0,0,0,10,4,10,5,8,7,10,0,Arts,AI Engineer,Legal Advisor,Accountant
+1,0,0,0,0,3,7,4,3,6,6,4,0,Commerce,AI Engineer,Entrepreneur,Radiologist
+1,0,0,0,0,9,7,4,7,4,10,2,1,Commerce,AI Engineer,Cardiologist,Journalist
+1,0,0,0,0,4,4,10,6,8,10,2,1,Arts,AI Engineer,Surgeon,Content Writer
+1,0,0,0,0,9,4,8,9,7,1,3,1,Science,AI Engineer,Corporate Lawyer,Web Developer
+1,0,0,0,0,10,7,8,9,9,8,10,1,Arts,AI Engineer,Graphic Designer,Animator
+1,0,0,0,0,8,3,5,10,5,10,1,1,Commerce,AI Engineer,Public Prosecutor,Marketing Manager
+1,0,0,0,0,6,9,7,3,7,6,8,0,Science,AI Engineer,Web Developer,Marketing Manager
+1,0,0,0,0,10,7,4,6,6,7,10,1,Arts,AI Engineer,Radiologist,Public Prosecutor
+1,0,0,0,0,3,5,7,9,4,5,9,0,Science,AI Engineer,Animator,Public Prosecutor
+1,0,0,0,0,8,7,8,3,10,2,5,1,Arts,AI Engineer,Fashion Designer,Neurologist
+1,0,0,0,0,7,7,3,10,3,7,2,1,Arts,AI Engineer,Marketing Manager,Entrepreneur
+1,0,0,0,0,10,10,6,7,6,5,5,0,Science,AI Engineer,Web Developer,Corporate Lawyer
+1,0,0,0,0,4,7,5,4,9,8,10,1,Science,AI Engineer,Web Developer,Dentist
+1,0,0,0,0,6,3,5,7,3,6,5,0,Arts,AI Engineer,UI/UX Designer,Physiotherapist
+1,0,0,0,0,7,8,5,7,6,2,8,1,Arts,AI Engineer,Content Writer,Pharmacist
+1,0,0,0,0,7,10,10,10,10,7,2,1,Arts,AI Engineer,Psychiatrist,Web Developer
+1,0,0,0,0,9,7,8,6,8,6,5,0,Science,Web Developer,Product Designer,Entrepreneur
+1,0,0,0,0,5,6,3,8,9,4,1,0,Commerce,Web Developer,Surgeon,Business Analyst
+1,0,0,0,0,4,3,9,9,6,5,1,0,Arts,Web Developer,Doctor,Software Engineer
+1,0,0,0,0,7,5,3,3,3,4,8,0,Commerce,Web Developer,Surgeon,Doctor
+1,0,0,0,0,10,8,8,5,4,9,6,0,Commerce,Web Developer,Cloud Engineer,Dentist
+1,0,0,0,0,10,3,10,5,5,8,7,0,Commerce,Web Developer,Accountant,Nurse
+1,0,0,0,0,9,10,6,5,9,6,6,1,Commerce,Web Developer,Content Writer,Marketing Manager
+1,0,0,0,0,8,4,5,6,7,8,10,0,Arts,Web Developer,Lawyer,Judge
+1,0,0,0,0,7,4,7,5,4,4,2,0,Science,Web Developer,Software Engineer,Cardiologist
+1,0,0,0,0,10,6,6,3,3,6,10,0,Arts,Web Developer,Legal Advisor,Graphic Designer
+1,0,0,0,0,3,8,8,3,3,9,4,1,Science,Web Developer,Neurologist,Animator
+1,0,0,0,0,7,8,10,4,4,2,9,1,Science,Web Developer,Accountant,Editor
+1,0,0,0,0,4,8,6,3,4,6,1,1,Science,Web Developer,Graphic Designer,Product Designer
+1,0,0,0,0,5,10,3,5,8,2,3,0,Science,Web Developer,Business Analyst,Dentist
+1,0,0,0,0,6,5,9,3,3,8,3,0,Science,Web Developer,Dentist,Copywriter
+1,0,0,0,0,7,9,7,7,9,7,8,1,Arts,Web Developer,Manager,Radiologist
+1,0,0,0,0,3,7,7,8,5,8,8,0,Arts,Web Developer,UI/UX Designer,Entrepreneur
+1,0,0,0,0,10,3,10,9,9,8,6,1,Commerce,Web Developer,Cybersecurity Analyst,Content Writer
+1,0,0,0,0,7,10,10,9,3,6,6,1,Science,Web Developer,Accountant,Web Developer
+1,0,0,0,0,9,8,9,6,8,9,8,0,Arts,Web Developer,Product Designer,UI/UX Designer
+1,0,0,0,0,10,3,5,5,9,1,5,0,Science,Web Developer,AI Engineer,Legal Advisor
+1,0,0,0,0,6,3,4,5,10,9,3,0,Arts,Web Developer,Entrepreneur,Manager
+1,0,0,0,0,7,7,4,5,9,4,10,0,Science,Web Developer,AI Engineer,Entrepreneur
+1,0,0,0,0,8,5,4,7,7,4,1,0,Arts,Web Developer,Doctor,Corporate Lawyer
+1,0,0,0,0,10,6,10,4,7,4,8,0,Arts,Web Developer,Public Prosecutor,Psychiatrist
+1,0,0,0,0,8,7,4,3,3,9,5,1,Commerce,Web Developer,Product Designer,Copywriter
+1,0,0,0,0,5,3,7,5,3,8,2,0,Commerce,Web Developer,Cloud Engineer,Content Writer
+1,0,0,0,0,5,4,10,7,10,5,8,1,Arts,Web Developer,Author,UI/UX Designer
+1,0,0,0,0,7,5,3,5,10,3,1,0,Science,Web Developer,Editor,Copywriter
+1,0,0,0,0,3,10,5,10,6,9,8,1,Arts,Web Developer,Judge,Surgeon
+1,0,0,0,0,5,9,10,9,9,10,2,0,Science,Web Developer,Journalist,Graphic Designer
+1,0,0,0,0,4,6,10,4,10,3,8,0,Arts,Web Developer,Manager,Journalist
+1,0,0,0,0,4,3,9,10,8,8,5,0,Commerce,Web Developer,Graphic Designer,Psychiatrist
+1,0,0,0,0,7,6,4,10,4,3,4,0,Commerce,Web Developer,Software Engineer,UI/UX Designer
+1,0,0,0,0,4,6,6,5,6,7,8,0,Science,Web Developer,Cardiologist,Lawyer
+1,0,0,0,0,7,8,4,8,7,10,9,0,Commerce,Web Developer,Accountant,Nurse
+1,0,0,0,0,7,4,3,4,6,5,4,0,Science,Web Developer,Data Scientist,Accountant
+1,0,0,0,0,8,3,7,3,3,6,10,0,Science,Web Developer,Editor,Marketing Manager
+1,0,0,0,0,8,5,8,8,10,2,5,0,Arts,Web Developer,Product Designer,Animator
+1,0,0,0,0,7,10,8,10,7,2,5,1,Commerce,Web Developer,Psychiatrist,UI/UX Designer
+1,0,0,0,0,7,9,10,5,5,8,4,0,Commerce,Web Developer,Marketing Manager,Web Developer
+1,0,0,0,0,3,7,7,9,4,7,2,1,Commerce,Web Developer,Software Engineer,Marketing Manager
+1,0,0,0,0,10,8,3,9,10,7,5,1,Commerce,Web Developer,Dentist,Accountant
+1,0,0,0,0,8,6,5,3,5,3,9,0,Science,Web Developer,Lawyer,Copywriter
+1,0,0,0,0,5,6,3,5,4,1,9,0,Science,Web Developer,Product Designer,Pharmacist
+1,0,0,0,0,10,4,6,10,3,10,2,0,Science,Web Developer,Cloud Engineer,Physiotherapist
+1,0,0,0,0,8,3,8,7,8,8,10,1,Arts,Web Developer,Fashion Designer,Animator
+1,0,0,0,0,10,3,7,3,7,4,10,1,Arts,Web Developer,Graphic Designer,Manager
+1,0,0,0,0,8,8,8,10,8,9,6,0,Science,Web Developer,Business Analyst,Doctor
+1,0,0,0,0,8,7,7,3,10,6,3,1,Commerce,Web Developer,Copywriter,Accountant
+1,0,0,0,0,4,4,10,8,5,5,9,1,Commerce,Web Developer,Product Designer,Radiologist
+1,0,0,0,0,5,4,4,10,9,3,4,1,Science,Web Developer,Software Engineer,Business Analyst
+1,0,0,0,0,3,10,5,6,10,10,10,0,Arts,Web Developer,Editor,Dentist
+1,0,0,0,0,10,3,6,9,3,6,6,1,Arts,Web Developer,Public Prosecutor,UI/UX Designer
+1,0,0,0,0,6,6,8,6,6,1,7,1,Commerce,Web Developer,Animator,Content Writer
+1,0,0,0,0,7,4,10,7,6,6,3,0,Arts,Web Developer,Manager,Journalist
+1,0,0,0,0,4,9,8,7,3,2,8,0,Arts,Web Developer,Nurse,Business Analyst
+1,0,0,0,0,10,6,9,10,3,6,7,1,Science,Web Developer,Editor,Pharmacist
+1,0,0,0,0,8,9,5,5,4,9,8,1,Science,Web Developer,Marketing Manager,Accountant
+1,0,0,0,0,4,8,10,4,3,10,2,0,Arts,Web Developer,Fashion Designer,Dentist
+0,0,0,0,0,10,10,6,5,9,10,5,0,Arts,Cybersecurity Analyst,Pharmacist,Author
+0,0,0,0,0,6,8,5,9,8,3,4,0,Science,Cybersecurity Analyst,Data Scientist,Physiotherapist
+0,0,0,0,0,7,7,9,10,4,3,7,1,Arts,Cybersecurity Analyst,Nurse,Author
+0,0,0,0,0,6,8,8,8,5,2,10,1,Science,Cybersecurity Analyst,Marketing Manager,Psychiatrist
+0,0,0,0,0,3,8,3,10,10,4,7,1,Science,Cybersecurity Analyst,Business Analyst,Animator
+0,0,0,0,0,10,7,9,5,10,10,7,0,Arts,Cybersecurity Analyst,Manager,Entrepreneur
+0,0,0,0,0,10,5,5,10,3,4,3,1,Commerce,Cybersecurity Analyst,Cardiologist,Radiologist
+0,0,0,0,0,4,3,4,6,8,1,4,1,Arts,Cybersecurity Analyst,Accountant,Judge
+0,0,0,0,0,9,9,8,7,6,2,2,0,Arts,Cybersecurity Analyst,Physiotherapist,Entrepreneur
+0,0,0,0,0,9,5,9,7,7,4,1,1,Arts,Cybersecurity Analyst,Nurse,Psychiatrist
+0,0,0,0,0,10,5,10,4,4,7,6,1,Science,Cybersecurity Analyst,Nurse,Data Scientist
+0,0,0,0,0,8,7,10,4,5,3,7,0,Commerce,Cybersecurity Analyst,Dentist,Psychiatrist
+0,0,0,0,0,4,10,3,3,5,2,7,1,Arts,Cybersecurity Analyst,Manager,Nurse
+0,0,0,0,0,6,6,10,4,7,4,5,0,Arts,Cybersecurity Analyst,Physiotherapist,Software Engineer
+0,0,0,0,0,5,4,10,3,10,5,2,1,Commerce,Cybersecurity Analyst,Product Designer,Neurologist
+0,0,0,0,0,8,6,7,5,3,2,6,1,Commerce,Cybersecurity Analyst,Cybersecurity Analyst,Dentist
+0,0,0,0,0,10,9,5,6,8,5,1,0,Arts,Cybersecurity Analyst,Cardiologist,Marketing Manager
+0,0,0,0,0,4,6,8,6,8,2,7,1,Arts,Cybersecurity Analyst,Neurologist,Legal Advisor
+0,0,0,0,0,6,8,8,5,7,5,6,1,Commerce,Cybersecurity Analyst,Graphic Designer,Corporate Lawyer
+0,0,0,0,0,10,8,3,10,7,1,3,1,Commerce,Cybersecurity Analyst,Content Writer,Software Engineer
+0,0,0,0,0,7,6,7,6,5,2,9,0,Arts,Cybersecurity Analyst,Manager,Psychiatrist
+0,0,0,0,0,6,6,4,6,10,3,5,1,Science,Cybersecurity Analyst,Legal Advisor,Business Analyst
+0,0,0,0,0,9,5,7,7,5,6,2,0,Commerce,Cybersecurity Analyst,Data Scientist,Surgeon
+0,0,0,0,0,4,3,5,8,4,7,1,0,Commerce,Cybersecurity Analyst,Accountant,Journalist
+0,0,0,0,0,5,7,6,9,6,7,1,1,Science,Cybersecurity Analyst,Legal Advisor,Web Developer
+0,0,0,0,0,5,9,4,8,4,2,2,0,Science,Cybersecurity Analyst,Content Writer,Pharmacist
+0,0,0,0,0,8,7,8,7,8,2,10,1,Science,Cybersecurity Analyst,Pharmacist,Data Scientist
+0,0,0,0,0,5,5,6,3,8,8,1,0,Commerce,Cybersecurity Analyst,Doctor,Corporate Lawyer
+0,0,0,0,0,8,4,9,10,7,8,8,0,Science,Cybersecurity Analyst,Manager,Corporate Lawyer
+0,0,0,0,0,10,6,9,5,7,5,10,0,Commerce,Cybersecurity Analyst,Animator,Content Writer
+0,0,0,0,0,10,7,5,7,9,6,8,1,Arts,Cybersecurity Analyst,Author,Manager
+0,0,0,0,0,10,4,6,7,9,5,10,1,Commerce,Cybersecurity Analyst,Cybersecurity Analyst,Accountant
+0,0,0,0,0,6,3,10,9,6,2,2,0,Arts,Cybersecurity Analyst,Graphic Designer,Nurse
+0,0,0,0,0,10,7,9,10,10,9,5,1,Arts,Cybersecurity Analyst,Legal Advisor,Physiotherapist
+0,0,0,0,0,7,3,9,6,6,4,3,0,Science,Cybersecurity Analyst,Manager,Cardiologist
+0,0,0,0,0,8,8,6,3,9,10,7,0,Arts,Cybersecurity Analyst,Surgeon,Dentist
+0,0,0,0,0,10,3,5,3,5,7,10,1,Science,Cybersecurity Analyst,Public Prosecutor,Dentist
+0,0,0,0,0,3,9,5,3,10,8,8,0,Arts,Cybersecurity Analyst,Journalist,Nurse
+0,0,0,0,0,10,5,6,6,5,3,8,0,Science,Cybersecurity Analyst,Lawyer,Web Developer
+0,0,0,0,0,7,8,6,10,6,1,3,1,Arts,Cybersecurity Analyst,Web Developer,Entrepreneur
+0,0,0,0,0,10,9,5,6,4,10,10,0,Commerce,Cybersecurity Analyst,Physiotherapist,Product Designer
+0,0,0,0,0,3,7,6,6,4,1,7,1,Commerce,Cybersecurity Analyst,Business Analyst,Cardiologist
+0,0,0,0,0,3,4,7,9,5,6,4,1,Science,Cybersecurity Analyst,Content Writer,Editor
+0,0,0,0,0,9,9,6,4,7,4,1,0,Commerce,Cybersecurity Analyst,AI Engineer,Lawyer
+0,0,0,0,0,3,9,10,4,5,6,8,0,Arts,Cybersecurity Analyst,Fashion Designer,Psychiatrist
+0,0,0,0,0,3,8,9,10,7,9,7,0,Science,Cybersecurity Analyst,Business Analyst,Content Writer
+0,0,0,0,0,10,10,4,5,10,10,3,1,Arts,Cybersecurity Analyst,Physiotherapist,Judge
+0,0,0,0,0,8,4,3,9,4,2,6,1,Commerce,Cybersecurity Analyst,Accountant,Web Developer
+0,0,0,0,0,3,7,3,5,3,9,8,0,Science,Cybersecurity Analyst,Product Designer,Author
+0,0,0,0,0,3,9,8,4,4,1,6,0,Commerce,Cybersecurity Analyst,Content Writer,Corporate Lawyer
+0,0,0,0,0,7,7,9,10,9,5,4,0,Science,Cybersecurity Analyst,Web Developer,Cloud Engineer
+0,0,0,0,0,9,8,4,5,6,7,9,0,Science,Cybersecurity Analyst,Fashion Designer,Nurse
+0,0,0,0,0,7,6,5,8,6,8,3,0,Commerce,Cybersecurity Analyst,Product Designer,Business Analyst
+0,0,0,0,0,10,10,5,3,6,5,8,1,Commerce,Cybersecurity Analyst,Pharmacist,Product Designer
+0,0,0,0,0,10,3,10,3,4,3,10,1,Arts,Cybersecurity Analyst,Data Scientist,AI Engineer
+0,0,0,0,0,8,4,10,4,10,10,4,0,Science,Cybersecurity Analyst,Manager,Psychiatrist
+0,0,0,0,0,5,10,5,4,8,5,10,1,Science,Cybersecurity Analyst,Animator,Data Scientist
+0,0,0,0,0,8,9,8,9,5,4,10,1,Commerce,Cybersecurity Analyst,Content Writer,Copywriter
+0,0,0,0,0,3,8,6,8,10,3,8,0,Arts,Cybersecurity Analyst,Doctor,Cybersecurity Analyst
+0,0,0,0,0,3,9,9,5,10,8,8,0,Commerce,Cybersecurity Analyst,Neurologist,Product Designer
+1,0,0,0,0,5,4,3,6,4,9,10,1,Arts,Cloud Engineer,Journalist,Pharmacist
+1,0,0,0,0,5,4,3,7,10,3,1,0,Commerce,Cloud Engineer,Marketing Manager,Corporate Lawyer
+1,0,0,0,0,4,4,3,7,7,2,9,0,Commerce,Cloud Engineer,Animator,Accountant
+1,0,0,0,0,3,10,9,5,5,8,3,0,Science,Cloud Engineer,Public Prosecutor,Marketing Manager
+1,0,0,0,0,3,3,9,10,10,2,7,1,Commerce,Cloud Engineer,Radiologist,Surgeon
+1,0,0,0,0,8,7,9,9,10,7,4,0,Commerce,Cloud Engineer,Judge,Author
+1,0,0,0,0,9,10,4,9,9,5,1,1,Commerce,Cloud Engineer,Entrepreneur,Accountant
+1,0,0,0,0,6,7,4,9,4,3,4,0,Arts,Cloud Engineer,Lawyer,Marketing Manager
+1,0,0,0,0,6,7,10,10,3,1,6,0,Arts,Cloud Engineer,Surgeon,Animator
+1,0,0,0,0,4,8,6,5,7,4,6,1,Science,Cloud Engineer,Dentist,Data Scientist
+1,0,0,0,0,8,9,4,8,5,10,5,0,Science,Cloud Engineer,Physiotherapist,Manager
+1,0,0,0,0,10,3,5,4,8,1,6,0,Science,Cloud Engineer,Editor,Cardiologist
+1,0,0,0,0,6,7,5,5,4,6,8,0,Commerce,Cloud Engineer,AI Engineer,Legal Advisor
+1,0,0,0,0,4,4,5,8,4,10,4,1,Science,Cloud Engineer,Content Writer,Dentist
+1,0,0,0,0,7,9,4,9,3,2,10,0,Commerce,Cloud Engineer,Lawyer,Neurologist
+1,0,0,0,0,8,3,8,9,5,10,6,0,Science,Cloud Engineer,Data Scientist,Cardiologist
+1,0,0,0,0,6,10,4,7,10,5,10,1,Arts,Cloud Engineer,Manager,Fashion Designer
+1,0,0,0,0,9,9,3,3,5,6,7,0,Arts,Cloud Engineer,Web Developer,Graphic Designer
+1,0,0,0,0,9,4,8,10,10,7,10,0,Science,Cloud Engineer,Legal Advisor,Lawyer
+1,0,0,0,0,8,7,3,4,5,7,4,1,Science,Cloud Engineer,Software Engineer,Physiotherapist
+1,0,0,0,0,9,9,4,7,10,7,6,0,Commerce,Cloud Engineer,Cloud Engineer,Animator
+1,0,0,0,0,3,7,9,7,6,7,7,0,Commerce,Cloud Engineer,Physiotherapist,Business Analyst
+1,0,0,0,0,9,4,3,5,10,8,8,1,Arts,Cloud Engineer,Marketing Manager,Entrepreneur
+1,0,0,0,0,3,7,8,7,9,9,6,1,Science,Cloud Engineer,AI Engineer,Marketing Manager
+1,0,0,0,0,10,10,3,6,4,3,7,1,Science,Cloud Engineer,Manager,Legal Advisor
+1,0,0,0,0,3,7,5,10,10,5,10,0,Commerce,Cloud Engineer,Cloud Engineer,Entrepreneur
+1,0,0,0,0,3,4,3,10,6,1,10,1,Commerce,Cloud Engineer,Nurse,Pharmacist
+1,0,0,0,0,10,10,3,8,9,2,7,1,Arts,Cloud Engineer,Copywriter,Data Scientist
+1,0,0,0,0,3,9,6,3,10,6,4,0,Commerce,Cloud Engineer,Graphic Designer,Radiologist
+1,0,0,0,0,6,3,10,6,10,10,10,0,Commerce,Cloud Engineer,Public Prosecutor,Pharmacist
+1,0,0,0,0,10,5,8,9,9,7,2,1,Commerce,Cloud Engineer,Animator,Graphic Designer
+1,0,0,0,0,7,5,3,10,6,9,6,1,Arts,Cloud Engineer,AI Engineer,Cardiologist
+1,0,0,0,0,8,7,9,4,10,7,9,1,Commerce,Cloud Engineer,Author,Neurologist
+1,0,0,0,0,3,4,3,4,7,6,8,1,Science,Cloud Engineer,Product Designer,AI Engineer
+1,0,0,0,0,7,8,8,6,9,2,4,0,Commerce,Cloud Engineer,Copywriter,Dentist
+1,0,0,0,0,4,8,4,9,5,7,6,0,Science,Cloud Engineer,Entrepreneur,Software Engineer
+1,0,0,0,0,5,4,5,5,8,3,6,0,Arts,Cloud Engineer,Editor,Data Scientist
+1,0,0,0,0,7,8,7,7,9,6,5,0,Arts,Cloud Engineer,Corporate Lawyer,Physiotherapist
+1,0,0,0,0,5,10,7,8,3,3,5,0,Arts,Cloud Engineer,Copywriter,Journalist
+1,0,0,0,0,9,10,9,6,5,7,7,1,Science,Cloud Engineer,Cloud Engineer,Product Designer
+1,0,0,0,0,8,3,7,10,5,7,6,1,Arts,Cloud Engineer,Corporate Lawyer,Public Prosecutor
+1,0,0,0,0,10,9,6,8,5,1,1,1,Science,Cloud Engineer,AI Engineer,Animator
+1,0,0,0,0,7,5,3,6,8,5,6,1,Commerce,Cloud Engineer,Entrepreneur,Public Prosecutor
+1,0,0,0,0,7,3,9,8,3,3,4,1,Science,Cloud Engineer,Neurologist,Journalist
+1,0,0,0,0,4,7,5,3,8,2,8,0,Commerce,Cloud Engineer,Nurse,Public Prosecutor
+1,0,0,0,0,10,8,6,5,8,5,9,0,Arts,Cloud Engineer,Fashion Designer,Legal Advisor
+1,0,0,0,0,3,7,5,9,6,4,4,0,Science,Cloud Engineer,Legal Advisor,Data Scientist
+1,0,0,0,0,7,6,8,10,8,7,10,0,Arts,Cloud Engineer,Judge,Corporate Lawyer
+1,0,0,0,0,5,5,10,5,8,1,5,0,Arts,Cloud Engineer,Journalist,Cybersecurity Analyst
+1,0,0,0,0,3,7,9,3,10,1,9,0,Arts,Cloud Engineer,Copywriter,Dentist
+1,0,0,0,0,9,4,3,4,5,9,3,1,Commerce,Cloud Engineer,Cardiologist,Fashion Designer
+1,0,0,0,0,7,9,5,7,4,9,6,0,Science,Cloud Engineer,Cardiologist,Data Scientist
+1,0,0,0,0,9,9,3,3,4,1,2,0,Arts,Cloud Engineer,Data Scientist,Fashion Designer
+1,0,0,0,0,6,6,3,10,10,6,2,0,Science,Cloud Engineer,Pharmacist,Graphic Designer
+1,0,0,0,0,5,7,6,8,10,8,7,0,Arts,Cloud Engineer,Content Writer,Surgeon
+1,0,0,0,0,6,4,3,8,7,5,2,0,Commerce,Cloud Engineer,Data Scientist,Public Prosecutor
+1,0,0,0,0,9,7,5,9,7,3,2,0,Commerce,Cloud Engineer,Corporate Lawyer,Surgeon
+1,0,0,0,0,5,5,4,6,3,6,5,0,Arts,Cloud Engineer,Product Designer,Psychiatrist
+1,0,0,0,0,4,7,5,4,4,5,9,1,Science,Cloud Engineer,Cloud Engineer,Manager
+1,0,0,0,0,9,3,9,7,3,5,2,1,Science,Cloud Engineer,Neurologist,Pharmacist
+0,0,0,1,0,8,6,5,6,8,5,9,1,Arts,Lawyer,Fashion Designer,Software Engineer
+0,0,0,1,0,7,6,5,4,6,5,6,1,Commerce,Lawyer,Data Scientist,Dentist
+0,0,0,1,0,10,6,6,5,4,6,8,1,Arts,Lawyer,UI/UX Designer,Copywriter
+0,0,0,1,0,3,10,5,4,9,5,7,0,Commerce,Lawyer,Copywriter,Legal Advisor
+0,0,0,1,0,9,4,6,8,9,10,7,1,Arts,Lawyer,Copywriter,Data Scientist
+0,0,0,1,0,3,4,6,6,4,7,1,1,Commerce,Lawyer,Cybersecurity Analyst,Corporate Lawyer
+0,0,0,1,0,10,7,6,3,4,7,2,1,Science,Lawyer,Cybersecurity Analyst,Animator
+0,0,0,1,0,7,9,6,3,4,4,4,1,Arts,Lawyer,Data Scientist,Manager
+0,0,0,1,0,7,8,9,10,3,9,4,1,Science,Lawyer,Nurse,Doctor
+0,0,0,1,0,6,5,9,9,4,2,2,1,Science,Lawyer,Business Analyst,Public Prosecutor
+0,0,0,1,0,7,6,10,4,5,1,7,0,Commerce,Lawyer,Author,Cloud Engineer
+0,0,0,1,0,5,10,4,3,10,10,1,0,Science,Lawyer,Accountant,Entrepreneur
+0,0,0,1,0,3,10,4,4,8,6,7,1,Commerce,Lawyer,Animator,UI/UX Designer
+0,0,0,1,0,10,10,10,10,3,7,3,1,Commerce,Lawyer,Web Developer,Product Designer
+0,0,0,1,0,4,9,10,9,9,8,3,0,Commerce,Lawyer,Cybersecurity Analyst,Accountant
+0,0,0,1,0,8,5,5,7,3,1,8,0,Commerce,Lawyer,Web Developer,Cloud Engineer
+0,0,0,1,0,4,4,9,10,6,2,8,1,Commerce,Lawyer,Content Writer,Cloud Engineer
+0,0,0,1,0,10,5,10,5,4,4,6,0,Commerce,Lawyer,Graphic Designer,Radiologist
+0,0,0,1,0,5,4,9,5,8,2,7,0,Commerce,Lawyer,Surgeon,Entrepreneur
+0,0,0,1,0,10,6,3,9,7,7,8,1,Commerce,Lawyer,Product Designer,Software Engineer
+0,0,0,1,0,6,6,8,5,5,2,1,0,Commerce,Lawyer,Fashion Designer,Business Analyst
+0,0,0,1,0,3,6,5,6,7,8,1,1,Science,Lawyer,Public Prosecutor,Physiotherapist
+0,0,0,1,0,5,6,6,7,7,7,7,0,Arts,Lawyer,Judge,Author
+0,0,0,1,0,5,10,8,5,8,9,6,1,Science,Lawyer,Animator,Physiotherapist
+0,0,0,1,0,5,6,5,5,6,2,4,0,Science,Lawyer,Journalist,Cybersecurity Analyst
+0,0,0,1,0,9,3,9,4,5,3,6,0,Science,Lawyer,Cybersecurity Analyst,Cloud Engineer
+0,0,0,1,0,9,9,8,6,10,9,3,1,Arts,Lawyer,Cybersecurity Analyst,Content Writer
+0,0,0,1,0,3,8,3,8,5,3,10,0,Arts,Lawyer,Software Engineer,Content Writer
+0,0,0,1,0,6,10,7,6,4,10,3,1,Arts,Lawyer,Public Prosecutor,UI/UX Designer
+0,0,0,1,0,9,7,4,6,3,4,5,1,Commerce,Lawyer,Cloud Engineer,Legal Advisor
+0,0,0,1,0,4,4,8,7,6,2,8,1,Commerce,Lawyer,Public Prosecutor,Doctor
+0,0,0,1,0,5,8,9,4,7,1,4,0,Arts,Lawyer,Software Engineer,Manager
+0,0,0,1,0,9,7,8,6,10,7,4,0,Arts,Lawyer,Radiologist,Animator
+0,0,0,1,0,7,7,4,5,9,5,8,0,Commerce,Lawyer,Content Writer,Doctor
+0,0,0,1,0,9,4,3,5,6,6,4,0,Commerce,Lawyer,Neurologist,Surgeon
+0,0,0,1,0,9,8,4,5,10,9,3,0,Arts,Lawyer,Marketing Manager,AI Engineer
+0,0,0,1,0,6,6,9,4,9,7,4,0,Arts,Lawyer,Cloud Engineer,Copywriter
+0,0,0,1,0,6,10,8,7,9,1,6,1,Science,Lawyer,Doctor,Content Writer
+0,0,0,1,0,5,7,4,6,6,4,1,0,Science,Lawyer,Author,Fashion Designer
+0,0,0,1,0,6,7,5,9,8,8,2,0,Science,Lawyer,Cardiologist,Lawyer
+0,0,0,1,0,9,5,7,5,6,9,10,1,Arts,Lawyer,Web Developer,Nurse
+0,0,0,1,0,4,4,5,10,9,3,3,1,Arts,Lawyer,Physiotherapist,Entrepreneur
+0,0,0,1,0,9,5,3,8,6,6,8,0,Science,Lawyer,Physiotherapist,Author
+0,0,0,1,0,7,6,7,5,4,3,9,1,Arts,Lawyer,Accountant,Corporate Lawyer
+0,0,0,1,0,6,6,7,10,8,8,10,0,Science,Lawyer,Business Analyst,Graphic Designer
+0,0,0,1,0,3,7,8,5,3,2,1,1,Science,Lawyer,Entrepreneur,Animator
+0,0,0,1,0,8,5,10,4,9,8,7,1,Arts,Lawyer,Doctor,Corporate Lawyer
+0,0,0,1,0,3,10,10,10,7,6,4,1,Science,Lawyer,Accountant,Product Designer
+0,0,0,1,0,6,6,7,10,9,7,2,1,Arts,Lawyer,AI Engineer,Animator
+0,0,0,1,0,9,5,10,9,9,2,1,1,Arts,Lawyer,Copywriter,Pharmacist
+0,0,0,1,0,5,8,8,6,7,2,6,1,Science,Lawyer,Fashion Designer,Physiotherapist
+0,0,0,1,0,5,6,3,10,7,10,10,1,Science,Lawyer,Public Prosecutor,Author
+0,0,0,1,0,7,6,8,4,7,1,9,0,Science,Lawyer,Journalist,Web Developer
+0,0,0,1,0,9,5,10,3,10,4,6,0,Arts,Lawyer,Neurologist,Corporate Lawyer
+0,0,0,1,0,7,3,3,8,4,7,4,1,Arts,Lawyer,Accountant,Cardiologist
+0,0,0,1,0,5,9,3,5,8,3,5,0,Science,Lawyer,Editor,UI/UX Designer
+0,0,0,1,0,4,7,8,10,9,9,7,0,Arts,Lawyer,Dentist,Business Analyst
+0,0,0,1,0,10,4,10,5,9,10,7,1,Commerce,Lawyer,Neurologist,Product Designer
+0,0,0,1,0,4,6,7,9,7,7,2,1,Commerce,Lawyer,Cloud Engineer,Accountant
+0,0,0,1,0,8,6,3,8,9,6,5,1,Arts,Lawyer,Cloud Engineer,Corporate Lawyer
+0,0,0,1,0,9,7,9,9,5,3,3,1,Commerce,Judge,Web Developer,Nurse
+0,0,0,1,0,8,5,6,5,4,2,5,1,Arts,Judge,Graphic Designer,Physiotherapist
+0,0,0,1,0,6,7,7,4,10,7,9,0,Arts,Judge,Manager,Corporate Lawyer
+0,0,0,1,0,9,3,9,8,5,1,9,1,Arts,Judge,Animator,Public Prosecutor
+0,0,0,1,0,10,5,10,10,9,9,10,0,Arts,Judge,Nurse,Cardiologist
+0,0,0,1,0,8,4,5,6,6,7,8,1,Commerce,Judge,Manager,Cloud Engineer
+0,0,0,1,0,10,5,6,3,6,8,6,0,Commerce,Judge,Cardiologist,Psychiatrist
+0,0,0,1,0,6,9,10,3,6,1,1,1,Science,Judge,Data Scientist,Marketing Manager
+0,0,0,1,0,3,6,8,7,6,1,9,0,Commerce,Judge,Corporate Lawyer,Editor
+0,0,0,1,0,3,9,7,3,6,9,1,0,Commerce,Judge,Author,Judge
+0,0,0,1,0,4,10,9,10,4,7,7,0,Science,Judge,Software Engineer,Radiologist
+0,0,0,1,0,8,5,8,5,9,6,7,0,Science,Judge,Entrepreneur,Surgeon
+0,0,0,1,0,5,10,7,9,4,7,3,0,Commerce,Judge,Product Designer,Pharmacist
+0,0,0,1,0,8,10,4,10,10,6,5,1,Commerce,Judge,Doctor,Psychiatrist
+0,0,0,1,0,4,4,3,8,8,1,9,0,Arts,Judge,Radiologist,UI/UX Designer
+0,0,0,1,0,7,3,9,7,8,10,7,1,Science,Judge,Dentist,Manager
+0,0,0,1,0,4,7,8,8,10,4,2,1,Science,Judge,Radiologist,Author
+0,0,0,1,0,6,8,4,4,4,8,9,1,Arts,Judge,Business Analyst,Author
+0,0,0,1,0,10,8,5,8,10,1,3,0,Commerce,Judge,Fashion Designer,Business Analyst
+0,0,0,1,0,7,8,4,7,8,1,1,0,Commerce,Judge,Neurologist,Corporate Lawyer
+0,0,0,1,0,8,9,3,4,6,2,5,1,Science,Judge,AI Engineer,Product Designer
+0,0,0,1,0,7,7,10,9,10,7,8,1,Science,Judge,Content Writer,Web Developer
+0,0,0,1,0,4,8,9,6,5,3,3,0,Science,Judge,Fashion Designer,Public Prosecutor
+0,0,0,1,0,8,10,7,5,10,9,8,0,Science,Judge,Author,Fashion Designer
+0,0,0,1,0,6,6,7,5,8,4,1,0,Commerce,Judge,Cloud Engineer,Dentist
+0,0,0,1,0,10,9,8,9,4,5,2,1,Arts,Judge,AI Engineer,Surgeon
+0,0,0,1,0,8,9,3,6,9,3,6,1,Commerce,Judge,Web Developer,AI Engineer
+0,0,0,1,0,10,4,6,3,7,10,5,0,Commerce,Judge,Cardiologist,Dentist
+0,0,0,1,0,6,6,8,4,8,2,9,1,Science,Judge,Nurse,Physiotherapist
+0,0,0,1,0,8,5,3,10,7,10,2,0,Science,Judge,Judge,Journalist
+0,0,0,1,0,9,3,4,8,4,1,1,0,Science,Judge,Animator,Cardiologist
+0,0,0,1,0,9,5,7,8,3,8,1,0,Arts,Judge,UI/UX Designer,Judge
+0,0,0,1,0,4,4,10,5,4,9,1,1,Commerce,Judge,Software Engineer,Doctor
+0,0,0,1,0,7,3,7,7,8,7,4,1,Arts,Judge,UI/UX Designer,Entrepreneur
+0,0,0,1,0,5,3,3,3,10,9,1,0,Arts,Judge,Journalist,AI Engineer
+0,0,0,1,0,5,3,8,6,9,5,3,0,Commerce,Judge,Surgeon,Accountant
+0,0,0,1,0,8,10,5,9,9,8,8,0,Science,Judge,Editor,Surgeon
+0,0,0,1,0,6,7,8,9,4,5,3,0,Commerce,Judge,AI Engineer,Marketing Manager
+0,0,0,1,0,4,4,7,3,5,6,10,0,Arts,Judge,Web Developer,Radiologist
+0,0,0,1,0,9,8,8,3,9,3,4,1,Commerce,Judge,Surgeon,Editor
+0,0,0,1,0,9,9,5,3,3,2,1,1,Commerce,Judge,Web Developer,Marketing Manager
+0,0,0,1,0,5,7,7,7,7,10,8,0,Science,Judge,Manager,Pharmacist
+0,0,0,1,0,8,6,9,3,3,3,5,0,Arts,Judge,Web Developer,Accountant
+0,0,0,1,0,8,6,4,4,6,9,7,1,Arts,Judge,Fashion Designer,Neurologist
+0,0,0,1,0,3,6,8,10,5,6,10,1,Arts,Judge,Marketing Manager,Fashion Designer
+0,0,0,1,0,9,7,7,10,6,4,6,0,Arts,Judge,Cloud Engineer,Psychiatrist
+0,0,0,1,0,6,7,7,4,4,5,7,0,Commerce,Judge,Surgeon,Author
+0,0,0,1,0,5,7,8,4,3,1,5,0,Arts,Judge,Author,Entrepreneur
+0,0,0,1,0,6,4,8,5,7,9,10,1,Science,Judge,Radiologist,Marketing Manager
+0,0,0,1,0,9,6,9,9,10,8,10,0,Commerce,Judge,Psychiatrist,Copywriter
+0,0,0,1,0,5,4,3,5,8,2,8,0,Arts,Judge,Pharmacist,Copywriter
+0,0,0,1,0,10,3,3,6,4,5,1,0,Arts,Judge,Cybersecurity Analyst,Dentist
+0,0,0,1,0,6,4,3,7,7,8,8,0,Science,Judge,Editor,Data Scientist
+0,0,0,1,0,7,9,4,6,7,1,9,0,Commerce,Judge,Legal Advisor,Fashion Designer
+0,0,0,1,0,6,10,8,3,10,5,4,1,Arts,Judge,Graphic Designer,Manager
+0,0,0,1,0,3,4,6,6,10,6,5,0,Arts,Judge,Corporate Lawyer,Editor
+0,0,0,1,0,3,8,9,3,3,4,10,1,Commerce,Judge,Nurse,Cardiologist
+0,0,0,1,0,7,6,8,5,10,3,9,0,Science,Judge,Radiologist,Physiotherapist
+0,0,0,1,0,3,4,6,4,9,9,7,1,Commerce,Judge,Marketing Manager,Corporate Lawyer
+0,0,0,1,0,10,7,5,7,5,6,2,1,Commerce,Judge,Software Engineer,Author
+0,0,0,1,0,5,5,9,4,6,2,9,1,Arts,Corporate Lawyer,Radiologist,Judge
+0,0,0,1,0,4,9,4,7,6,2,4,1,Commerce,Corporate Lawyer,Judge,Web Developer
+0,0,0,1,0,10,7,8,10,9,5,8,1,Arts,Corporate Lawyer,Public Prosecutor,Editor
+0,0,0,1,0,8,10,10,4,9,9,5,0,Science,Corporate Lawyer,Entrepreneur,Cybersecurity Analyst
+0,0,0,1,0,4,4,5,10,7,5,8,0,Science,Corporate Lawyer,Radiologist,AI Engineer
+0,0,0,1,0,7,5,7,8,5,1,4,1,Science,Corporate Lawyer,Author,Neurologist
+0,0,0,1,0,4,7,7,10,8,7,1,0,Arts,Corporate Lawyer,Business Analyst,Lawyer
+0,0,0,1,0,3,4,3,5,6,7,3,0,Arts,Corporate Lawyer,AI Engineer,Graphic Designer
+0,0,0,1,0,9,8,10,3,3,9,10,1,Arts,Corporate Lawyer,Cloud Engineer,AI Engineer
+0,0,0,1,0,4,8,4,7,6,6,2,0,Commerce,Corporate Lawyer,Animator,UI/UX Designer
+0,0,0,1,0,8,4,10,6,10,1,1,1,Arts,Corporate Lawyer,Business Analyst,Accountant
+0,0,0,1,0,8,10,4,3,8,3,6,0,Commerce,Corporate Lawyer,Content Writer,Product Designer
+0,0,0,1,0,5,9,7,9,4,3,10,0,Science,Corporate Lawyer,Surgeon,Manager
+0,0,0,1,0,10,9,8,5,4,2,1,0,Science,Corporate Lawyer,Doctor,Legal Advisor
+0,0,0,1,0,7,9,8,4,8,5,9,1,Commerce,Corporate Lawyer,Data Scientist,Accountant
+0,0,0,1,0,8,7,6,5,8,1,6,0,Arts,Corporate Lawyer,Author,Fashion Designer
+0,0,0,1,0,7,9,3,10,8,2,4,1,Science,Corporate Lawyer,Fashion Designer,Accountant
+0,0,0,1,0,7,8,6,6,6,8,3,0,Commerce,Corporate Lawyer,Graphic Designer,Cloud Engineer
+0,0,0,1,0,5,10,5,7,10,7,3,0,Commerce,Corporate Lawyer,Data Scientist,Manager
+0,0,0,1,0,5,8,5,5,9,9,2,1,Commerce,Corporate Lawyer,Graphic Designer,Public Prosecutor
+0,0,0,1,0,5,6,5,7,10,1,5,1,Commerce,Corporate Lawyer,Marketing Manager,Radiologist
+0,0,0,1,0,10,3,8,7,9,5,4,0,Arts,Corporate Lawyer,Cardiologist,Doctor
+0,0,0,1,0,7,10,4,6,4,1,7,0,Commerce,Corporate Lawyer,AI Engineer,Marketing Manager
+0,0,0,1,0,8,8,8,8,8,1,6,1,Commerce,Corporate Lawyer,Journalist,Surgeon
+0,0,0,1,0,9,5,9,9,7,7,2,1,Arts,Corporate Lawyer,Nurse,Entrepreneur
+0,0,0,1,0,4,8,8,5,6,3,2,0,Commerce,Corporate Lawyer,Pharmacist,Neurologist
+0,0,0,1,0,4,10,10,3,9,9,5,0,Science,Corporate Lawyer,Cloud Engineer,Marketing Manager
+0,0,0,1,0,10,10,10,5,5,1,7,0,Commerce,Corporate Lawyer,Fashion Designer,Software Engineer
+0,0,0,1,0,8,8,9,5,10,1,2,0,Science,Corporate Lawyer,Cybersecurity Analyst,Doctor
+0,0,0,1,0,8,10,4,10,4,1,9,0,Science,Corporate Lawyer,Journalist,Physiotherapist
+0,0,0,1,0,8,3,8,6,6,3,4,0,Science,Corporate Lawyer,Animator,Doctor
+0,0,0,1,0,7,10,10,5,6,10,1,1,Arts,Corporate Lawyer,Author,Business Analyst
+0,0,0,1,0,7,7,4,6,9,4,7,1,Arts,Corporate Lawyer,Graphic Designer,Cardiologist
+0,0,0,1,0,5,9,4,5,3,6,7,1,Science,Corporate Lawyer,Content Writer,Author
+0,0,0,1,0,7,4,5,9,6,8,7,1,Science,Corporate Lawyer,Cybersecurity Analyst,Business Analyst
+0,0,0,1,0,3,10,7,4,8,7,2,0,Commerce,Corporate Lawyer,Entrepreneur,Radiologist
+0,0,0,1,0,10,10,4,8,7,5,3,1,Commerce,Corporate Lawyer,Nurse,UI/UX Designer
+0,0,0,1,0,3,5,10,5,8,5,3,0,Science,Corporate Lawyer,AI Engineer,Dentist
+0,0,0,1,0,3,8,8,4,6,8,1,1,Arts,Corporate Lawyer,Software Engineer,Lawyer
+0,0,0,1,0,9,10,3,8,7,3,2,1,Science,Corporate Lawyer,Graphic Designer,Business Analyst
+0,0,0,1,0,4,3,10,4,10,1,9,1,Arts,Corporate Lawyer,Editor,AI Engineer
+0,0,0,1,0,6,9,3,4,6,1,6,1,Science,Corporate Lawyer,Lawyer,Surgeon
+0,0,0,1,0,9,9,4,3,8,3,4,0,Commerce,Corporate Lawyer,Entrepreneur,Copywriter
+0,0,0,1,0,3,10,7,4,9,5,3,1,Science,Corporate Lawyer,Animator,Software Engineer
+0,0,0,1,0,8,9,3,3,4,4,10,1,Commerce,Corporate Lawyer,UI/UX Designer,Copywriter
+0,0,0,1,0,6,4,7,4,9,7,5,0,Arts,Corporate Lawyer,Neurologist,Legal Advisor
+0,0,0,1,0,8,9,8,8,7,4,7,1,Commerce,Corporate Lawyer,Content Writer,UI/UX Designer
+0,0,0,1,0,4,9,6,10,6,4,3,0,Arts,Corporate Lawyer,Software Engineer,Lawyer
+0,0,0,1,0,4,5,7,7,4,7,3,0,Commerce,Corporate Lawyer,Neurologist,Journalist
+0,0,0,1,0,5,9,8,7,9,8,1,0,Commerce,Corporate Lawyer,Graphic Designer,Cybersecurity Analyst
+0,0,0,1,0,10,3,10,9,5,2,9,0,Commerce,Corporate Lawyer,Animator,Cloud Engineer
+0,0,0,1,0,5,9,5,4,3,10,7,0,Science,Corporate Lawyer,Legal Advisor,AI Engineer
+0,0,0,1,0,3,10,10,6,7,2,8,0,Arts,Corporate Lawyer,Pharmacist,Author
+0,0,0,1,0,9,4,7,9,7,9,10,1,Arts,Corporate Lawyer,UI/UX Designer,Business Analyst
+0,0,0,1,0,4,4,10,9,3,9,2,1,Science,Corporate Lawyer,Software Engineer,Cybersecurity Analyst
+0,0,0,1,0,6,5,7,5,7,8,2,0,Science,Corporate Lawyer,Surgeon,Accountant
+0,0,0,1,0,10,4,8,8,4,1,7,0,Science,Corporate Lawyer,Content Writer,Author
+0,0,0,1,0,3,5,5,9,10,6,9,1,Commerce,Corporate Lawyer,Psychiatrist,Public Prosecutor
+0,0,0,1,0,7,10,5,10,4,2,4,0,Commerce,Corporate Lawyer,Radiologist,Psychiatrist
+0,0,0,1,0,7,6,8,3,3,5,3,1,Commerce,Corporate Lawyer,Radiologist,Fashion Designer
+0,0,0,1,0,3,7,3,3,8,1,7,1,Science,Legal Advisor,Product Designer,Radiologist
+0,0,0,1,0,9,9,8,9,4,8,7,0,Science,Legal Advisor,Pharmacist,Neurologist
+0,0,0,1,0,5,8,6,3,10,3,6,1,Commerce,Legal Advisor,Lawyer,Public Prosecutor
+0,0,0,1,0,8,10,7,6,5,9,4,0,Science,Legal Advisor,Nurse,Dentist
+0,0,0,1,0,4,5,5,3,9,8,7,0,Commerce,Legal Advisor,Legal Advisor,Surgeon
+0,0,0,1,0,4,4,5,6,5,4,6,1,Commerce,Legal Advisor,Entrepreneur,Journalist
+0,0,0,1,0,7,5,10,5,7,8,8,0,Arts,Legal Advisor,Nurse,Lawyer
+0,0,0,1,0,4,10,10,7,9,2,3,1,Science,Legal Advisor,Editor,Doctor
+0,0,0,1,0,10,4,9,8,5,3,10,0,Science,Legal Advisor,Marketing Manager,Cybersecurity Analyst
+0,0,0,1,0,4,7,10,3,7,6,8,0,Arts,Legal Advisor,Manager,Graphic Designer
+0,0,0,1,0,6,4,4,3,9,8,9,1,Arts,Legal Advisor,Accountant,Graphic Designer
+0,0,0,1,0,8,5,10,3,4,5,10,0,Science,Legal Advisor,UI/UX Designer,Marketing Manager
+0,0,0,1,0,4,9,6,7,7,2,5,0,Science,Legal Advisor,Web Developer,Software Engineer
+0,0,0,1,0,3,9,5,6,4,9,1,0,Science,Legal Advisor,Cybersecurity Analyst,Journalist
+0,0,0,1,0,7,9,9,7,6,4,10,1,Commerce,Legal Advisor,UI/UX Designer,Manager
+0,0,0,1,0,10,7,9,8,3,4,1,0,Arts,Legal Advisor,Content Writer,Nurse
+0,0,0,1,0,8,6,10,5,8,3,8,1,Science,Legal Advisor,AI Engineer,Animator
+0,0,0,1,0,3,5,8,8,8,2,1,1,Commerce,Legal Advisor,Psychiatrist,Animator
+0,0,0,1,0,4,4,6,8,9,5,6,0,Commerce,Legal Advisor,Copywriter,AI Engineer
+0,0,0,1,0,10,9,6,4,9,1,1,1,Commerce,Legal Advisor,AI Engineer,Nurse
+0,0,0,1,0,9,3,4,6,4,3,5,0,Science,Legal Advisor,Corporate Lawyer,Journalist
+0,0,0,1,0,7,6,10,9,5,1,1,1,Arts,Legal Advisor,Animator,Corporate Lawyer
+0,0,0,1,0,7,5,9,6,10,3,2,0,Science,Legal Advisor,UI/UX Designer,Marketing Manager
+0,0,0,1,0,3,5,8,6,3,6,2,1,Arts,Legal Advisor,Manager,Nurse
+0,0,0,1,0,8,4,4,7,6,3,7,0,Arts,Legal Advisor,Fashion Designer,Neurologist
+0,0,0,1,0,7,10,6,5,10,3,8,0,Arts,Legal Advisor,Lawyer,Cybersecurity Analyst
+0,0,0,1,0,4,4,6,4,7,5,5,0,Commerce,Legal Advisor,Nurse,Cardiologist
+0,0,0,1,0,5,5,6,5,3,4,1,1,Science,Legal Advisor,Fashion Designer,Lawyer
+0,0,0,1,0,10,6,8,6,6,9,1,1,Arts,Legal Advisor,Fashion Designer,Public Prosecutor
+0,0,0,1,0,7,4,5,3,4,4,8,1,Arts,Legal Advisor,Lawyer,Marketing Manager
+0,0,0,1,0,8,8,3,3,4,10,9,1,Arts,Legal Advisor,Lawyer,Web Developer
+0,0,0,1,0,4,10,10,9,5,2,6,0,Commerce,Legal Advisor,Journalist,Manager
+0,0,0,1,0,4,9,7,5,4,4,4,1,Arts,Legal Advisor,Judge,Doctor
+0,0,0,1,0,9,4,4,10,4,2,5,0,Arts,Legal Advisor,Entrepreneur,Product Designer
+0,0,0,1,0,6,5,10,8,4,9,8,1,Science,Legal Advisor,Manager,Entrepreneur
+0,0,0,1,0,9,4,6,9,10,9,7,0,Arts,Legal Advisor,Web Developer,Lawyer
+0,0,0,1,0,6,5,8,7,8,9,5,0,Arts,Legal Advisor,Surgeon,AI Engineer
+0,0,0,1,0,8,8,3,9,10,4,7,1,Arts,Legal Advisor,Psychiatrist,Public Prosecutor
+0,0,0,1,0,6,5,7,5,4,4,8,1,Arts,Legal Advisor,Journalist,Surgeon
+0,0,0,1,0,8,7,5,7,9,9,9,0,Commerce,Legal Advisor,Fashion Designer,Radiologist
+0,0,0,1,0,10,9,5,7,3,10,4,0,Science,Legal Advisor,Dentist,Data Scientist
+0,0,0,1,0,7,7,3,6,4,9,9,0,Arts,Legal Advisor,Journalist,Cybersecurity Analyst
+0,0,0,1,0,8,4,10,8,3,3,7,1,Arts,Legal Advisor,Content Writer,Physiotherapist
+0,0,0,1,0,10,10,3,5,9,7,5,1,Commerce,Legal Advisor,Cardiologist,Business Analyst
+0,0,0,1,0,9,5,5,9,10,2,10,1,Arts,Legal Advisor,Web Developer,Surgeon
+0,0,0,1,0,9,7,10,6,10,1,9,0,Commerce,Legal Advisor,Public Prosecutor,Journalist
+0,0,0,1,0,4,4,3,6,5,1,4,1,Commerce,Legal Advisor,Manager,Data Scientist
+0,0,0,1,0,6,8,3,3,7,3,3,1,Arts,Legal Advisor,Neurologist,Physiotherapist
+0,0,0,1,0,3,4,8,4,8,7,2,0,Commerce,Legal Advisor,Physiotherapist,Animator
+0,0,0,1,0,5,5,3,9,9,4,8,0,Arts,Legal Advisor,Copywriter,Nurse
+0,0,0,1,0,7,6,10,8,7,2,6,1,Commerce,Legal Advisor,Pharmacist,Marketing Manager
+0,0,0,1,0,9,7,3,4,6,6,5,0,Commerce,Legal Advisor,Editor,Pharmacist
+0,0,0,1,0,4,9,4,7,7,1,10,0,Arts,Legal Advisor,Graphic Designer,Accountant
+0,0,0,1,0,4,9,8,3,4,4,3,0,Science,Legal Advisor,Fashion Designer,Neurologist
+0,0,0,1,0,9,7,6,5,5,1,10,0,Science,Legal Advisor,Graphic Designer,Cardiologist
+0,0,0,1,0,3,6,3,8,10,3,3,0,Commerce,Legal Advisor,Judge,Software Engineer
+0,0,0,1,0,3,6,3,10,7,2,2,0,Arts,Legal Advisor,Entrepreneur,Graphic Designer
+0,0,0,1,0,6,5,8,7,3,5,4,1,Arts,Legal Advisor,Journalist,Editor
+0,0,0,1,0,4,8,8,9,5,7,4,1,Arts,Legal Advisor,Software Engineer,Neurologist
+0,0,0,1,0,5,9,6,6,3,10,1,0,Arts,Legal Advisor,Legal Advisor,Radiologist
+0,0,0,1,0,7,5,9,10,10,2,9,0,Science,Public Prosecutor,Doctor,Graphic Designer
+0,0,0,1,0,8,3,9,8,10,4,8,1,Arts,Public Prosecutor,Doctor,Journalist
+0,0,0,1,0,4,3,8,9,10,10,5,0,Commerce,Public Prosecutor,Manager,Cardiologist
+0,0,0,1,0,7,9,5,5,3,2,9,1,Science,Public Prosecutor,Product Designer,Entrepreneur
+0,0,0,1,0,6,6,7,5,9,5,3,0,Science,Public Prosecutor,Author,Product Designer
+0,0,0,1,0,7,8,8,9,10,8,10,0,Science,Public Prosecutor,Lawyer,Cybersecurity Analyst
+0,0,0,1,0,6,6,6,5,8,8,3,1,Commerce,Public Prosecutor,Editor,Judge
+0,0,0,1,0,3,5,7,6,10,4,6,1,Commerce,Public Prosecutor,Product Designer,Copywriter
+0,0,0,1,0,6,9,3,5,5,3,10,1,Science,Public Prosecutor,Manager,Content Writer
+0,0,0,1,0,10,8,10,10,3,10,10,1,Commerce,Public Prosecutor,Journalist,UI/UX Designer
+0,0,0,1,0,9,4,5,10,5,8,4,1,Science,Public Prosecutor,Public Prosecutor,Journalist
+0,0,0,1,0,10,4,4,8,10,10,3,0,Arts,Public Prosecutor,Entrepreneur,Legal Advisor
+0,0,0,1,0,5,10,5,6,5,4,3,1,Commerce,Public Prosecutor,Psychiatrist,Neurologist
+0,0,0,1,0,7,6,3,7,9,7,3,0,Commerce,Public Prosecutor,AI Engineer,Judge
+0,0,0,1,0,6,10,3,5,7,6,2,0,Commerce,Public Prosecutor,Manager,Doctor
+0,0,0,1,0,3,10,9,7,3,8,9,0,Arts,Public Prosecutor,Legal Advisor,Data Scientist
+0,0,0,1,0,3,10,9,3,6,10,9,1,Science,Public Prosecutor,Accountant,Marketing Manager
+0,0,0,1,0,5,7,6,10,3,7,5,0,Arts,Public Prosecutor,Cloud Engineer,Cybersecurity Analyst
+0,0,0,1,0,10,5,4,6,10,3,6,1,Commerce,Public Prosecutor,Neurologist,Product Designer
+0,0,0,1,0,9,7,8,8,5,8,6,0,Commerce,Public Prosecutor,Nurse,Pharmacist
+0,0,0,1,0,8,4,9,7,10,3,8,1,Arts,Public Prosecutor,Business Analyst,Editor
+0,0,0,1,0,5,4,5,6,9,8,3,0,Arts,Public Prosecutor,Journalist,Marketing Manager
+0,0,0,1,0,6,6,5,4,5,10,4,0,Arts,Public Prosecutor,Doctor,Dentist
+0,0,0,1,0,5,6,9,5,10,4,10,1,Commerce,Public Prosecutor,Cardiologist,Judge
+0,0,0,1,0,7,9,10,3,9,3,3,0,Science,Public Prosecutor,Content Writer,Legal Advisor
+0,0,0,1,0,9,10,4,3,8,5,1,0,Science,Public Prosecutor,UI/UX Designer,Web Developer
+0,0,0,1,0,8,6,4,4,8,1,6,1,Arts,Public Prosecutor,Public Prosecutor,Manager
+0,0,0,1,0,4,8,7,3,9,2,9,0,Science,Public Prosecutor,Author,Cardiologist
+0,0,0,1,0,5,5,3,6,9,3,9,0,Science,Public Prosecutor,Lawyer,Corporate Lawyer
+0,0,0,1,0,5,5,7,6,8,2,4,0,Commerce,Public Prosecutor,Surgeon,Corporate Lawyer
+0,0,0,1,0,7,3,8,5,6,1,1,1,Commerce,Public Prosecutor,Data Scientist,Author
+0,0,0,1,0,4,5,9,8,4,8,2,0,Science,Public Prosecutor,Public Prosecutor,Entrepreneur
+0,0,0,1,0,6,5,8,3,8,6,10,0,Arts,Public Prosecutor,Marketing Manager,Cardiologist
+0,0,0,1,0,8,4,5,10,7,5,10,0,Commerce,Public Prosecutor,Physiotherapist,Legal Advisor
+0,0,0,1,0,8,9,4,3,5,1,4,1,Commerce,Public Prosecutor,Product Designer,Editor
+0,0,0,1,0,3,6,7,3,5,7,3,1,Commerce,Public Prosecutor,Public Prosecutor,Product Designer
+0,0,0,1,0,4,3,9,10,5,5,1,0,Commerce,Public Prosecutor,Content Writer,Data Scientist
+0,0,0,1,0,10,10,5,7,6,5,5,1,Arts,Public Prosecutor,Pharmacist,Physiotherapist
+0,0,0,1,0,6,9,3,8,3,9,8,0,Science,Public Prosecutor,Entrepreneur,Software Engineer
+0,0,0,1,0,8,8,6,3,7,3,5,0,Science,Public Prosecutor,Editor,Corporate Lawyer
+0,0,0,1,0,5,7,7,4,6,7,5,1,Arts,Public Prosecutor,Pharmacist,Cardiologist
+0,0,0,1,0,5,4,3,9,5,4,2,0,Arts,Public Prosecutor,Graphic Designer,Neurologist
+0,0,0,1,0,10,3,6,8,10,1,6,0,Science,Public Prosecutor,Content Writer,Dentist
+0,0,0,1,0,3,9,5,10,6,2,2,1,Commerce,Public Prosecutor,Corporate Lawyer,Marketing Manager
+0,0,0,1,0,7,10,5,5,4,9,6,0,Arts,Public Prosecutor,Physiotherapist,Cybersecurity Analyst
+0,0,0,1,0,4,8,10,4,10,3,4,0,Science,Public Prosecutor,AI Engineer,UI/UX Designer
+0,0,0,1,0,8,3,10,3,3,7,4,1,Arts,Public Prosecutor,Dentist,Radiologist
+0,0,0,1,0,8,10,3,7,10,9,7,0,Arts,Public Prosecutor,Journalist,Public Prosecutor
+0,0,0,1,0,7,10,3,3,5,6,2,0,Arts,Public Prosecutor,Neurologist,Manager
+0,0,0,1,0,3,6,5,6,10,9,7,1,Arts,Public Prosecutor,Manager,Copywriter
+0,0,0,1,0,8,5,5,6,9,4,1,1,Commerce,Public Prosecutor,Content Writer,Animator
+0,0,0,1,0,4,3,10,4,5,4,2,0,Science,Public Prosecutor,Editor,Copywriter
+0,0,0,1,0,10,8,8,9,6,8,8,1,Arts,Public Prosecutor,Public Prosecutor,Journalist
+0,0,0,1,0,3,7,3,5,3,4,4,1,Arts,Public Prosecutor,Product Designer,Manager
+0,0,0,1,0,3,6,3,3,3,6,8,1,Arts,Public Prosecutor,Radiologist,UI/UX Designer
+0,0,0,1,0,9,5,3,8,9,9,10,1,Science,Public Prosecutor,Dentist,Content Writer
+0,0,0,1,0,4,5,4,3,6,6,9,1,Arts,Public Prosecutor,Data Scientist,Author
+0,0,0,1,0,8,5,3,6,9,9,10,0,Arts,Public Prosecutor,Cardiologist,Psychiatrist
+0,0,0,1,0,9,10,10,4,3,6,3,1,Commerce,Public Prosecutor,Judge,Entrepreneur
+0,0,0,1,0,9,10,3,5,8,7,8,0,Arts,Public Prosecutor,Cloud Engineer,UI/UX Designer
+0,0,1,0,0,4,8,4,6,8,9,9,0,Commerce,UI/UX Designer,Neurologist,Web Developer
+0,0,1,0,0,10,3,8,9,10,10,7,0,Arts,UI/UX Designer,Neurologist,Copywriter
+0,0,1,0,0,8,10,3,8,5,8,4,1,Commerce,UI/UX Designer,Fashion Designer,Nurse
+0,0,1,0,0,3,7,10,3,4,9,9,1,Arts,UI/UX Designer,Author,Editor
+0,0,1,0,0,9,6,8,6,10,1,7,0,Commerce,UI/UX Designer,Product Designer,Pharmacist
+0,0,1,0,0,7,10,4,4,8,6,1,0,Science,UI/UX Designer,Legal Advisor,Journalist
+0,0,1,0,0,7,5,6,9,4,6,7,0,Science,UI/UX Designer,Data Scientist,Author
+0,0,1,0,0,4,9,3,3,5,1,5,0,Arts,UI/UX Designer,Copywriter,Content Writer
+0,0,1,0,0,6,5,6,8,10,5,8,0,Commerce,UI/UX Designer,Copywriter,Product Designer
+0,0,1,0,0,3,7,7,5,5,9,5,0,Commerce,UI/UX Designer,Entrepreneur,Judge
+0,0,1,0,0,6,8,9,3,6,3,3,0,Arts,UI/UX Designer,Public Prosecutor,UI/UX Designer
+0,0,1,0,0,10,8,10,3,3,2,4,0,Science,UI/UX Designer,Graphic Designer,Cloud Engineer
+0,0,1,0,0,7,8,10,3,10,10,7,1,Science,UI/UX Designer,Accountant,Judge
+0,0,1,0,0,6,3,4,4,9,5,10,1,Commerce,UI/UX Designer,Lawyer,Doctor
+0,0,1,0,0,9,9,3,6,5,3,9,0,Science,UI/UX Designer,Entrepreneur,Graphic Designer
+0,0,1,0,0,3,3,6,6,5,4,10,0,Arts,UI/UX Designer,Neurologist,Psychiatrist
+0,0,1,0,0,3,8,3,5,6,9,2,0,Commerce,UI/UX Designer,Author,Doctor
+0,0,1,0,0,10,4,5,7,8,6,8,1,Arts,UI/UX Designer,Product Designer,Neurologist
+0,0,1,0,0,7,3,8,7,5,8,10,1,Commerce,UI/UX Designer,Cardiologist,Cybersecurity Analyst
+0,0,1,0,0,10,8,6,3,5,4,9,0,Science,UI/UX Designer,Doctor,Radiologist
+0,0,1,0,0,6,7,7,3,9,10,10,0,Commerce,UI/UX Designer,Content Writer,Public Prosecutor
+0,0,1,0,0,9,5,7,10,4,8,3,1,Arts,UI/UX Designer,Content Writer,Web Developer
+0,0,1,0,0,4,4,3,5,9,9,3,1,Science,UI/UX Designer,AI Engineer,Judge
+0,0,1,0,0,5,7,4,8,9,2,10,0,Science,UI/UX Designer,Physiotherapist,AI Engineer
+0,0,1,0,0,5,10,4,10,5,1,8,0,Arts,UI/UX Designer,Copywriter,Surgeon
+0,0,1,0,0,7,9,3,5,7,2,4,1,Arts,UI/UX Designer,Cloud Engineer,Software Engineer
+0,0,1,0,0,4,3,6,6,4,10,6,0,Arts,UI/UX Designer,Journalist,UI/UX Designer
+0,0,1,0,0,7,4,7,9,9,5,6,1,Science,UI/UX Designer,Software Engineer,Product Designer
+0,0,1,0,0,10,6,3,9,5,4,10,1,Arts,UI/UX Designer,Copywriter,Manager
+0,0,1,0,0,8,3,5,10,9,8,3,0,Science,UI/UX Designer,Public Prosecutor,Software Engineer
+0,0,1,0,0,9,9,6,5,9,10,4,1,Commerce,UI/UX Designer,Graphic Designer,Business Analyst
+0,0,1,0,0,5,4,7,4,3,1,1,1,Arts,UI/UX Designer,Surgeon,Marketing Manager
+0,0,1,0,0,6,3,7,9,6,9,5,0,Arts,UI/UX Designer,Business Analyst,Physiotherapist
+0,0,1,0,0,7,9,4,7,9,8,4,1,Commerce,UI/UX Designer,Lawyer,Dentist
+0,0,1,0,0,4,5,6,3,6,1,4,1,Commerce,UI/UX Designer,Graphic Designer,Software Engineer
+0,0,1,0,0,10,9,4,3,3,4,3,1,Science,UI/UX Designer,Copywriter,Web Developer
+0,0,1,0,0,10,5,3,6,6,3,5,1,Arts,UI/UX Designer,Journalist,Graphic Designer
+0,0,1,0,0,9,7,5,8,5,9,7,1,Arts,UI/UX Designer,Product Designer,Author
+0,0,1,0,0,6,3,3,7,3,10,8,1,Arts,UI/UX Designer,Public Prosecutor,Graphic Designer
+0,0,1,0,0,7,7,6,8,3,9,2,0,Commerce,UI/UX Designer,Pharmacist,Manager
+0,0,1,0,0,6,10,5,5,3,7,8,1,Commerce,UI/UX Designer,Surgeon,Content Writer
+0,0,1,0,0,10,3,10,5,7,3,6,0,Science,UI/UX Designer,Public Prosecutor,Corporate Lawyer
+0,0,1,0,0,10,5,3,8,5,5,4,1,Science,UI/UX Designer,Manager,Product Designer
+0,0,1,0,0,9,9,3,9,5,1,3,0,Arts,UI/UX Designer,Physiotherapist,Corporate Lawyer
+0,0,1,0,0,4,9,4,4,7,1,1,0,Science,UI/UX Designer,Accountant,Legal Advisor
+0,0,1,0,0,7,10,7,10,3,6,9,1,Arts,UI/UX Designer,Fashion Designer,Web Developer
+0,0,1,0,0,4,3,3,5,4,6,4,0,Commerce,UI/UX Designer,Business Analyst,Editor
+0,0,1,0,0,7,3,6,6,5,2,2,0,Science,UI/UX Designer,Marketing Manager,Doctor
+0,0,1,0,0,5,6,7,8,8,8,3,1,Arts,UI/UX Designer,Copywriter,Marketing Manager
+0,0,1,0,0,4,7,4,9,8,6,8,0,Commerce,UI/UX Designer,Legal Advisor,Author
+0,0,1,0,0,7,5,7,5,9,8,10,1,Science,UI/UX Designer,Copywriter,Product Designer
+0,0,1,0,0,6,8,7,6,6,5,9,0,Commerce,UI/UX Designer,Author,Content Writer
+0,0,1,0,0,3,3,8,4,3,6,2,1,Commerce,UI/UX Designer,Accountant,Marketing Manager
+0,0,1,0,0,7,7,10,5,8,10,6,1,Commerce,UI/UX Designer,Nurse,Legal Advisor
+0,0,1,0,0,9,9,7,10,3,4,6,1,Science,UI/UX Designer,Psychiatrist,Neurologist
+0,0,1,0,0,6,3,7,8,8,7,3,1,Science,UI/UX Designer,Content Writer,Dentist
+0,0,1,0,0,7,7,4,8,6,7,9,0,Science,UI/UX Designer,Radiologist,Legal Advisor
+0,0,1,0,0,4,5,5,7,5,8,1,1,Commerce,UI/UX Designer,Editor,Business Analyst
+0,0,1,0,0,5,9,6,3,4,2,8,1,Commerce,UI/UX Designer,Lawyer,Judge
+0,0,1,0,0,6,3,10,6,10,5,1,0,Commerce,UI/UX Designer,Radiologist,Copywriter
+0,0,1,0,0,4,4,9,7,3,3,4,1,Commerce,Graphic Designer,Nurse,Legal Advisor
+0,0,1,0,0,9,4,10,7,7,4,4,0,Arts,Graphic Designer,Lawyer,Entrepreneur
+0,0,1,0,0,6,8,3,9,3,2,2,0,Commerce,Graphic Designer,Psychiatrist,Content Writer
+0,0,1,0,0,8,4,7,6,7,3,9,0,Commerce,Graphic Designer,AI Engineer,Marketing Manager
+0,0,1,0,0,7,7,7,6,10,4,10,0,Commerce,Graphic Designer,Product Designer,Cloud Engineer
+0,0,1,0,0,5,7,4,9,6,10,7,1,Science,Graphic Designer,Graphic Designer,Business Analyst
+0,0,1,0,0,6,8,7,5,10,10,5,0,Commerce,Graphic Designer,Business Analyst,Psychiatrist
+0,0,1,0,0,7,7,4,3,8,5,5,0,Science,Graphic Designer,Graphic Designer,Content Writer
+0,0,1,0,0,10,10,5,9,5,3,7,1,Arts,Graphic Designer,Fashion Designer,Accountant
+0,0,1,0,0,9,3,9,8,10,9,2,1,Science,Graphic Designer,Radiologist,Fashion Designer
+0,0,1,0,0,10,10,3,4,6,10,9,1,Science,Graphic Designer,Business Analyst,Entrepreneur
+0,0,1,0,0,6,9,3,5,4,7,3,0,Science,Graphic Designer,Neurologist,Software Engineer
+0,0,1,0,0,4,3,9,7,3,8,9,1,Science,Graphic Designer,Doctor,Data Scientist
+0,0,1,0,0,9,3,7,4,6,6,7,0,Science,Graphic Designer,Cybersecurity Analyst,Business Analyst
+0,0,1,0,0,3,7,6,10,4,9,1,1,Arts,Graphic Designer,Software Engineer,Dentist
+0,0,1,0,0,10,6,4,4,5,1,2,0,Science,Graphic Designer,AI Engineer,Business Analyst
+0,0,1,0,0,8,10,6,6,6,3,1,0,Arts,Graphic Designer,Psychiatrist,Dentist
+0,0,1,0,0,3,10,3,5,10,9,8,1,Science,Graphic Designer,Cybersecurity Analyst,UI/UX Designer
+0,0,1,0,0,4,5,5,3,5,10,9,1,Science,Graphic Designer,Manager,Marketing Manager
+0,0,1,0,0,3,10,7,8,8,9,6,0,Arts,Graphic Designer,Doctor,Radiologist
+0,0,1,0,0,9,4,4,6,6,7,6,0,Arts,Graphic Designer,Neurologist,Doctor
+0,0,1,0,0,10,9,6,9,3,6,2,0,Science,Graphic Designer,Data Scientist,Author
+0,0,1,0,0,4,7,10,6,6,4,1,0,Commerce,Graphic Designer,Psychiatrist,Editor
+0,0,1,0,0,8,5,8,7,4,4,2,1,Science,Graphic Designer,Editor,Marketing Manager
+0,0,1,0,0,3,10,4,6,3,5,8,1,Science,Graphic Designer,Physiotherapist,Web Developer
+0,0,1,0,0,8,10,8,9,3,3,5,0,Commerce,Graphic Designer,Judge,Dentist
+0,0,1,0,0,9,5,5,9,5,6,8,0,Commerce,Graphic Designer,UI/UX Designer,Legal Advisor
+0,0,1,0,0,9,5,4,5,8,4,2,0,Arts,Graphic Designer,Pharmacist,Author
+0,0,1,0,0,7,7,4,4,7,8,1,1,Commerce,Graphic Designer,Animator,Software Engineer
+0,0,1,0,0,8,4,10,10,7,7,1,1,Arts,Graphic Designer,Physiotherapist,Journalist
+0,0,1,0,0,5,5,6,3,8,2,3,1,Commerce,Graphic Designer,Neurologist,Cybersecurity Analyst
+0,0,1,0,0,7,5,4,8,3,1,7,1,Arts,Graphic Designer,Journalist,Radiologist
+0,0,1,0,0,9,10,8,10,8,5,10,0,Arts,Graphic Designer,Fashion Designer,Marketing Manager
+0,0,1,0,0,3,4,9,4,6,10,3,1,Commerce,Graphic Designer,Animator,Web Developer
+0,0,1,0,0,9,9,8,10,6,7,3,1,Science,Graphic Designer,Web Developer,Editor
+0,0,1,0,0,3,3,5,7,3,7,2,0,Arts,Graphic Designer,Graphic Designer,Psychiatrist
+0,0,1,0,0,8,7,3,5,10,3,7,0,Arts,Graphic Designer,Cloud Engineer,Editor
+0,0,1,0,0,9,6,6,4,4,2,7,0,Arts,Graphic Designer,Web Developer,Fashion Designer
+0,0,1,0,0,10,7,8,10,6,3,2,0,Commerce,Graphic Designer,Dentist,Graphic Designer
+0,0,1,0,0,8,3,6,3,8,3,3,1,Science,Graphic Designer,Software Engineer,Cardiologist
+0,0,1,0,0,7,10,8,6,5,6,2,1,Arts,Graphic Designer,Nurse,Surgeon
+0,0,1,0,0,6,10,7,10,6,3,5,1,Commerce,Graphic Designer,Psychiatrist,Corporate Lawyer
+0,0,1,0,0,7,3,8,3,3,7,6,1,Science,Graphic Designer,Nurse,Dentist
+0,0,1,0,0,5,8,6,8,3,3,9,0,Science,Graphic Designer,Radiologist,Neurologist
+0,0,1,0,0,10,6,6,3,5,7,1,1,Arts,Graphic Designer,Legal Advisor,AI Engineer
+0,0,1,0,0,7,7,7,4,3,2,3,1,Science,Graphic Designer,Public Prosecutor,Copywriter
+0,0,1,0,0,8,9,7,8,5,1,2,1,Commerce,Graphic Designer,Cardiologist,Journalist
+0,0,1,0,0,9,4,4,6,5,5,9,1,Science,Graphic Designer,Editor,Content Writer
+0,0,1,0,0,8,3,10,3,6,7,8,1,Science,Graphic Designer,Pharmacist,Dentist
+0,0,1,0,0,5,9,9,3,8,5,9,1,Science,Graphic Designer,Cloud Engineer,Fashion Designer
+0,0,1,0,0,5,3,10,5,8,10,8,0,Commerce,Graphic Designer,Cybersecurity Analyst,Lawyer
+0,0,1,0,0,5,6,8,6,4,1,1,1,Commerce,Graphic Designer,Animator,Copywriter
+0,0,1,0,0,3,4,7,10,5,4,6,1,Arts,Graphic Designer,Marketing Manager,Journalist
+0,0,1,0,0,10,10,5,10,8,3,10,0,Commerce,Graphic Designer,Software Engineer,Author
+0,0,1,0,0,5,7,8,7,4,9,7,1,Commerce,Graphic Designer,Copywriter,Accountant
+0,0,1,0,0,3,4,10,7,6,3,1,1,Arts,Graphic Designer,Pharmacist,Data Scientist
+0,0,1,0,0,9,7,3,3,3,10,9,1,Science,Graphic Designer,Cardiologist,AI Engineer
+0,0,1,0,0,8,3,4,5,6,6,5,0,Science,Graphic Designer,UI/UX Designer,Business Analyst
+0,0,1,0,0,5,8,9,5,4,1,10,1,Arts,Graphic Designer,Graphic Designer,Nurse
+0,0,1,0,0,4,9,6,7,10,4,10,1,Science,Graphic Designer,Surgeon,Psychiatrist
+0,0,1,0,0,7,7,4,10,6,8,9,1,Science,Product Designer,Entrepreneur,Data Scientist
+0,0,1,0,0,4,5,6,5,5,8,7,1,Arts,Product Designer,Dentist,Judge
+0,0,1,0,0,8,7,9,7,5,9,2,1,Commerce,Product Designer,Cardiologist,Surgeon
+0,0,1,0,0,10,6,4,10,7,2,5,1,Commerce,Product Designer,Neurologist,Doctor
+0,0,1,0,0,8,4,4,4,10,2,9,1,Commerce,Product Designer,Journalist,Manager
+0,0,1,0,0,3,6,3,3,4,4,6,1,Commerce,Product Designer,Public Prosecutor,Lawyer
+0,0,1,0,0,3,8,8,7,5,8,9,1,Science,Product Designer,AI Engineer,UI/UX Designer
+0,0,1,0,0,9,3,10,7,7,9,3,0,Science,Product Designer,Author,Radiologist
+0,0,1,0,0,3,8,9,10,10,6,6,0,Commerce,Product Designer,Lawyer,Fashion Designer
+0,0,1,0,0,8,7,5,4,9,5,2,1,Arts,Product Designer,Surgeon,Fashion Designer
+0,0,1,0,0,5,8,8,8,9,2,2,0,Arts,Product Designer,Physiotherapist,Legal Advisor
+0,0,1,0,0,9,4,4,6,9,4,3,0,Arts,Product Designer,Public Prosecutor,Web Developer
+0,0,1,0,0,5,7,9,4,8,7,10,0,Arts,Product Designer,Cybersecurity Analyst,AI Engineer
+0,0,1,0,0,7,3,9,9,10,2,9,0,Arts,Product Designer,Marketing Manager,Cloud Engineer
+0,0,1,0,0,4,4,8,5,8,3,10,0,Arts,Product Designer,Copywriter,Lawyer
+0,0,1,0,0,3,5,4,3,4,5,9,0,Commerce,Product Designer,Neurologist,Physiotherapist
+0,0,1,0,0,5,4,6,4,10,2,1,1,Science,Product Designer,Lawyer,AI Engineer
+0,0,1,0,0,7,7,9,5,7,8,3,0,Arts,Product Designer,Journalist,Editor
+0,0,1,0,0,10,8,4,7,4,3,8,1,Arts,Product Designer,Author,Data Scientist
+0,0,1,0,0,6,7,6,7,7,1,3,0,Commerce,Product Designer,Graphic Designer,Cardiologist
+0,0,1,0,0,9,8,6,5,9,7,3,0,Science,Product Designer,Psychiatrist,Accountant
+0,0,1,0,0,3,3,10,9,9,7,8,0,Science,Product Designer,Author,Editor
+0,0,1,0,0,6,5,9,10,10,7,10,1,Commerce,Product Designer,Cardiologist,Neurologist
+0,0,1,0,0,7,4,5,4,4,3,5,1,Arts,Product Designer,Nurse,Accountant
+0,0,1,0,0,7,8,5,4,7,5,5,0,Science,Product Designer,Marketing Manager,Dentist
+0,0,1,0,0,7,5,5,9,8,5,10,0,Commerce,Product Designer,Author,Judge
+0,0,1,0,0,9,10,6,7,8,10,6,1,Science,Product Designer,Graphic Designer,Editor
+0,0,1,0,0,7,9,7,3,5,2,10,1,Science,Product Designer,Dentist,Radiologist
+0,0,1,0,0,6,9,4,6,9,6,2,1,Science,Product Designer,Animator,Dentist
+0,0,1,0,0,6,4,6,9,8,9,10,1,Arts,Product Designer,Pharmacist,Psychiatrist
+0,0,1,0,0,6,8,8,3,4,5,10,1,Commerce,Product Designer,Editor,Corporate Lawyer
+0,0,1,0,0,4,10,9,8,6,9,6,0,Arts,Product Designer,Editor,Entrepreneur
+0,0,1,0,0,10,5,3,4,6,3,4,1,Commerce,Product Designer,Product Designer,Accountant
+0,0,1,0,0,4,8,4,10,6,6,7,1,Commerce,Product Designer,Corporate Lawyer,Public Prosecutor
+0,0,1,0,0,9,8,9,4,4,4,6,0,Science,Product Designer,Accountant,Cloud Engineer
+0,0,1,0,0,4,7,4,9,6,5,3,0,Science,Product Designer,Cardiologist,Judge
+0,0,1,0,0,7,10,5,7,4,3,7,0,Science,Product Designer,Psychiatrist,Data Scientist
+0,0,1,0,0,5,3,8,10,6,5,7,0,Science,Product Designer,Radiologist,Marketing Manager
+0,0,1,0,0,4,10,8,9,8,1,7,1,Commerce,Product Designer,Fashion Designer,Neurologist
+0,0,1,0,0,3,7,10,6,10,1,5,1,Commerce,Product Designer,Public Prosecutor,Radiologist
+0,0,1,0,0,5,5,7,5,10,10,6,1,Science,Product Designer,Content Writer,Pharmacist
+0,0,1,0,0,4,6,8,7,3,6,4,0,Arts,Product Designer,Graphic Designer,AI Engineer
+0,0,1,0,0,3,9,6,9,10,5,5,0,Arts,Product Designer,Accountant,Psychiatrist
+0,0,1,0,0,4,3,3,10,9,6,5,1,Commerce,Product Designer,Author,Nurse
+0,0,1,0,0,8,4,8,9,10,2,4,1,Commerce,Product Designer,Copywriter,Editor
+0,0,1,0,0,6,7,3,8,4,7,7,1,Arts,Product Designer,Software Engineer,Legal Advisor
+0,0,1,0,0,10,4,5,10,3,1,4,1,Arts,Product Designer,Legal Advisor,Product Designer
+0,0,1,0,0,8,9,8,6,7,7,8,1,Arts,Product Designer,Psychiatrist,Dentist
+0,0,1,0,0,4,8,3,10,5,10,3,0,Commerce,Product Designer,Legal Advisor,Nurse
+0,0,1,0,0,10,6,9,10,7,5,10,1,Commerce,Product Designer,Doctor,UI/UX Designer
+0,0,1,0,0,5,10,4,9,9,4,4,0,Arts,Product Designer,Pharmacist,Data Scientist
+0,0,1,0,0,3,5,7,6,7,1,6,1,Commerce,Product Designer,Neurologist,Cardiologist
+0,0,1,0,0,5,5,6,5,7,1,3,0,Science,Product Designer,Editor,Doctor
+0,0,1,0,0,9,8,10,9,8,4,7,0,Arts,Product Designer,Nurse,Corporate Lawyer
+0,0,1,0,0,3,10,8,3,7,10,9,1,Science,Product Designer,Doctor,Psychiatrist
+0,0,1,0,0,6,4,4,9,8,2,3,1,Commerce,Product Designer,Animator,Physiotherapist
+0,0,1,0,0,6,9,9,8,8,1,5,0,Arts,Product Designer,Data Scientist,Entrepreneur
+0,0,1,0,0,7,10,6,6,7,5,7,1,Arts,Product Designer,Data Scientist,Accountant
+0,0,1,0,0,4,7,9,5,9,5,3,1,Arts,Product Designer,Legal Advisor,Physiotherapist
+0,0,1,0,0,7,4,10,7,9,6,9,1,Science,Product Designer,Data Scientist,Judge
+0,0,1,0,0,9,6,6,8,9,5,4,0,Commerce,Animator,Content Writer,Cloud Engineer
+0,0,1,0,0,5,3,7,6,6,3,7,1,Arts,Animator,Legal Advisor,Copywriter
+0,0,1,0,0,4,3,10,3,5,3,4,1,Commerce,Animator,Physiotherapist,Cardiologist
+0,0,1,0,0,5,8,4,3,3,1,4,1,Science,Animator,Animator,Surgeon
+0,0,1,0,0,7,4,6,5,8,4,6,0,Commerce,Animator,Judge,Doctor
+0,0,1,0,0,8,4,3,4,6,1,2,1,Arts,Animator,Animator,Graphic Designer
+0,0,1,0,0,6,10,6,7,7,2,4,0,Science,Animator,Editor,Animator
+0,0,1,0,0,10,3,7,10,7,5,5,0,Commerce,Animator,Legal Advisor,Product Designer
+0,0,1,0,0,4,10,7,3,9,10,10,1,Commerce,Animator,Cloud Engineer,Accountant
+0,0,1,0,0,4,8,7,3,7,9,5,0,Arts,Animator,Marketing Manager,Author
+0,0,1,0,0,10,5,6,5,10,1,8,0,Science,Animator,Public Prosecutor,Neurologist
+0,0,1,0,0,4,6,10,6,8,9,9,1,Commerce,Animator,Corporate Lawyer,Surgeon
+0,0,1,0,0,3,4,5,3,10,4,3,1,Science,Animator,Editor,Nurse
+0,0,1,0,0,10,7,5,9,4,6,8,0,Science,Animator,AI Engineer,Dentist
+0,0,1,0,0,6,3,4,6,9,9,1,0,Science,Animator,Judge,Legal Advisor
+0,0,1,0,0,6,7,7,4,3,9,5,1,Arts,Animator,Surgeon,UI/UX Designer
+0,0,1,0,0,8,3,4,8,6,7,8,1,Commerce,Animator,Web Developer,Author
+0,0,1,0,0,9,8,5,4,3,5,10,1,Arts,Animator,Graphic Designer,Editor
+0,0,1,0,0,8,9,10,9,10,7,9,1,Science,Animator,Fashion Designer,Software Engineer
+0,0,1,0,0,9,6,6,3,5,4,4,0,Arts,Animator,Surgeon,Psychiatrist
+0,0,1,0,0,4,6,8,6,6,8,6,1,Arts,Animator,Software Engineer,Corporate Lawyer
+0,0,1,0,0,10,10,8,5,8,1,1,0,Science,Animator,Product Designer,Cloud Engineer
+0,0,1,0,0,5,9,6,10,8,10,4,1,Arts,Animator,Nurse,Product Designer
+0,0,1,0,0,3,5,6,8,3,1,7,1,Science,Animator,Manager,Fashion Designer
+0,0,1,0,0,4,5,8,10,6,1,1,1,Science,Animator,Public Prosecutor,Lawyer
+0,0,1,0,0,8,9,6,3,8,6,9,1,Commerce,Animator,Accountant,Corporate Lawyer
+0,0,1,0,0,10,8,6,7,5,9,2,0,Arts,Animator,Business Analyst,UI/UX Designer
+0,0,1,0,0,5,3,9,8,5,7,3,1,Arts,Animator,Cardiologist,Business Analyst
+0,0,1,0,0,8,7,8,9,6,2,6,1,Commerce,Animator,AI Engineer,UI/UX Designer
+0,0,1,0,0,9,6,8,9,8,7,8,1,Commerce,Animator,Graphic Designer,Marketing Manager
+0,0,1,0,0,4,4,4,9,9,8,4,0,Arts,Animator,Psychiatrist,Lawyer
+0,0,1,0,0,7,4,3,4,7,4,8,0,Science,Animator,Corporate Lawyer,Radiologist
+0,0,1,0,0,10,4,5,5,9,6,9,0,Commerce,Animator,Public Prosecutor,AI Engineer
+0,0,1,0,0,9,6,8,7,5,5,10,1,Science,Animator,Psychiatrist,Animator
+0,0,1,0,0,6,7,3,5,7,10,5,1,Arts,Animator,Graphic Designer,Psychiatrist
+0,0,1,0,0,4,3,9,9,6,4,6,1,Arts,Animator,Data Scientist,Accountant
+0,0,1,0,0,5,5,10,7,3,3,10,1,Commerce,Animator,Radiologist,Author
+0,0,1,0,0,5,7,4,3,8,2,4,0,Science,Animator,Legal Advisor,Business Analyst
+0,0,1,0,0,7,4,4,10,4,9,9,0,Science,Animator,Radiologist,Product Designer
+0,0,1,0,0,10,6,4,9,8,7,3,1,Arts,Animator,Animator,Business Analyst
+0,0,1,0,0,10,9,8,7,6,4,3,1,Science,Animator,Fashion Designer,Doctor
+0,0,1,0,0,7,8,10,7,7,4,4,1,Science,Animator,Cardiologist,Business Analyst
+0,0,1,0,0,8,4,5,8,9,7,9,0,Arts,Animator,Cloud Engineer,Content Writer
+0,0,1,0,0,6,3,9,3,3,6,2,0,Science,Animator,Data Scientist,Marketing Manager
+0,0,1,0,0,5,3,6,10,7,4,7,1,Arts,Animator,Radiologist,Psychiatrist
+0,0,1,0,0,5,4,3,7,3,2,1,0,Arts,Animator,Legal Advisor,UI/UX Designer
+0,0,1,0,0,7,5,3,5,3,7,10,1,Commerce,Animator,Physiotherapist,Graphic Designer
+0,0,1,0,0,9,4,6,5,7,8,8,0,Science,Animator,Editor,Graphic Designer
+0,0,1,0,0,5,9,4,6,9,7,3,1,Commerce,Animator,UI/UX Designer,Corporate Lawyer
+0,0,1,0,0,8,3,3,10,3,9,3,0,Arts,Animator,Physiotherapist,Legal Advisor
+0,0,1,0,0,4,4,5,6,3,5,4,1,Commerce,Animator,Cloud Engineer,Data Scientist
+0,0,1,0,0,8,5,10,4,4,9,8,1,Science,Animator,Graphic Designer,Physiotherapist
+0,0,1,0,0,5,7,4,3,7,8,1,0,Arts,Animator,Surgeon,Fashion Designer
+0,0,1,0,0,3,3,9,8,4,9,9,0,Science,Animator,Marketing Manager,Nurse
+0,0,1,0,0,10,6,4,4,6,2,10,0,Science,Animator,Corporate Lawyer,Dentist
+0,0,1,0,0,4,9,5,3,5,9,9,0,Arts,Animator,Doctor,Lawyer
+0,0,1,0,0,3,5,5,4,7,4,9,0,Arts,Animator,Surgeon,Business Analyst
+0,0,1,0,0,3,6,8,3,10,7,6,0,Commerce,Animator,Public Prosecutor,Entrepreneur
+0,0,1,0,0,8,10,5,9,4,1,3,1,Arts,Animator,Corporate Lawyer,Physiotherapist
+0,0,1,0,0,8,4,3,9,8,3,5,1,Commerce,Animator,Fashion Designer,Entrepreneur
+0,0,1,0,0,7,4,8,3,8,8,1,1,Commerce,Fashion Designer,Surgeon,Lawyer
+0,0,1,0,0,6,7,4,10,8,7,6,0,Science,Fashion Designer,Cybersecurity Analyst,Manager
+0,0,1,0,0,7,9,4,10,4,10,8,1,Commerce,Fashion Designer,Corporate Lawyer,Software Engineer
+0,0,1,0,0,10,6,6,10,9,4,8,0,Arts,Fashion Designer,Corporate Lawyer,Surgeon
+0,0,1,0,0,7,9,9,9,9,8,5,0,Commerce,Fashion Designer,Software Engineer,Business Analyst
+0,0,1,0,0,5,10,8,5,6,2,8,1,Arts,Fashion Designer,Fashion Designer,Cloud Engineer
+0,0,1,0,0,5,8,3,5,10,3,5,1,Commerce,Fashion Designer,Business Analyst,Editor
+0,0,1,0,0,5,3,4,9,5,3,1,1,Arts,Fashion Designer,Surgeon,Animator
+0,0,1,0,0,7,3,6,4,7,6,1,1,Science,Fashion Designer,Surgeon,Fashion Designer
+0,0,1,0,0,7,9,8,3,9,3,8,1,Commerce,Fashion Designer,Neurologist,Animator
+0,0,1,0,0,6,8,7,4,8,8,2,0,Arts,Fashion Designer,Public Prosecutor,Cybersecurity Analyst
+0,0,1,0,0,9,10,8,6,4,2,8,0,Arts,Fashion Designer,Web Developer,Editor
+0,0,1,0,0,10,5,10,5,3,10,6,0,Commerce,Fashion Designer,Copywriter,Public Prosecutor
+0,0,1,0,0,7,3,5,9,5,4,5,0,Commerce,Fashion Designer,Fashion Designer,Radiologist
+0,0,1,0,0,7,10,3,8,5,10,1,1,Science,Fashion Designer,Marketing Manager,Pharmacist
+0,0,1,0,0,7,3,5,10,6,5,8,0,Science,Fashion Designer,UI/UX Designer,Journalist
+0,0,1,0,0,3,8,3,9,3,10,4,0,Arts,Fashion Designer,Animator,Business Analyst
+0,0,1,0,0,3,8,4,5,3,6,5,1,Science,Fashion Designer,Cybersecurity Analyst,Surgeon
+0,0,1,0,0,8,4,5,3,10,2,1,0,Science,Fashion Designer,Manager,Pharmacist
+0,0,1,0,0,9,9,7,10,3,5,1,1,Science,Fashion Designer,Neurologist,Accountant
+0,0,1,0,0,7,3,7,7,7,8,2,0,Science,Fashion Designer,Web Developer,Radiologist
+0,0,1,0,0,9,4,3,10,9,4,10,1,Science,Fashion Designer,Surgeon,Cardiologist
+0,0,1,0,0,5,8,5,9,5,1,6,1,Commerce,Fashion Designer,Author,Dentist
+0,0,1,0,0,10,5,6,8,9,1,1,0,Commerce,Fashion Designer,Lawyer,Cloud Engineer
+0,0,1,0,0,9,5,4,8,5,5,10,1,Science,Fashion Designer,Cardiologist,Fashion Designer
+0,0,1,0,0,10,7,7,7,6,10,1,1,Commerce,Fashion Designer,Legal Advisor,Cloud Engineer
+0,0,1,0,0,5,9,9,6,3,3,5,1,Arts,Fashion Designer,Animator,UI/UX Designer
+0,0,1,0,0,3,9,4,5,3,3,3,1,Science,Fashion Designer,AI Engineer,Accountant
+0,0,1,0,0,4,5,9,6,8,6,1,1,Arts,Fashion Designer,Web Developer,UI/UX Designer
+0,0,1,0,0,10,3,8,5,6,2,5,1,Arts,Fashion Designer,Accountant,Cybersecurity Analyst
+0,0,1,0,0,3,3,9,10,8,1,1,0,Arts,Fashion Designer,Content Writer,Nurse
+0,0,1,0,0,10,6,4,10,6,2,6,0,Science,Fashion Designer,Copywriter,UI/UX Designer
+0,0,1,0,0,7,10,3,8,3,4,4,1,Science,Fashion Designer,Pharmacist,Journalist
+0,0,1,0,0,9,4,5,5,3,6,1,0,Arts,Fashion Designer,Journalist,Accountant
+0,0,1,0,0,10,5,5,5,6,9,5,1,Arts,Fashion Designer,Entrepreneur,AI Engineer
+0,0,1,0,0,7,4,6,4,4,10,8,0,Arts,Fashion Designer,Pharmacist,Entrepreneur
+0,0,1,0,0,6,3,7,7,7,8,9,1,Commerce,Fashion Designer,Radiologist,Pharmacist
+0,0,1,0,0,3,7,7,4,10,9,1,0,Commerce,Fashion Designer,Journalist,Surgeon
+0,0,1,0,0,4,9,3,9,6,3,3,1,Commerce,Fashion Designer,Editor,Legal Advisor
+0,0,1,0,0,7,4,10,6,4,2,1,1,Arts,Fashion Designer,AI Engineer,Physiotherapist
+0,0,1,0,0,5,6,6,4,6,4,2,1,Arts,Fashion Designer,Journalist,Product Designer
+0,0,1,0,0,10,7,9,10,4,1,3,0,Science,Fashion Designer,Content Writer,Author
+0,0,1,0,0,4,7,7,10,8,7,4,1,Science,Fashion Designer,Content Writer,Fashion Designer
+0,0,1,0,0,4,8,8,7,8,5,2,1,Science,Fashion Designer,Surgeon,Entrepreneur
+0,0,1,0,0,3,9,10,9,8,7,10,1,Arts,Fashion Designer,Software Engineer,Dentist
+0,0,1,0,0,9,8,8,5,9,4,4,1,Arts,Fashion Designer,Doctor,Data Scientist
+0,0,1,0,0,8,6,8,4,9,1,9,0,Science,Fashion Designer,Marketing Manager,Author
+0,0,1,0,0,5,7,5,5,6,2,1,1,Arts,Fashion Designer,Corporate Lawyer,Surgeon
+0,0,1,0,0,8,8,9,8,5,10,5,1,Science,Fashion Designer,Web Developer,Lawyer
+0,0,1,0,0,7,4,10,9,4,9,6,0,Science,Fashion Designer,Animator,Dentist
+0,0,1,0,0,3,9,9,8,8,8,8,0,Arts,Fashion Designer,Software Engineer,Marketing Manager
+0,0,1,0,0,8,8,4,4,10,7,4,1,Arts,Fashion Designer,Corporate Lawyer,Graphic Designer
+0,0,1,0,0,9,3,7,5,8,10,9,1,Commerce,Fashion Designer,Physiotherapist,Legal Advisor
+0,0,1,0,0,4,7,9,10,4,10,2,1,Arts,Fashion Designer,Judge,Entrepreneur
+0,0,1,0,0,9,8,6,5,5,7,7,1,Arts,Fashion Designer,Author,AI Engineer
+0,0,1,0,0,7,10,7,4,4,8,4,1,Commerce,Fashion Designer,Cloud Engineer,Graphic Designer
+0,0,1,0,0,8,9,3,3,7,3,9,0,Commerce,Fashion Designer,Content Writer,UI/UX Designer
+0,0,1,0,0,6,8,10,3,4,6,10,0,Science,Fashion Designer,Public Prosecutor,Judge
+0,0,1,0,0,3,8,5,10,9,2,2,1,Commerce,Fashion Designer,Marketing Manager,Surgeon
+0,0,1,0,0,10,7,3,8,10,5,5,1,Commerce,Fashion Designer,AI Engineer,Author
+0,1,0,0,0,9,10,8,7,4,7,8,0,Commerce,Content Writer,Cloud Engineer,Psychiatrist
+0,1,0,0,0,9,6,6,5,5,5,2,0,Science,Content Writer,Marketing Manager,Pharmacist
+0,1,0,0,0,3,4,7,9,3,1,4,0,Arts,Content Writer,Dentist,Cloud Engineer
+0,1,0,0,0,3,9,9,9,10,1,3,1,Commerce,Content Writer,Entrepreneur,UI/UX Designer
+0,1,0,0,0,7,10,7,4,7,9,5,1,Arts,Content Writer,Business Analyst,Journalist
+0,1,0,0,0,7,3,9,9,6,5,1,0,Arts,Content Writer,Radiologist,Product Designer
+0,1,0,0,0,9,8,3,5,10,6,5,0,Commerce,Content Writer,Public Prosecutor,Dentist
+0,1,0,0,0,7,5,8,4,3,6,5,0,Arts,Content Writer,Doctor,Cloud Engineer
+0,1,0,0,0,8,8,8,5,4,8,2,1,Commerce,Content Writer,Web Developer,Entrepreneur
+0,1,0,0,0,9,4,10,7,4,6,10,0,Arts,Content Writer,Legal Advisor,Web Developer
+0,1,0,0,0,8,3,10,5,4,2,8,0,Commerce,Content Writer,Graphic Designer,Nurse
+0,1,0,0,0,10,4,4,5,3,1,6,0,Science,Content Writer,Editor,Entrepreneur
+0,1,0,0,0,10,8,7,3,9,3,9,0,Arts,Content Writer,Pharmacist,Accountant
+0,1,0,0,0,7,8,6,7,4,6,8,1,Science,Content Writer,Cardiologist,Content Writer
+0,1,0,0,0,4,6,9,6,9,8,2,0,Arts,Content Writer,Entrepreneur,Pharmacist
+0,1,0,0,0,9,5,5,3,3,5,8,1,Science,Content Writer,Business Analyst,Dentist
+0,1,0,0,0,9,3,5,7,4,1,7,1,Arts,Content Writer,Legal Advisor,Fashion Designer
+0,1,0,0,0,8,9,7,4,10,1,10,0,Arts,Content Writer,Graphic Designer,Copywriter
+0,1,0,0,0,7,6,8,3,3,6,4,0,Arts,Content Writer,Fashion Designer,Pharmacist
+0,1,0,0,0,6,6,10,5,7,8,4,1,Commerce,Content Writer,Author,Dentist
+0,1,0,0,0,6,5,10,9,8,1,2,1,Science,Content Writer,AI Engineer,Software Engineer
+0,1,0,0,0,5,8,6,9,5,1,5,0,Science,Content Writer,Nurse,Business Analyst
+0,1,0,0,0,4,3,9,5,10,3,4,1,Commerce,Content Writer,Surgeon,Radiologist
+0,1,0,0,0,6,6,5,10,4,7,9,1,Science,Content Writer,Content Writer,Psychiatrist
+0,1,0,0,0,10,8,10,8,7,5,1,1,Science,Content Writer,Psychiatrist,Graphic Designer
+0,1,0,0,0,9,9,10,5,9,1,5,0,Science,Content Writer,AI Engineer,Animator
+0,1,0,0,0,10,9,6,6,9,10,9,0,Commerce,Content Writer,Judge,Nurse
+0,1,0,0,0,7,5,7,7,7,10,7,1,Arts,Content Writer,Nurse,Journalist
+0,1,0,0,0,10,3,7,7,7,10,1,0,Commerce,Content Writer,Editor,Lawyer
+0,1,0,0,0,9,4,8,7,6,6,5,0,Arts,Content Writer,Data Scientist,Web Developer
+0,1,0,0,0,4,3,10,9,9,10,3,0,Commerce,Content Writer,Data Scientist,Editor
+0,1,0,0,0,10,8,3,8,5,7,3,0,Commerce,Content Writer,Cybersecurity Analyst,Doctor
+0,1,0,0,0,4,9,3,7,7,8,10,0,Arts,Content Writer,Author,Neurologist
+0,1,0,0,0,4,9,10,10,9,4,6,1,Science,Content Writer,Cloud Engineer,Judge
+0,1,0,0,0,10,5,6,10,8,7,6,1,Commerce,Content Writer,Radiologist,Nurse
+0,1,0,0,0,4,8,6,10,7,3,2,0,Science,Content Writer,Radiologist,Marketing Manager
+0,1,0,0,0,5,5,4,9,10,6,1,1,Science,Content Writer,Manager,Journalist
+0,1,0,0,0,5,7,9,10,3,9,5,1,Arts,Content Writer,Editor,UI/UX Designer
+0,1,0,0,0,6,8,7,9,3,4,5,0,Commerce,Content Writer,Author,Doctor
+0,1,0,0,0,7,9,10,8,5,9,6,1,Commerce,Content Writer,Animator,Judge
+0,1,0,0,0,3,7,7,4,9,7,1,0,Commerce,Content Writer,Editor,Lawyer
+0,1,0,0,0,10,6,3,9,8,1,7,0,Arts,Content Writer,Journalist,Legal Advisor
+0,1,0,0,0,9,6,4,5,4,5,9,0,Commerce,Content Writer,Corporate Lawyer,Marketing Manager
+0,1,0,0,0,5,9,4,5,3,10,4,1,Arts,Content Writer,AI Engineer,Corporate Lawyer
+0,1,0,0,0,6,7,8,4,9,6,5,0,Science,Content Writer,Surgeon,Corporate Lawyer
+0,1,0,0,0,6,10,5,4,10,8,6,0,Science,Content Writer,Content Writer,Judge
+0,1,0,0,0,5,8,7,10,7,2,1,1,Arts,Content Writer,Editor,Web Developer
+0,1,0,0,0,7,5,3,3,5,7,6,0,Science,Content Writer,Radiologist,Marketing Manager
+0,1,0,0,0,8,6,6,10,9,10,1,0,Commerce,Content Writer,Cloud Engineer,Web Developer
+0,1,0,0,0,7,5,5,5,7,1,5,1,Arts,Content Writer,Content Writer,Fashion Designer
+0,1,0,0,0,5,5,6,10,7,2,3,1,Commerce,Content Writer,Animator,Data Scientist
+0,1,0,0,0,9,6,8,10,3,2,6,0,Arts,Content Writer,Judge,Legal Advisor
+0,1,0,0,0,10,9,5,7,9,8,7,0,Commerce,Content Writer,Business Analyst,Copywriter
+0,1,0,0,0,5,8,3,10,6,10,9,1,Arts,Content Writer,Cloud Engineer,Marketing Manager
+0,1,0,0,0,6,4,5,6,3,7,4,0,Commerce,Content Writer,Fashion Designer,Content Writer
+0,1,0,0,0,9,6,10,10,6,2,7,1,Commerce,Content Writer,Software Engineer,Manager
+0,1,0,0,0,3,3,10,9,9,10,2,1,Commerce,Content Writer,Web Developer,Doctor
+0,1,0,0,0,5,3,8,3,3,4,7,1,Science,Content Writer,Graphic Designer,Data Scientist
+0,1,0,0,0,7,8,6,7,5,5,4,1,Commerce,Content Writer,UI/UX Designer,Nurse
+0,1,0,0,0,4,9,8,8,3,9,7,1,Science,Content Writer,Marketing Manager,Radiologist
+0,1,0,0,0,7,4,3,3,5,7,6,0,Science,Journalist,Software Engineer,Copywriter
+0,1,0,0,0,4,4,4,4,10,3,3,1,Science,Journalist,Animator,Web Developer
+0,1,0,0,0,6,4,6,7,8,3,4,0,Commerce,Journalist,Marketing Manager,Nurse
+0,1,0,0,0,6,5,10,10,8,8,7,1,Commerce,Journalist,Graphic Designer,Copywriter
+0,1,0,0,0,9,5,10,3,9,10,3,1,Arts,Journalist,Editor,Public Prosecutor
+0,1,0,0,0,7,8,7,5,9,9,1,1,Commerce,Journalist,Cloud Engineer,Business Analyst
+0,1,0,0,0,3,6,8,4,3,1,6,0,Commerce,Journalist,Data Scientist,Manager
+0,1,0,0,0,5,5,7,9,5,7,2,0,Arts,Journalist,Fashion Designer,Surgeon
+0,1,0,0,0,7,8,7,8,3,6,9,1,Arts,Journalist,Business Analyst,Product Designer
+0,1,0,0,0,7,4,5,7,9,2,8,0,Arts,Journalist,Accountant,Data Scientist
+0,1,0,0,0,5,6,4,6,9,10,10,0,Science,Journalist,Cardiologist,Legal Advisor
+0,1,0,0,0,5,7,10,3,7,7,6,1,Arts,Journalist,Data Scientist,Corporate Lawyer
+0,1,0,0,0,10,3,10,3,3,5,2,1,Arts,Journalist,Surgeon,AI Engineer
+0,1,0,0,0,6,3,8,8,6,10,4,1,Commerce,Journalist,Neurologist,Dentist
+0,1,0,0,0,7,7,9,5,10,10,5,0,Arts,Journalist,Doctor,Physiotherapist
+0,1,0,0,0,7,4,3,8,4,7,5,1,Science,Journalist,Pharmacist,Lawyer
+0,1,0,0,0,8,7,9,9,9,10,10,0,Commerce,Journalist,Software Engineer,Surgeon
+0,1,0,0,0,6,4,3,4,3,1,10,0,Science,Journalist,Accountant,Doctor
+0,1,0,0,0,9,7,10,6,9,3,4,1,Science,Journalist,Manager,UI/UX Designer
+0,1,0,0,0,10,3,8,9,4,1,5,1,Science,Journalist,Copywriter,Graphic Designer
+0,1,0,0,0,4,6,6,4,5,9,9,1,Science,Journalist,Surgeon,Animator
+0,1,0,0,0,7,4,10,5,8,10,3,0,Commerce,Journalist,Fashion Designer,Graphic Designer
+0,1,0,0,0,3,10,9,4,9,4,5,1,Arts,Journalist,Web Developer,Radiologist
+0,1,0,0,0,7,5,6,3,10,1,3,1,Commerce,Journalist,Graphic Designer,Pharmacist
+0,1,0,0,0,9,10,3,7,4,10,2,0,Science,Journalist,Cloud Engineer,Content Writer
+0,1,0,0,0,6,10,10,5,8,8,10,0,Arts,Journalist,Data Scientist,Pharmacist
+0,1,0,0,0,7,4,4,7,3,5,8,1,Commerce,Journalist,Nurse,Surgeon
+0,1,0,0,0,10,4,5,9,7,8,9,1,Arts,Journalist,Journalist,Entrepreneur
+0,1,0,0,0,5,6,8,6,4,4,10,1,Commerce,Journalist,AI Engineer,Software Engineer
+0,1,0,0,0,6,3,6,7,8,2,1,1,Science,Journalist,Content Writer,Legal Advisor
+0,1,0,0,0,7,7,10,5,9,7,2,0,Arts,Journalist,Dentist,Radiologist
+0,1,0,0,0,8,7,9,5,4,4,9,1,Arts,Journalist,Entrepreneur,Editor
+0,1,0,0,0,9,7,8,5,8,3,9,1,Science,Journalist,Fashion Designer,AI Engineer
+0,1,0,0,0,6,6,8,7,3,10,8,1,Arts,Journalist,Graphic Designer,Public Prosecutor
+0,1,0,0,0,10,8,8,5,9,8,10,1,Science,Journalist,Doctor,Content Writer
+0,1,0,0,0,4,3,9,6,8,7,6,1,Commerce,Journalist,Corporate Lawyer,Manager
+0,1,0,0,0,9,6,9,4,3,3,6,1,Commerce,Journalist,Author,Lawyer
+0,1,0,0,0,6,7,8,4,8,9,5,1,Commerce,Journalist,Cardiologist,Nurse
+0,1,0,0,0,5,4,6,3,4,4,9,1,Commerce,Journalist,Judge,Dentist
+0,1,0,0,0,9,3,3,8,8,9,3,1,Arts,Journalist,Cybersecurity Analyst,Software Engineer
+0,1,0,0,0,6,7,3,9,10,6,1,0,Commerce,Journalist,Lawyer,Cybersecurity Analyst
+0,1,0,0,0,7,6,3,4,7,9,8,1,Science,Journalist,Copywriter,Product Designer
+0,1,0,0,0,10,10,3,5,5,7,9,1,Commerce,Journalist,Editor,Judge
+0,1,0,0,0,8,9,9,4,3,9,7,1,Arts,Journalist,Surgeon,AI Engineer
+0,1,0,0,0,9,4,6,7,10,2,6,1,Arts,Journalist,Pharmacist,Editor
+0,1,0,0,0,4,4,10,10,3,5,4,0,Arts,Journalist,Neurologist,Legal Advisor
+0,1,0,0,0,7,10,7,6,7,4,8,1,Commerce,Journalist,Legal Advisor,Public Prosecutor
+0,1,0,0,0,6,4,4,8,3,5,4,1,Commerce,Journalist,Pharmacist,Graphic Designer
+0,1,0,0,0,5,5,9,10,8,9,5,1,Commerce,Journalist,Nurse,Judge
+0,1,0,0,0,3,6,7,8,4,6,9,1,Arts,Journalist,Doctor,Cybersecurity Analyst
+0,1,0,0,0,4,9,7,9,6,6,6,1,Science,Journalist,Physiotherapist,Radiologist
+0,1,0,0,0,4,3,7,9,9,10,6,1,Commerce,Journalist,Copywriter,AI Engineer
+0,1,0,0,0,3,7,9,4,5,4,2,0,Arts,Journalist,Lawyer,Fashion Designer
+0,1,0,0,0,3,6,8,9,3,5,5,1,Science,Journalist,Radiologist,Doctor
+0,1,0,0,0,10,9,6,9,9,3,6,1,Arts,Journalist,Radiologist,Fashion Designer
+0,1,0,0,0,5,5,9,7,6,4,7,0,Arts,Journalist,Animator,Manager
+0,1,0,0,0,10,3,6,8,4,10,5,1,Arts,Journalist,Manager,Neurologist
+0,1,0,0,0,9,5,4,4,3,1,9,1,Arts,Journalist,Software Engineer,Judge
+0,1,0,0,0,7,4,6,4,6,8,7,1,Arts,Journalist,Product Designer,Doctor
+0,1,0,0,0,10,6,3,6,10,5,2,0,Science,Journalist,Content Writer,Physiotherapist
+0,1,0,0,0,9,4,6,7,5,7,7,1,Science,Author,Software Engineer,Product Designer
+0,1,0,0,0,10,5,7,4,7,7,5,1,Commerce,Author,Legal Advisor,Lawyer
+0,1,0,0,0,3,5,4,9,6,1,6,0,Commerce,Author,Author,Cloud Engineer
+0,1,0,0,0,8,9,7,8,6,7,2,0,Arts,Author,Pharmacist,Editor
+0,1,0,0,0,10,4,7,7,3,1,4,1,Science,Author,Copywriter,AI Engineer
+0,1,0,0,0,9,3,6,5,4,7,7,1,Commerce,Author,Author,UI/UX Designer
+0,1,0,0,0,10,7,4,9,5,7,10,0,Arts,Author,Entrepreneur,AI Engineer
+0,1,0,0,0,3,3,10,6,10,1,3,1,Commerce,Author,Legal Advisor,Animator
+0,1,0,0,0,10,7,7,8,8,7,8,0,Arts,Author,Radiologist,Pharmacist
+0,1,0,0,0,9,8,7,5,7,4,9,1,Science,Author,Content Writer,Cybersecurity Analyst
+0,1,0,0,0,6,4,6,9,8,1,8,0,Arts,Author,Fashion Designer,Graphic Designer
+0,1,0,0,0,6,8,7,3,6,8,1,0,Arts,Author,UI/UX Designer,Copywriter
+0,1,0,0,0,4,7,6,10,10,7,10,1,Science,Author,Nurse,Animator
+0,1,0,0,0,7,4,6,9,7,3,10,1,Arts,Author,Accountant,AI Engineer
+0,1,0,0,0,9,8,9,10,9,8,2,1,Science,Author,Content Writer,Radiologist
+0,1,0,0,0,7,10,3,6,5,4,4,1,Arts,Author,Dentist,Cloud Engineer
+0,1,0,0,0,10,6,8,4,6,9,3,0,Arts,Author,Cybersecurity Analyst,Psychiatrist
+0,1,0,0,0,10,5,9,4,9,6,9,0,Science,Author,Marketing Manager,Surgeon
+0,1,0,0,0,3,3,9,7,9,3,7,1,Science,Author,Animator,Data Scientist
+0,1,0,0,0,6,7,6,8,6,6,4,1,Arts,Author,Judge,Nurse
+0,1,0,0,0,5,10,9,3,6,4,10,1,Arts,Author,Corporate Lawyer,Editor
+0,1,0,0,0,5,4,8,3,5,3,4,1,Science,Author,Editor,Cybersecurity Analyst
+0,1,0,0,0,9,8,6,7,5,8,5,1,Science,Author,Editor,UI/UX Designer
+0,1,0,0,0,3,10,6,4,6,9,10,0,Science,Author,Public Prosecutor,Data Scientist
+0,1,0,0,0,5,7,7,9,3,3,6,1,Arts,Author,Neurologist,Web Developer
+0,1,0,0,0,8,3,9,7,10,4,10,1,Commerce,Author,Cybersecurity Analyst,Radiologist
+0,1,0,0,0,8,9,8,9,10,5,6,0,Science,Author,Judge,Public Prosecutor
+0,1,0,0,0,3,4,3,9,6,8,8,1,Arts,Author,Surgeon,Editor
+0,1,0,0,0,4,3,5,5,8,1,8,1,Arts,Author,Copywriter,Content Writer
+0,1,0,0,0,8,10,7,4,5,7,4,0,Science,Author,Doctor,Marketing Manager
+0,1,0,0,0,4,4,7,9,10,10,7,1,Commerce,Author,Copywriter,Editor
+0,1,0,0,0,4,4,7,8,7,10,7,1,Science,Author,Cloud Engineer,Fashion Designer
+0,1,0,0,0,9,10,4,5,7,9,8,1,Arts,Author,Product Designer,Nurse
+0,1,0,0,0,10,5,8,9,8,5,4,1,Commerce,Author,Business Analyst,UI/UX Designer
+0,1,0,0,0,10,8,3,10,6,9,3,1,Science,Author,Psychiatrist,Legal Advisor
+0,1,0,0,0,8,10,9,6,3,4,5,0,Commerce,Author,AI Engineer,Data Scientist
+0,1,0,0,0,5,10,5,3,9,8,2,1,Science,Author,Journalist,Fashion Designer
+0,1,0,0,0,3,7,6,10,7,4,8,0,Arts,Author,Graphic Designer,Cybersecurity Analyst
+0,1,0,0,0,8,10,7,6,5,3,8,0,Science,Author,Cybersecurity Analyst,Editor
+0,1,0,0,0,4,5,5,6,7,4,5,0,Arts,Author,Data Scientist,Manager
+0,1,0,0,0,7,3,5,6,10,2,7,0,Science,Author,Neurologist,Copywriter
+0,1,0,0,0,9,6,4,3,6,8,3,0,Commerce,Author,Entrepreneur,Physiotherapist
+0,1,0,0,0,4,9,5,10,6,3,9,0,Arts,Author,Public Prosecutor,Corporate Lawyer
+0,1,0,0,0,10,4,7,9,6,7,7,0,Commerce,Author,Cloud Engineer,Product Designer
+0,1,0,0,0,8,3,3,4,4,5,8,1,Arts,Author,Web Developer,Surgeon
+0,1,0,0,0,9,7,6,4,6,3,1,0,Science,Author,Lawyer,Graphic Designer
+0,1,0,0,0,4,4,6,4,10,5,1,1,Commerce,Author,Animator,UI/UX Designer
+0,1,0,0,0,6,9,3,9,7,9,1,1,Science,Author,UI/UX Designer,Web Developer
+0,1,0,0,0,9,8,3,6,10,10,5,1,Commerce,Author,Public Prosecutor,Nurse
+0,1,0,0,0,5,8,4,3,5,9,5,0,Commerce,Author,Psychiatrist,Accountant
+0,1,0,0,0,8,7,3,9,6,4,7,1,Arts,Author,Editor,Radiologist
+0,1,0,0,0,9,10,5,9,10,5,10,1,Science,Author,Cardiologist,Journalist
+0,1,0,0,0,8,4,3,10,6,10,4,0,Arts,Author,Radiologist,Editor
+0,1,0,0,0,5,5,8,7,6,7,6,1,Science,Author,Author,Surgeon
+0,1,0,0,0,5,9,5,7,7,7,5,1,Science,Author,Business Analyst,Animator
+0,1,0,0,0,8,3,9,8,3,10,8,0,Science,Author,Business Analyst,Copywriter
+0,1,0,0,0,7,10,9,3,6,8,6,0,Commerce,Author,Surgeon,Graphic Designer
+0,1,0,0,0,9,6,7,7,8,2,10,1,Science,Author,Business Analyst,Pharmacist
+0,1,0,0,0,9,8,9,7,6,5,1,1,Commerce,Author,Physiotherapist,Dentist
+0,1,0,0,0,7,6,7,8,5,9,4,1,Science,Author,Content Writer,Neurologist
+0,1,0,0,0,8,10,6,10,6,6,2,1,Commerce,Editor,Psychiatrist,Data Scientist
+0,1,0,0,0,5,9,9,8,4,6,4,1,Arts,Editor,Physiotherapist,Cybersecurity Analyst
+0,1,0,0,0,6,3,8,10,8,6,5,1,Arts,Editor,Animator,Cardiologist
+0,1,0,0,0,9,8,7,6,4,7,9,0,Arts,Editor,Author,Doctor
+0,1,0,0,0,8,10,6,9,8,7,2,0,Commerce,Editor,Content Writer,Manager
+0,1,0,0,0,4,5,3,3,8,4,7,1,Arts,Editor,UI/UX Designer,Animator
+0,1,0,0,0,8,3,9,9,9,7,5,1,Commerce,Editor,Dentist,Lawyer
+0,1,0,0,0,5,5,4,7,6,4,6,0,Arts,Editor,Author,Lawyer
+0,1,0,0,0,9,6,6,8,7,10,7,0,Commerce,Editor,Graphic Designer,Radiologist
+0,1,0,0,0,8,7,6,6,7,10,8,1,Commerce,Editor,Lawyer,Corporate Lawyer
+0,1,0,0,0,6,9,9,3,10,9,4,0,Arts,Editor,Animator,Accountant
+0,1,0,0,0,4,5,6,9,4,1,10,1,Arts,Editor,Content Writer,UI/UX Designer
+0,1,0,0,0,5,9,5,3,9,9,1,0,Science,Editor,AI Engineer,Manager
+0,1,0,0,0,9,6,3,4,6,6,1,1,Science,Editor,Doctor,Cardiologist
+0,1,0,0,0,10,8,6,5,3,5,2,0,Science,Editor,Author,Cloud Engineer
+0,1,0,0,0,8,5,7,10,5,2,4,1,Arts,Editor,Cloud Engineer,Graphic Designer
+0,1,0,0,0,8,3,7,9,9,9,8,0,Arts,Editor,Manager,Data Scientist
+0,1,0,0,0,8,9,5,5,5,8,6,1,Arts,Editor,Neurologist,Product Designer
+0,1,0,0,0,7,6,8,5,10,10,1,0,Arts,Editor,Physiotherapist,Manager
+0,1,0,0,0,9,4,3,8,3,1,9,1,Commerce,Editor,Business Analyst,Surgeon
+0,1,0,0,0,10,9,8,8,9,5,2,0,Commerce,Editor,Data Scientist,Software Engineer
+0,1,0,0,0,10,7,9,4,10,5,1,1,Commerce,Editor,Corporate Lawyer,Cloud Engineer
+0,1,0,0,0,8,4,7,6,9,3,8,0,Commerce,Editor,UI/UX Designer,Surgeon
+0,1,0,0,0,3,7,10,4,7,1,8,0,Science,Editor,Cybersecurity Analyst,Business Analyst
+0,1,0,0,0,3,8,3,3,3,6,5,0,Arts,Editor,Neurologist,Cloud Engineer
+0,1,0,0,0,4,4,3,7,4,10,2,0,Science,Editor,AI Engineer,Graphic Designer
+0,1,0,0,0,10,6,6,5,9,2,4,1,Science,Editor,Nurse,Entrepreneur
+0,1,0,0,0,3,8,3,7,5,3,10,1,Commerce,Editor,Manager,Legal Advisor
+0,1,0,0,0,8,8,3,8,4,3,7,1,Arts,Editor,Physiotherapist,AI Engineer
+0,1,0,0,0,5,8,5,10,9,1,6,1,Science,Editor,Editor,Pharmacist
+0,1,0,0,0,7,9,4,5,8,3,9,0,Arts,Editor,Public Prosecutor,Cybersecurity Analyst
+0,1,0,0,0,5,8,4,7,6,6,3,1,Arts,Editor,AI Engineer,Doctor
+0,1,0,0,0,3,6,5,7,7,2,7,0,Science,Editor,Physiotherapist,Entrepreneur
+0,1,0,0,0,6,8,10,10,4,2,6,1,Commerce,Editor,Radiologist,Marketing Manager
+0,1,0,0,0,10,9,3,10,6,4,10,1,Arts,Editor,Animator,Cybersecurity Analyst
+0,1,0,0,0,8,8,6,10,7,9,7,0,Arts,Editor,Psychiatrist,Judge
+0,1,0,0,0,7,6,4,10,10,3,8,0,Science,Editor,Nurse,Corporate Lawyer
+0,1,0,0,0,10,9,8,8,8,5,1,1,Commerce,Editor,AI Engineer,Accountant
+0,1,0,0,0,6,10,9,9,8,4,8,1,Arts,Editor,Nurse,Dentist
+0,1,0,0,0,10,6,8,10,4,2,6,0,Commerce,Editor,Manager,Marketing Manager
+0,1,0,0,0,5,5,6,10,9,1,7,1,Arts,Editor,Journalist,Judge
+0,1,0,0,0,5,8,10,9,10,4,1,1,Commerce,Editor,Business Analyst,Public Prosecutor
+0,1,0,0,0,5,9,8,8,10,2,7,0,Science,Editor,Pharmacist,Editor
+0,1,0,0,0,4,4,4,3,7,8,3,1,Commerce,Editor,UI/UX Designer,Business Analyst
+0,1,0,0,0,5,5,5,6,3,6,7,0,Arts,Editor,Radiologist,Copywriter
+0,1,0,0,0,9,4,8,4,6,2,10,1,Science,Editor,Content Writer,Dentist
+0,1,0,0,0,7,5,8,10,8,1,2,1,Arts,Editor,Manager,Business Analyst
+0,1,0,0,0,8,10,5,3,7,4,6,0,Science,Editor,Cybersecurity Analyst,Neurologist
+0,1,0,0,0,9,4,8,6,3,2,7,1,Science,Editor,Software Engineer,Web Developer
+0,1,0,0,0,6,5,3,4,10,4,4,1,Arts,Editor,Fashion Designer,Nurse
+0,1,0,0,0,7,5,4,7,10,6,5,0,Science,Editor,Software Engineer,Neurologist
+0,1,0,0,0,7,7,5,5,7,9,7,0,Arts,Editor,Product Designer,Editor
+0,1,0,0,0,8,5,8,4,6,7,8,1,Arts,Editor,Copywriter,Dentist
+0,1,0,0,0,8,3,8,6,7,4,3,1,Science,Editor,Nurse,Business Analyst
+0,1,0,0,0,3,9,4,5,4,3,4,0,Commerce,Editor,Editor,Journalist
+0,1,0,0,0,9,9,7,5,6,1,9,0,Commerce,Editor,Dentist,Graphic Designer
+0,1,0,0,0,7,3,3,5,3,2,5,0,Commerce,Editor,Nurse,Data Scientist
+0,1,0,0,0,3,6,10,4,3,9,5,0,Science,Editor,Surgeon,Neurologist
+0,1,0,0,0,8,10,9,7,9,4,6,1,Commerce,Editor,Cardiologist,Data Scientist
+0,1,0,0,0,9,9,4,8,10,7,1,1,Commerce,Editor,Content Writer,Software Engineer
+0,1,0,0,0,9,4,8,5,4,5,9,0,Science,Copywriter,Marketing Manager,Graphic Designer
+0,1,0,0,0,9,9,3,6,5,2,10,1,Science,Copywriter,Animator,Web Developer
+0,1,0,0,0,3,10,10,3,5,9,4,1,Commerce,Copywriter,Legal Advisor,Lawyer
+0,1,0,0,0,3,5,9,9,3,5,3,0,Arts,Copywriter,Nurse,Marketing Manager
+0,1,0,0,0,10,10,5,6,4,4,2,0,Commerce,Copywriter,Product Designer,Lawyer
+0,1,0,0,0,7,3,4,7,7,10,1,1,Arts,Copywriter,Manager,Neurologist
+0,1,0,0,0,10,10,7,6,7,5,10,0,Commerce,Copywriter,Doctor,Fashion Designer
+0,1,0,0,0,4,4,6,5,6,3,8,1,Arts,Copywriter,AI Engineer,Cybersecurity Analyst
+0,1,0,0,0,8,3,8,6,10,10,9,1,Science,Copywriter,Data Scientist,Business Analyst
+0,1,0,0,0,9,7,7,8,9,1,5,0,Commerce,Copywriter,Lawyer,Cardiologist
+0,1,0,0,0,5,5,3,7,10,1,9,1,Arts,Copywriter,Manager,Animator
+0,1,0,0,0,7,5,7,10,3,8,1,1,Arts,Copywriter,Neurologist,Copywriter
+0,1,0,0,0,6,7,9,8,9,5,8,0,Science,Copywriter,Copywriter,Product Designer
+0,1,0,0,0,3,9,5,7,6,9,9,1,Commerce,Copywriter,Psychiatrist,Nurse
+0,1,0,0,0,7,10,8,9,6,4,6,1,Commerce,Copywriter,Cloud Engineer,Legal Advisor
+0,1,0,0,0,6,4,6,8,7,1,9,1,Commerce,Copywriter,Accountant,Business Analyst
+0,1,0,0,0,5,10,3,7,9,9,10,1,Commerce,Copywriter,Physiotherapist,Entrepreneur
+0,1,0,0,0,5,3,10,10,7,3,1,0,Commerce,Copywriter,Entrepreneur,Cybersecurity Analyst
+0,1,0,0,0,3,5,3,7,8,9,1,1,Arts,Copywriter,Data Scientist,Judge
+0,1,0,0,0,5,3,5,5,8,7,3,0,Commerce,Copywriter,Doctor,Content Writer
+0,1,0,0,0,7,7,9,5,6,6,6,0,Science,Copywriter,Data Scientist,Marketing Manager
+0,1,0,0,0,7,6,6,5,8,1,6,0,Science,Copywriter,Physiotherapist,Data Scientist
+0,1,0,0,0,7,7,9,10,5,8,7,0,Science,Copywriter,Dentist,Marketing Manager
+0,1,0,0,0,5,6,3,9,9,6,8,0,Science,Copywriter,Physiotherapist,Doctor
+0,1,0,0,0,6,4,5,8,6,2,10,0,Arts,Copywriter,Judge,Physiotherapist
+0,1,0,0,0,6,9,5,5,4,4,7,1,Arts,Copywriter,Radiologist,Graphic Designer
+0,1,0,0,0,5,5,5,7,3,5,2,1,Arts,Copywriter,Corporate Lawyer,Radiologist
+0,1,0,0,0,10,7,5,9,7,7,1,1,Science,Copywriter,Manager,Web Developer
+0,1,0,0,0,6,10,6,10,4,6,9,0,Arts,Copywriter,Business Analyst,Legal Advisor
+0,1,0,0,0,6,8,5,3,10,1,7,0,Science,Copywriter,Lawyer,Doctor
+0,1,0,0,0,9,10,4,10,10,2,3,0,Commerce,Copywriter,Doctor,Product Designer
+0,1,0,0,0,7,7,6,10,3,6,10,0,Arts,Copywriter,Public Prosecutor,Pharmacist
+0,1,0,0,0,4,8,5,5,10,9,8,1,Commerce,Copywriter,Neurologist,Copywriter
+0,1,0,0,0,3,10,8,8,5,2,5,0,Commerce,Copywriter,Cybersecurity Analyst,Neurologist
+0,1,0,0,0,3,3,3,8,4,10,2,0,Commerce,Copywriter,Corporate Lawyer,Dentist
+0,1,0,0,0,10,6,9,4,6,6,4,1,Commerce,Copywriter,Surgeon,Software Engineer
+0,1,0,0,0,10,10,4,4,5,3,7,0,Arts,Copywriter,Public Prosecutor,UI/UX Designer
+0,1,0,0,0,9,4,3,9,3,3,9,1,Arts,Copywriter,Lawyer,Radiologist
+0,1,0,0,0,3,7,9,8,9,2,3,0,Science,Copywriter,Psychiatrist,Accountant
+0,1,0,0,0,5,3,3,5,6,1,7,1,Arts,Copywriter,Author,Manager
+0,1,0,0,0,9,5,6,4,7,4,2,1,Arts,Copywriter,Manager,Judge
+0,1,0,0,0,4,6,8,8,4,7,10,0,Science,Copywriter,Pharmacist,Editor
+0,1,0,0,0,6,5,7,10,10,1,5,1,Science,Copywriter,Author,Legal Advisor
+0,1,0,0,0,3,8,4,5,4,2,1,0,Science,Copywriter,Entrepreneur,Nurse
+0,1,0,0,0,7,5,4,5,7,8,6,0,Science,Copywriter,Corporate Lawyer,Journalist
+0,1,0,0,0,9,3,3,3,5,8,9,0,Arts,Copywriter,Web Developer,Surgeon
+0,1,0,0,0,9,5,4,6,8,5,7,1,Arts,Copywriter,Entrepreneur,Animator
+0,1,0,0,0,5,5,8,6,3,6,2,1,Arts,Copywriter,Business Analyst,Cybersecurity Analyst
+0,1,0,0,0,6,3,8,8,7,9,6,0,Arts,Copywriter,Software Engineer,Web Developer
+0,1,0,0,0,6,5,3,9,10,1,7,1,Science,Copywriter,Cybersecurity Analyst,Doctor
+0,1,0,0,0,5,9,3,6,3,6,3,0,Science,Copywriter,Cybersecurity Analyst,Entrepreneur
+0,1,0,0,0,7,3,5,6,8,7,7,1,Science,Copywriter,Accountant,Surgeon
+0,1,0,0,0,10,10,5,6,3,9,10,0,Arts,Copywriter,Editor,Cybersecurity Analyst
+0,1,0,0,0,7,5,5,10,10,9,10,0,Arts,Copywriter,UI/UX Designer,Marketing Manager
+0,1,0,0,0,5,3,6,4,10,4,5,0,Commerce,Copywriter,Dentist,Neurologist
+0,1,0,0,0,7,7,5,7,4,4,9,0,Arts,Copywriter,Judge,Entrepreneur
+0,1,0,0,0,8,10,9,3,9,3,2,1,Science,Copywriter,Dentist,Lawyer
+0,1,0,0,0,3,5,10,6,4,1,3,0,Science,Copywriter,Accountant,UI/UX Designer
+0,1,0,0,0,6,3,8,8,7,1,9,1,Science,Copywriter,UI/UX Designer,Pharmacist
+0,1,0,0,0,10,3,3,10,6,4,9,0,Arts,Copywriter,Pharmacist,Fashion Designer
+0,0,0,0,1,10,10,9,6,9,9,5,0,Arts,Doctor,Fashion Designer,Marketing Manager
+0,0,0,0,1,5,10,9,9,7,4,5,0,Commerce,Doctor,Legal Advisor,Neurologist
+0,0,0,0,1,10,10,6,10,3,1,9,0,Science,Doctor,Manager,Web Developer
+0,0,0,0,1,9,8,6,10,4,3,10,0,Arts,Doctor,Pharmacist,Marketing Manager
+0,0,0,0,1,6,9,5,9,5,8,5,1,Arts,Doctor,AI Engineer,Legal Advisor
+0,0,0,0,1,4,6,7,4,6,7,5,0,Arts,Doctor,Web Developer,Cardiologist
+0,0,0,0,1,8,8,10,5,6,9,10,1,Arts,Doctor,Product Designer,Neurologist
+0,0,0,0,1,6,7,6,5,4,3,3,0,Arts,Doctor,Cybersecurity Analyst,Dentist
+0,0,0,0,1,9,3,7,7,6,2,4,1,Science,Doctor,Editor,Entrepreneur
+0,0,0,0,1,5,9,9,4,9,8,6,0,Commerce,Doctor,Dentist,Physiotherapist
+0,0,0,0,1,4,7,6,3,5,10,6,0,Commerce,Doctor,Business Analyst,Web Developer
+0,0,0,0,1,4,6,7,6,5,5,3,1,Science,Doctor,Radiologist,Graphic Designer
+0,0,0,0,1,8,8,4,9,8,1,1,0,Commerce,Doctor,Lawyer,Content Writer
+0,0,0,0,1,6,3,9,4,3,9,10,1,Commerce,Doctor,Software Engineer,Surgeon
+0,0,0,0,1,9,8,3,4,7,2,3,1,Science,Doctor,Product Designer,Web Developer
+0,0,0,0,1,10,4,10,6,10,6,7,1,Arts,Doctor,Graphic Designer,Pharmacist
+0,0,0,0,1,10,10,10,7,3,6,7,1,Commerce,Doctor,Neurologist,Cybersecurity Analyst
+0,0,0,0,1,5,5,10,4,5,9,4,1,Arts,Doctor,Editor,Doctor
+0,0,0,0,1,9,10,4,9,8,5,8,0,Science,Doctor,Copywriter,Manager
+0,0,0,0,1,7,6,10,3,8,10,8,0,Arts,Doctor,Data Scientist,Corporate Lawyer
+0,0,0,0,1,4,8,9,9,6,4,9,0,Arts,Doctor,Web Developer,Legal Advisor
+0,0,0,0,1,10,7,7,9,7,7,5,1,Commerce,Doctor,Business Analyst,Cybersecurity Analyst
+0,0,0,0,1,7,4,9,10,4,5,1,1,Arts,Doctor,Copywriter,Physiotherapist
+0,0,0,0,1,5,8,6,6,7,5,2,0,Science,Doctor,Fashion Designer,Web Developer
+0,0,0,0,1,8,8,3,7,4,4,4,1,Commerce,Doctor,Accountant,Software Engineer
+0,0,0,0,1,7,3,9,4,4,1,4,0,Science,Doctor,Animator,Data Scientist
+0,0,0,0,1,7,7,3,8,7,5,7,0,Science,Doctor,Radiologist,Editor
+0,0,0,0,1,7,7,9,9,4,2,3,0,Science,Doctor,Product Designer,Legal Advisor
+0,0,0,0,1,3,8,8,8,8,8,3,0,Commerce,Doctor,Radiologist,Marketing Manager
+0,0,0,0,1,5,7,6,10,10,10,10,0,Arts,Doctor,Fashion Designer,Accountant
+0,0,0,0,1,3,4,6,5,10,2,9,0,Science,Doctor,Journalist,Surgeon
+0,0,0,0,1,6,9,10,4,6,3,1,0,Arts,Doctor,Marketing Manager,Cloud Engineer
+0,0,0,0,1,5,8,9,5,6,4,5,0,Science,Doctor,Nurse,Cybersecurity Analyst
+0,0,0,0,1,5,6,8,5,10,2,3,1,Arts,Doctor,UI/UX Designer,Business Analyst
+0,0,0,0,1,3,7,4,10,4,9,8,0,Commerce,Doctor,Public Prosecutor,Legal Advisor
+0,0,0,0,1,7,8,7,10,3,3,1,0,Arts,Doctor,Business Analyst,Lawyer
+0,0,0,0,1,8,7,6,9,4,8,4,0,Commerce,Doctor,Editor,Doctor
+0,0,0,0,1,5,7,3,6,8,8,8,0,Arts,Doctor,Data Scientist,Fashion Designer
+0,0,0,0,1,7,7,10,4,5,7,9,1,Arts,Doctor,Software Engineer,Web Developer
+0,0,0,0,1,3,10,3,5,7,9,8,0,Arts,Doctor,Copywriter,Cybersecurity Analyst
+0,0,0,0,1,9,4,9,8,8,7,8,1,Science,Doctor,UI/UX Designer,Manager
+0,0,0,0,1,5,9,9,6,6,10,6,0,Commerce,Doctor,Author,Content Writer
+0,0,0,0,1,5,10,8,6,3,7,9,1,Commerce,Doctor,Product Designer,Radiologist
+0,0,0,0,1,10,9,10,3,9,4,10,0,Science,Doctor,Lawyer,Entrepreneur
+0,0,0,0,1,3,7,7,7,9,4,4,1,Science,Doctor,Doctor,Manager
+0,0,0,0,1,5,10,6,4,3,2,5,1,Science,Doctor,Software Engineer,Public Prosecutor
+0,0,0,0,1,7,7,4,3,4,5,8,0,Arts,Doctor,AI Engineer,Nurse
+0,0,0,0,1,8,5,9,10,10,4,5,1,Arts,Doctor,Accountant,AI Engineer
+0,0,0,0,1,5,3,6,8,10,6,6,1,Arts,Doctor,AI Engineer,Journalist
+0,0,0,0,1,3,8,5,5,6,2,2,1,Arts,Doctor,Physiotherapist,Cybersecurity Analyst
+0,0,0,0,1,9,9,4,6,5,9,9,0,Arts,Doctor,Web Developer,Pharmacist
+0,0,0,0,1,10,4,3,5,4,4,8,0,Commerce,Doctor,Nurse,Psychiatrist
+0,0,0,0,1,6,3,4,7,3,7,1,0,Commerce,Doctor,Lawyer,Data Scientist
+0,0,0,0,1,10,9,10,7,4,5,1,0,Commerce,Doctor,Software Engineer,Physiotherapist
+0,0,0,0,1,4,5,5,3,3,9,8,0,Science,Doctor,Copywriter,Fashion Designer
+0,0,0,0,1,3,9,3,9,3,4,5,0,Science,Doctor,Journalist,Marketing Manager
+0,0,0,0,1,4,6,7,6,7,8,8,1,Arts,Doctor,Psychiatrist,Accountant
+0,0,0,0,1,7,7,9,7,5,10,1,0,Science,Doctor,Manager,Dentist
+0,0,0,0,1,8,9,10,6,9,7,9,0,Commerce,Doctor,Corporate Lawyer,Entrepreneur
+0,0,0,0,1,5,9,3,10,10,6,9,1,Commerce,Doctor,Software Engineer,Lawyer
+0,0,0,0,1,10,6,6,8,9,6,3,0,Commerce,Surgeon,Pharmacist,Cardiologist
+0,0,0,0,1,7,7,3,3,10,5,6,0,Commerce,Surgeon,Judge,Business Analyst
+0,0,0,0,1,5,6,5,9,10,3,2,1,Commerce,Surgeon,Fashion Designer,Author
+0,0,0,0,1,5,6,3,6,8,8,4,1,Science,Surgeon,Accountant,Product Designer
+0,0,0,0,1,6,7,6,9,8,9,5,0,Science,Surgeon,Fashion Designer,Corporate Lawyer
+0,0,0,0,1,6,7,9,10,10,9,1,1,Arts,Surgeon,Data Scientist,Lawyer
+0,0,0,0,1,7,9,6,4,9,1,7,1,Commerce,Surgeon,Graphic Designer,AI Engineer
+0,0,0,0,1,9,4,3,3,3,7,5,0,Science,Surgeon,Doctor,Pharmacist
+0,0,0,0,1,4,5,6,9,8,9,8,1,Commerce,Surgeon,Physiotherapist,Judge
+0,0,0,0,1,9,7,4,4,10,9,6,0,Commerce,Surgeon,Judge,Physiotherapist
+0,0,0,0,1,6,7,7,9,8,5,2,0,Commerce,Surgeon,Legal Advisor,Fashion Designer
+0,0,0,0,1,3,10,8,4,10,8,7,0,Arts,Surgeon,Judge,Accountant
+0,0,0,0,1,9,3,8,5,6,7,1,0,Arts,Surgeon,Data Scientist,Neurologist
+0,0,0,0,1,8,5,5,7,7,5,1,0,Arts,Surgeon,Public Prosecutor,Accountant
+0,0,0,0,1,3,6,5,10,8,8,3,1,Arts,Surgeon,Physiotherapist,Cybersecurity Analyst
+0,0,0,0,1,6,9,5,7,8,4,1,1,Arts,Surgeon,Neurologist,Manager
+0,0,0,0,1,3,10,4,5,7,9,2,1,Science,Surgeon,Cybersecurity Analyst,Public Prosecutor
+0,0,0,0,1,4,8,6,9,8,1,10,0,Commerce,Surgeon,Fashion Designer,Cardiologist
+0,0,0,0,1,4,4,3,10,4,1,10,1,Arts,Surgeon,Legal Advisor,Radiologist
+0,0,0,0,1,3,4,8,3,7,4,9,0,Arts,Surgeon,Psychiatrist,Cloud Engineer
+0,0,0,0,1,8,10,7,9,8,7,1,1,Arts,Surgeon,Accountant,Copywriter
+0,0,0,0,1,3,10,10,8,4,10,4,0,Arts,Surgeon,Editor,Author
+0,0,0,0,1,7,5,10,3,3,3,9,1,Arts,Surgeon,Dentist,Data Scientist
+0,0,0,0,1,8,8,3,8,5,6,10,1,Science,Surgeon,Psychiatrist,Legal Advisor
+0,0,0,0,1,10,7,3,10,5,10,9,1,Arts,Surgeon,Author,AI Engineer
+0,0,0,0,1,3,8,6,9,9,2,8,1,Commerce,Surgeon,Marketing Manager,Radiologist
+0,0,0,0,1,10,7,4,10,5,6,1,0,Science,Surgeon,Dentist,Public Prosecutor
+0,0,0,0,1,3,6,8,6,5,3,4,1,Commerce,Surgeon,AI Engineer,Business Analyst
+0,0,0,0,1,9,5,5,9,8,1,9,0,Science,Surgeon,Content Writer,Animator
+0,0,0,0,1,3,5,8,7,9,8,6,0,Arts,Surgeon,Cloud Engineer,Copywriter
+0,0,0,0,1,5,10,9,5,10,5,4,0,Arts,Surgeon,Journalist,Pharmacist
+0,0,0,0,1,10,3,8,10,5,10,10,0,Science,Surgeon,Cloud Engineer,Pharmacist
+0,0,0,0,1,9,9,6,6,3,7,6,1,Commerce,Surgeon,Legal Advisor,Lawyer
+0,0,0,0,1,4,4,9,5,10,6,2,1,Commerce,Surgeon,Dentist,Content Writer
+0,0,0,0,1,3,8,7,3,3,5,2,1,Commerce,Surgeon,Accountant,Cybersecurity Analyst
+0,0,0,0,1,6,7,10,9,7,6,3,1,Science,Surgeon,Cybersecurity Analyst,UI/UX Designer
+0,0,0,0,1,4,6,7,7,4,5,6,0,Commerce,Surgeon,Cardiologist,Cloud Engineer
+0,0,0,0,1,4,5,10,3,7,6,4,1,Commerce,Surgeon,Cardiologist,UI/UX Designer
+0,0,0,0,1,7,8,4,10,10,4,8,0,Commerce,Surgeon,AI Engineer,Physiotherapist
+0,0,0,0,1,4,7,8,5,8,5,8,0,Science,Surgeon,Journalist,Software Engineer
+0,0,0,0,1,9,9,9,10,4,5,4,1,Science,Surgeon,Product Designer,Manager
+0,0,0,0,1,8,4,6,4,5,7,6,1,Science,Surgeon,Pharmacist,Software Engineer
+0,0,0,0,1,3,5,9,5,8,10,10,0,Arts,Surgeon,Product Designer,Animator
+0,0,0,0,1,10,10,5,8,4,4,8,0,Commerce,Surgeon,UI/UX Designer,Web Developer
+0,0,0,0,1,10,6,6,6,9,3,10,0,Arts,Surgeon,Data Scientist,Nurse
+0,0,0,0,1,6,4,8,3,5,3,6,0,Commerce,Surgeon,Fashion Designer,Doctor
+0,0,0,0,1,7,3,8,6,9,6,9,1,Commerce,Surgeon,Entrepreneur,Physiotherapist
+0,0,0,0,1,8,8,9,5,4,9,7,1,Arts,Surgeon,Accountant,Data Scientist
+0,0,0,0,1,5,8,5,6,10,10,4,1,Commerce,Surgeon,Editor,Marketing Manager
+0,0,0,0,1,3,9,8,3,3,6,4,0,Commerce,Surgeon,Neurologist,Data Scientist
+0,0,0,0,1,8,4,9,8,3,2,3,1,Arts,Surgeon,Surgeon,Physiotherapist
+0,0,0,0,1,7,5,7,4,8,6,5,1,Science,Surgeon,AI Engineer,Cardiologist
+0,0,0,0,1,4,9,5,3,4,4,1,0,Science,Surgeon,Cloud Engineer,Marketing Manager
+0,0,0,0,1,8,3,8,8,6,1,1,0,Arts,Surgeon,Web Developer,Journalist
+0,0,0,0,1,7,3,10,3,7,8,6,0,Commerce,Surgeon,Surgeon,Neurologist
+0,0,0,0,1,10,10,4,5,6,4,3,0,Science,Surgeon,Cybersecurity Analyst,Author
+0,0,0,0,1,4,3,3,10,7,6,7,0,Commerce,Surgeon,Content Writer,Doctor
+0,0,0,0,1,6,3,4,9,10,4,2,1,Arts,Surgeon,Physiotherapist,Pharmacist
+0,0,0,0,1,4,10,4,10,7,9,10,0,Arts,Surgeon,Surgeon,Entrepreneur
+0,0,0,0,1,3,6,3,6,9,5,2,1,Arts,Surgeon,Pharmacist,Author
+0,0,0,0,1,8,7,10,4,5,1,5,1,Arts,Nurse,Journalist,Physiotherapist
+0,0,0,0,1,6,10,4,7,9,4,7,0,Science,Nurse,Dentist,Entrepreneur
+0,0,0,0,1,4,6,3,6,5,3,9,1,Commerce,Nurse,Accountant,Cardiologist
+0,0,0,0,1,10,8,5,3,10,8,6,1,Arts,Nurse,AI Engineer,Editor
+0,0,0,0,1,4,8,10,3,3,7,2,1,Science,Nurse,Product Designer,Animator
+0,0,0,0,1,9,6,8,9,4,6,3,0,Commerce,Nurse,Editor,Data Scientist
+0,0,0,0,1,9,6,3,10,5,1,5,1,Science,Nurse,UI/UX Designer,Journalist
+0,0,0,0,1,9,5,6,8,5,1,6,0,Commerce,Nurse,AI Engineer,Animator
+0,0,0,0,1,3,6,7,10,4,7,1,0,Science,Nurse,Dentist,Marketing Manager
+0,0,0,0,1,4,7,7,7,6,6,3,1,Commerce,Nurse,Lawyer,Business Analyst
+0,0,0,0,1,6,6,5,5,9,10,10,0,Science,Nurse,Data Scientist,Accountant
+0,0,0,0,1,4,4,10,3,3,10,10,1,Commerce,Nurse,Legal Advisor,Dentist
+0,0,0,0,1,10,8,9,7,10,6,6,0,Science,Nurse,Content Writer,Public Prosecutor
+0,0,0,0,1,4,10,5,8,4,9,8,1,Science,Nurse,Cloud Engineer,Radiologist
+0,0,0,0,1,9,8,10,7,9,1,9,0,Commerce,Nurse,Judge,Accountant
+0,0,0,0,1,5,3,8,3,9,2,6,0,Commerce,Nurse,Software Engineer,Journalist
+0,0,0,0,1,8,10,10,4,8,10,2,0,Commerce,Nurse,Accountant,Lawyer
+0,0,0,0,1,8,4,4,7,5,10,7,1,Arts,Nurse,Nurse,Graphic Designer
+0,0,0,0,1,8,8,8,6,4,4,2,0,Commerce,Nurse,Lawyer,Legal Advisor
+0,0,0,0,1,5,8,3,9,9,4,2,0,Arts,Nurse,Radiologist,Surgeon
+0,0,0,0,1,10,10,4,9,5,6,6,0,Arts,Nurse,Editor,Cardiologist
+0,0,0,0,1,6,4,3,3,8,9,9,1,Science,Nurse,Content Writer,Public Prosecutor
+0,0,0,0,1,7,9,7,7,5,2,6,0,Arts,Nurse,Journalist,Nurse
+0,0,0,0,1,9,5,5,4,10,3,7,1,Science,Nurse,Surgeon,Physiotherapist
+0,0,0,0,1,3,4,3,7,7,7,10,0,Science,Nurse,Dentist,Psychiatrist
+0,0,0,0,1,4,3,9,8,9,4,8,0,Arts,Nurse,Entrepreneur,Accountant
+0,0,0,0,1,5,9,9,6,9,1,6,0,Science,Nurse,AI Engineer,Dentist
+0,0,0,0,1,3,5,8,8,5,3,3,1,Commerce,Nurse,Graphic Designer,Cybersecurity Analyst
+0,0,0,0,1,7,8,3,7,7,2,8,0,Arts,Nurse,Web Developer,Dentist
+0,0,0,0,1,9,5,6,7,5,10,1,1,Science,Nurse,Legal Advisor,Neurologist
+0,0,0,0,1,4,3,10,6,7,7,8,0,Commerce,Nurse,AI Engineer,Public Prosecutor
+0,0,0,0,1,8,6,5,10,3,9,7,1,Science,Nurse,Software Engineer,Public Prosecutor
+0,0,0,0,1,10,7,7,8,10,4,10,0,Science,Nurse,Copywriter,Neurologist
+0,0,0,0,1,6,3,4,6,3,6,2,0,Commerce,Nurse,Judge,Manager
+0,0,0,0,1,9,8,3,3,6,2,10,1,Science,Nurse,Accountant,Animator
+0,0,0,0,1,4,3,3,9,3,6,6,1,Science,Nurse,Public Prosecutor,Author
+0,0,0,0,1,3,7,10,8,4,7,8,1,Science,Nurse,Doctor,Copywriter
+0,0,0,0,1,6,8,5,10,5,10,2,0,Science,Nurse,Author,Entrepreneur
+0,0,0,0,1,8,5,7,6,4,5,1,0,Commerce,Nurse,Journalist,Psychiatrist
+0,0,0,0,1,7,7,3,5,5,6,4,1,Commerce,Nurse,Radiologist,Dentist
+0,0,0,0,1,7,7,8,6,9,2,1,1,Science,Nurse,Neurologist,Accountant
+0,0,0,0,1,10,8,4,3,8,3,8,0,Commerce,Nurse,Dentist,Cloud Engineer
+0,0,0,0,1,9,8,4,8,8,10,1,1,Arts,Nurse,Legal Advisor,Judge
+0,0,0,0,1,8,3,9,9,5,2,7,1,Science,Nurse,Doctor,Author
+0,0,0,0,1,8,3,7,8,8,3,1,1,Commerce,Nurse,Copywriter,Cloud Engineer
+0,0,0,0,1,5,6,6,10,8,3,10,1,Arts,Nurse,Lawyer,Animator
+0,0,0,0,1,10,6,3,7,8,3,9,0,Arts,Nurse,Physiotherapist,Product Designer
+0,0,0,0,1,6,5,9,4,7,2,7,0,Arts,Nurse,Graphic Designer,Content Writer
+0,0,0,0,1,7,4,10,3,5,8,3,1,Science,Nurse,Corporate Lawyer,Content Writer
+0,0,0,0,1,9,3,7,8,6,9,9,1,Arts,Nurse,Data Scientist,Corporate Lawyer
+0,0,0,0,1,7,9,6,5,5,1,10,1,Science,Nurse,Editor,Product Designer
+0,0,0,0,1,7,4,9,3,10,3,4,1,Science,Nurse,Corporate Lawyer,Cardiologist
+0,0,0,0,1,6,7,6,7,7,9,6,1,Science,Nurse,Entrepreneur,Data Scientist
+0,0,0,0,1,7,5,10,10,7,9,7,1,Commerce,Nurse,Cardiologist,Doctor
+0,0,0,0,1,4,9,10,7,5,3,9,0,Arts,Nurse,Doctor,Neurologist
+0,0,0,0,1,8,8,9,10,6,1,8,1,Arts,Nurse,Cardiologist,Copywriter
+0,0,0,0,1,4,9,9,3,3,1,1,0,Arts,Nurse,Public Prosecutor,Cardiologist
+0,0,0,0,1,4,4,4,9,7,10,4,0,Commerce,Nurse,Radiologist,UI/UX Designer
+0,0,0,0,1,6,6,5,7,6,7,7,0,Commerce,Nurse,Editor,Product Designer
+0,0,0,0,1,6,10,10,9,3,3,7,1,Science,Nurse,Product Designer,Graphic Designer
+0,0,0,0,1,9,3,3,4,6,3,7,0,Science,Pharmacist,Editor,Web Developer
+0,0,0,0,1,7,7,5,5,6,5,5,0,Arts,Pharmacist,Corporate Lawyer,Manager
+0,0,0,0,1,10,10,3,8,6,4,9,1,Arts,Pharmacist,Public Prosecutor,Software Engineer
+0,0,0,0,1,10,5,8,7,8,3,4,0,Science,Pharmacist,Physiotherapist,Business Analyst
+0,0,0,0,1,6,10,8,6,9,5,2,0,Commerce,Pharmacist,Accountant,Journalist
+0,0,0,0,1,9,3,5,8,8,9,5,0,Commerce,Pharmacist,Web Developer,Author
+0,0,0,0,1,8,8,5,7,9,5,2,0,Science,Pharmacist,Graphic Designer,Animator
+0,0,0,0,1,6,4,5,3,8,6,8,0,Arts,Pharmacist,Animator,Doctor
+0,0,0,0,1,4,10,9,4,3,7,6,0,Arts,Pharmacist,Marketing Manager,Psychiatrist
+0,0,0,0,1,9,7,6,6,6,5,9,1,Science,Pharmacist,Accountant,UI/UX Designer
+0,0,0,0,1,9,7,4,9,6,1,8,1,Commerce,Pharmacist,Corporate Lawyer,Copywriter
+0,0,0,0,1,6,6,3,10,7,1,7,1,Commerce,Pharmacist,Accountant,Manager
+0,0,0,0,1,5,5,5,3,7,6,6,0,Science,Pharmacist,Copywriter,AI Engineer
+0,0,0,0,1,9,10,4,5,4,5,4,1,Arts,Pharmacist,Author,Software Engineer
+0,0,0,0,1,5,7,4,8,4,2,1,1,Science,Pharmacist,Animator,Cardiologist
+0,0,0,0,1,8,10,10,6,7,7,5,0,Commerce,Pharmacist,UI/UX Designer,Cloud Engineer
+0,0,0,0,1,7,9,6,4,3,8,5,0,Commerce,Pharmacist,Cardiologist,Nurse
+0,0,0,0,1,8,8,8,3,9,9,8,0,Science,Pharmacist,Data Scientist,Web Developer
+0,0,0,0,1,7,10,4,5,6,10,9,1,Arts,Pharmacist,Doctor,Psychiatrist
+0,0,0,0,1,4,3,5,8,5,8,4,0,Arts,Pharmacist,Doctor,Editor
+0,0,0,0,1,9,6,9,8,6,4,5,0,Arts,Pharmacist,Manager,UI/UX Designer
+0,0,0,0,1,9,4,4,7,3,6,6,1,Commerce,Pharmacist,AI Engineer,Journalist
+0,0,0,0,1,6,6,9,8,7,1,10,0,Science,Pharmacist,Product Designer,Accountant
+0,0,0,0,1,4,8,8,6,7,9,9,1,Science,Pharmacist,UI/UX Designer,Legal Advisor
+0,0,0,0,1,7,5,6,6,7,10,5,0,Science,Pharmacist,Graphic Designer,Nurse
+0,0,0,0,1,4,10,6,8,8,5,1,0,Science,Pharmacist,Pharmacist,Product Designer
+0,0,0,0,1,10,6,5,7,10,6,2,0,Arts,Pharmacist,Psychiatrist,Legal Advisor
+0,0,0,0,1,10,10,6,3,7,1,1,1,Commerce,Pharmacist,AI Engineer,Nurse
+0,0,0,0,1,9,8,8,8,5,7,2,0,Science,Pharmacist,Dentist,Judge
+0,0,0,0,1,9,8,5,9,8,4,9,0,Science,Pharmacist,Cybersecurity Analyst,Fashion Designer
+0,0,0,0,1,8,5,4,10,7,5,9,0,Arts,Pharmacist,Copywriter,Radiologist
+0,0,0,0,1,8,3,3,9,9,10,9,0,Commerce,Pharmacist,Software Engineer,Animator
+0,0,0,0,1,8,4,5,9,6,8,8,0,Arts,Pharmacist,Cloud Engineer,Software Engineer
+0,0,0,0,1,7,5,3,4,3,3,2,1,Science,Pharmacist,Product Designer,Web Developer
+0,0,0,0,1,5,5,4,4,6,3,5,1,Science,Pharmacist,UI/UX Designer,Marketing Manager
+0,0,0,0,1,5,7,7,8,3,10,1,1,Science,Pharmacist,Entrepreneur,Corporate Lawyer
+0,0,0,0,1,3,7,3,9,3,5,7,0,Arts,Pharmacist,Radiologist,Author
+0,0,0,0,1,5,7,10,4,6,1,3,0,Commerce,Pharmacist,Entrepreneur,Surgeon
+0,0,0,0,1,7,6,8,5,4,10,8,0,Science,Pharmacist,Psychiatrist,Entrepreneur
+0,0,0,0,1,10,4,8,3,10,9,6,1,Commerce,Pharmacist,Editor,Physiotherapist
+0,0,0,0,1,10,5,6,3,4,4,4,1,Science,Pharmacist,Product Designer,AI Engineer
+0,0,0,0,1,7,3,5,5,10,10,5,0,Science,Pharmacist,Business Analyst,AI Engineer
+0,0,0,0,1,5,9,10,10,7,2,4,0,Arts,Pharmacist,Pharmacist,Nurse
+0,0,0,0,1,3,4,4,9,9,9,8,0,Science,Pharmacist,Corporate Lawyer,Neurologist
+0,0,0,0,1,5,3,9,6,3,7,7,0,Science,Pharmacist,Physiotherapist,Cloud Engineer
+0,0,0,0,1,3,6,7,10,9,8,6,0,Arts,Pharmacist,Business Analyst,AI Engineer
+0,0,0,0,1,8,6,6,7,10,6,7,0,Science,Pharmacist,Graphic Designer,Pharmacist
+0,0,0,0,1,4,3,4,9,9,8,2,0,Arts,Pharmacist,Neurologist,Cloud Engineer
+0,0,0,0,1,7,5,4,8,3,10,6,1,Commerce,Pharmacist,Lawyer,Copywriter
+0,0,0,0,1,5,8,4,6,10,6,2,1,Commerce,Pharmacist,Lawyer,Public Prosecutor
+0,0,0,0,1,4,6,5,10,9,9,5,1,Science,Pharmacist,Doctor,Entrepreneur
+0,0,0,0,1,9,7,8,7,3,2,2,0,Science,Pharmacist,Dentist,Author
+0,0,0,0,1,4,8,10,3,4,5,4,1,Commerce,Pharmacist,Software Engineer,Radiologist
+0,0,0,0,1,3,9,3,8,7,8,8,1,Arts,Pharmacist,Surgeon,Animator
+0,0,0,0,1,7,5,3,4,6,1,1,0,Commerce,Pharmacist,Nurse,Pharmacist
+0,0,0,0,1,8,9,8,8,4,9,3,0,Science,Pharmacist,Business Analyst,Fashion Designer
+0,0,0,0,1,5,3,10,5,7,10,4,0,Arts,Pharmacist,Dentist,Business Analyst
+0,0,0,0,1,9,7,10,9,5,3,8,1,Science,Pharmacist,Marketing Manager,Nurse
+0,0,0,0,1,4,10,9,7,4,8,7,0,Arts,Pharmacist,Software Engineer,Psychiatrist
+0,0,0,0,1,6,5,7,8,4,2,3,1,Arts,Pharmacist,Manager,Doctor
+0,0,0,0,1,9,4,9,3,7,6,10,1,Arts,Physiotherapist,Legal Advisor,Journalist
+0,0,0,0,1,8,5,8,4,7,2,9,1,Science,Physiotherapist,Radiologist,UI/UX Designer
+0,0,0,0,1,5,7,9,4,9,10,2,1,Arts,Physiotherapist,Cloud Engineer,Author
+0,0,0,0,1,8,4,6,3,6,6,9,0,Arts,Physiotherapist,Corporate Lawyer,Business Analyst
+0,0,0,0,1,9,10,3,5,7,10,10,0,Commerce,Physiotherapist,Data Scientist,Judge
+0,0,0,0,1,8,10,5,9,10,4,8,1,Commerce,Physiotherapist,Web Developer,Public Prosecutor
+0,0,0,0,1,9,10,5,6,6,2,8,0,Commerce,Physiotherapist,Graphic Designer,Journalist
+0,0,0,0,1,10,9,3,6,7,2,2,1,Science,Physiotherapist,Neurologist,Entrepreneur
+0,0,0,0,1,4,4,9,6,6,8,1,0,Arts,Physiotherapist,Cybersecurity Analyst,Psychiatrist
+0,0,0,0,1,8,4,7,9,4,6,9,1,Commerce,Physiotherapist,Public Prosecutor,Cloud Engineer
+0,0,0,0,1,10,6,10,10,5,10,8,0,Science,Physiotherapist,Entrepreneur,Cybersecurity Analyst
+0,0,0,0,1,7,8,5,4,3,6,9,1,Commerce,Physiotherapist,Neurologist,Software Engineer
+0,0,0,0,1,8,9,8,7,8,1,10,0,Science,Physiotherapist,UI/UX Designer,Content Writer
+0,0,0,0,1,4,5,7,6,4,4,6,1,Commerce,Physiotherapist,Manager,Web Developer
+0,0,0,0,1,3,8,4,3,10,1,7,0,Arts,Physiotherapist,Graphic Designer,Radiologist
+0,0,0,0,1,7,7,9,5,8,6,7,1,Arts,Physiotherapist,Graphic Designer,Public Prosecutor
+0,0,0,0,1,7,4,3,6,9,2,1,0,Science,Physiotherapist,Graphic Designer,Copywriter
+0,0,0,0,1,9,3,4,3,6,2,6,0,Science,Physiotherapist,Graphic Designer,Public Prosecutor
+0,0,0,0,1,5,7,5,6,10,3,6,1,Arts,Physiotherapist,Software Engineer,Cybersecurity Analyst
+0,0,0,0,1,6,3,8,7,4,7,6,1,Science,Physiotherapist,Data Scientist,Corporate Lawyer
+0,0,0,0,1,5,9,8,9,6,7,1,1,Arts,Physiotherapist,Judge,Data Scientist
+0,0,0,0,1,7,10,8,3,8,4,10,1,Science,Physiotherapist,Radiologist,Cloud Engineer
+0,0,0,0,1,10,10,5,3,7,4,10,0,Commerce,Physiotherapist,Graphic Designer,Pharmacist
+0,0,0,0,1,8,10,8,4,6,7,2,0,Commerce,Physiotherapist,Cybersecurity Analyst,Legal Advisor
+0,0,0,0,1,5,9,4,9,9,8,7,1,Arts,Physiotherapist,Nurse,Lawyer
+0,0,0,0,1,9,3,5,5,3,4,8,1,Commerce,Physiotherapist,Pharmacist,Physiotherapist
+0,0,0,0,1,10,4,6,7,10,4,2,0,Science,Physiotherapist,Nurse,Accountant
+0,0,0,0,1,9,10,5,3,5,8,5,0,Commerce,Physiotherapist,Radiologist,Judge
+0,0,0,0,1,10,9,8,5,9,5,1,0,Commerce,Physiotherapist,Entrepreneur,Content Writer
+0,0,0,0,1,9,9,7,8,8,5,3,0,Arts,Physiotherapist,Legal Advisor,Cybersecurity Analyst
+0,0,0,0,1,7,8,6,10,8,9,9,0,Commerce,Physiotherapist,Cybersecurity Analyst,Dentist
+0,0,0,0,1,8,6,7,4,10,1,4,0,Science,Physiotherapist,Judge,Physiotherapist
+0,0,0,0,1,5,8,5,6,9,8,2,1,Arts,Physiotherapist,Editor,Accountant
+0,0,0,0,1,3,6,7,10,4,1,2,0,Arts,Physiotherapist,Animator,Dentist
+0,0,0,0,1,9,8,10,6,3,1,7,1,Commerce,Physiotherapist,Author,Web Developer
+0,0,0,0,1,6,8,4,8,7,4,5,1,Science,Physiotherapist,Fashion Designer,Radiologist
+0,0,0,0,1,10,10,9,6,10,10,5,0,Arts,Physiotherapist,Cybersecurity Analyst,Content Writer
+0,0,0,0,1,3,7,5,8,7,1,1,1,Arts,Physiotherapist,Nurse,Judge
+0,0,0,0,1,9,8,3,9,6,8,9,0,Arts,Physiotherapist,Cloud Engineer,Surgeon
+0,0,0,0,1,5,9,3,9,9,9,7,1,Arts,Physiotherapist,UI/UX Designer,Radiologist
+0,0,0,0,1,7,10,3,3,3,8,1,1,Science,Physiotherapist,Corporate Lawyer,Animator
+0,0,0,0,1,6,3,4,3,6,7,8,1,Commerce,Physiotherapist,Cloud Engineer,Product Designer
+0,0,0,0,1,10,9,4,3,7,6,8,0,Arts,Physiotherapist,Lawyer,Copywriter
+0,0,0,0,1,10,8,3,9,8,5,8,0,Science,Physiotherapist,Psychiatrist,Animator
+0,0,0,0,1,4,7,10,7,6,3,4,0,Science,Physiotherapist,Lawyer,Cybersecurity Analyst
+0,0,0,0,1,10,9,5,10,4,9,8,0,Arts,Physiotherapist,Data Scientist,Graphic Designer
+0,0,0,0,1,10,3,3,8,9,7,7,0,Science,Physiotherapist,Radiologist,Software Engineer
+0,0,0,0,1,5,3,3,3,7,3,6,1,Arts,Physiotherapist,Nurse,Pharmacist
+0,0,0,0,1,6,8,5,10,10,4,8,0,Science,Physiotherapist,Neurologist,Doctor
+0,0,0,0,1,4,4,10,7,9,9,5,0,Science,Physiotherapist,Corporate Lawyer,Web Developer
+0,0,0,0,1,9,3,4,7,3,8,5,0,Arts,Physiotherapist,Product Designer,Doctor
+0,0,0,0,1,5,3,5,6,9,3,4,1,Commerce,Physiotherapist,Fashion Designer,Marketing Manager
+0,0,0,0,1,7,6,6,9,8,3,4,0,Science,Physiotherapist,Cybersecurity Analyst,Nurse
+0,0,0,0,1,4,4,6,5,7,4,4,0,Commerce,Physiotherapist,Nurse,Cybersecurity Analyst
+0,0,0,0,1,10,5,5,4,6,8,4,1,Arts,Physiotherapist,Content Writer,Doctor
+0,0,0,0,1,8,9,7,4,8,5,6,1,Arts,Physiotherapist,Cardiologist,Cloud Engineer
+0,0,0,0,1,10,4,5,5,10,3,1,1,Commerce,Physiotherapist,Corporate Lawyer,Judge
+0,0,0,0,1,8,4,8,5,8,2,3,1,Science,Physiotherapist,Manager,Cloud Engineer
+0,0,0,0,1,8,3,10,8,10,2,10,1,Commerce,Physiotherapist,Psychiatrist,Business Analyst
+0,0,0,0,1,8,5,4,6,3,5,3,0,Commerce,Physiotherapist,Cloud Engineer,Web Developer
+0,0,0,0,1,9,7,10,4,8,8,7,1,Commerce,Cardiologist,Journalist,Software Engineer
+0,0,0,0,1,9,8,8,3,6,9,2,1,Science,Cardiologist,Editor,Judge
+0,0,0,0,1,6,8,10,3,6,6,7,1,Commerce,Cardiologist,Author,Public Prosecutor
+0,0,0,0,1,5,7,8,3,8,10,1,1,Science,Cardiologist,Software Engineer,Data Scientist
+0,0,0,0,1,9,9,8,6,9,9,9,0,Commerce,Cardiologist,Accountant,Software Engineer
+0,0,0,0,1,8,5,10,4,4,7,4,1,Commerce,Cardiologist,Cloud Engineer,Journalist
+0,0,0,0,1,3,4,5,3,8,3,4,0,Arts,Cardiologist,Surgeon,Accountant
+0,0,0,0,1,4,9,9,9,6,4,1,0,Arts,Cardiologist,Accountant,Surgeon
+0,0,0,0,1,9,9,3,10,7,4,9,0,Commerce,Cardiologist,Cloud Engineer,Radiologist
+0,0,0,0,1,8,3,7,8,9,3,8,1,Commerce,Cardiologist,Data Scientist,Fashion Designer
+0,0,0,0,1,6,8,3,9,7,9,2,1,Arts,Cardiologist,Data Scientist,Editor
+0,0,0,0,1,9,3,8,4,3,1,6,1,Science,Cardiologist,Fashion Designer,UI/UX Designer
+0,0,0,0,1,6,10,6,5,9,3,4,0,Arts,Cardiologist,Editor,Product Designer
+0,0,0,0,1,4,3,9,6,9,1,3,0,Arts,Cardiologist,Journalist,Fashion Designer
+0,0,0,0,1,7,5,7,3,10,3,7,0,Science,Cardiologist,Author,Animator
+0,0,0,0,1,4,3,4,4,10,6,8,0,Commerce,Cardiologist,Accountant,Journalist
+0,0,0,0,1,8,4,10,8,10,10,10,0,Arts,Cardiologist,Author,UI/UX Designer
+0,0,0,0,1,8,6,3,10,10,3,3,0,Arts,Cardiologist,Physiotherapist,Web Developer
+0,0,0,0,1,5,9,10,7,5,6,8,1,Science,Cardiologist,Data Scientist,Product Designer
+0,0,0,0,1,7,9,5,5,9,3,2,0,Commerce,Cardiologist,Copywriter,Nurse
+0,0,0,0,1,10,3,5,7,3,7,10,1,Science,Cardiologist,Editor,Psychiatrist
+0,0,0,0,1,5,10,3,4,3,2,3,0,Science,Cardiologist,Copywriter,Editor
+0,0,0,0,1,10,5,8,5,8,1,10,0,Commerce,Cardiologist,UI/UX Designer,Business Analyst
+0,0,0,0,1,7,3,7,10,10,9,7,0,Commerce,Cardiologist,Pharmacist,Content Writer
+0,0,0,0,1,9,8,5,9,9,8,2,1,Arts,Cardiologist,Cybersecurity Analyst,Legal Advisor
+0,0,0,0,1,10,10,10,7,9,5,10,1,Science,Cardiologist,Radiologist,Web Developer
+0,0,0,0,1,6,3,4,3,8,3,10,0,Science,Cardiologist,Legal Advisor,Pharmacist
+0,0,0,0,1,5,9,4,5,7,5,6,1,Science,Cardiologist,Nurse,UI/UX Designer
+0,0,0,0,1,9,5,7,6,3,6,1,1,Arts,Cardiologist,Surgeon,Content Writer
+0,0,0,0,1,10,5,5,4,5,10,7,1,Science,Cardiologist,Accountant,Content Writer
+0,0,0,0,1,7,3,7,5,10,4,1,1,Commerce,Cardiologist,Public Prosecutor,Cardiologist
+0,0,0,0,1,9,4,4,7,5,1,8,1,Arts,Cardiologist,Entrepreneur,Surgeon
+0,0,0,0,1,7,5,3,10,8,1,3,1,Commerce,Cardiologist,Doctor,Author
+0,0,0,0,1,6,4,5,4,7,7,4,0,Science,Cardiologist,Radiologist,Dentist
+0,0,0,0,1,3,6,4,9,10,9,6,1,Commerce,Cardiologist,Editor,Dentist
+0,0,0,0,1,7,4,5,8,3,3,4,0,Arts,Cardiologist,Entrepreneur,Cloud Engineer
+0,0,0,0,1,4,10,4,4,3,7,6,0,Science,Cardiologist,Software Engineer,Legal Advisor
+0,0,0,0,1,8,3,9,8,5,5,8,0,Science,Cardiologist,Cybersecurity Analyst,Entrepreneur
+0,0,0,0,1,8,9,10,6,6,9,6,1,Science,Cardiologist,Fashion Designer,Journalist
+0,0,0,0,1,9,6,7,8,10,7,9,1,Science,Cardiologist,Psychiatrist,Radiologist
+0,0,0,0,1,5,8,10,9,10,1,7,1,Arts,Cardiologist,Business Analyst,Surgeon
+0,0,0,0,1,6,4,10,7,3,6,6,1,Arts,Cardiologist,Pharmacist,Marketing Manager
+0,0,0,0,1,8,5,8,5,5,5,2,1,Arts,Cardiologist,Cloud Engineer,Surgeon
+0,0,0,0,1,6,7,8,10,8,9,9,1,Commerce,Cardiologist,Software Engineer,Fashion Designer
+0,0,0,0,1,10,7,9,5,4,3,8,1,Commerce,Cardiologist,Web Developer,Software Engineer
+0,0,0,0,1,7,8,10,4,9,4,8,0,Science,Cardiologist,Author,Manager
+0,0,0,0,1,7,9,4,6,3,4,10,1,Commerce,Cardiologist,Software Engineer,Marketing Manager
+0,0,0,0,1,4,3,8,7,3,3,9,0,Science,Cardiologist,Judge,Pharmacist
+0,0,0,0,1,6,8,10,5,10,8,2,1,Commerce,Cardiologist,Physiotherapist,Pharmacist
+0,0,0,0,1,9,10,3,10,4,1,3,0,Science,Cardiologist,Legal Advisor,Entrepreneur
+0,0,0,0,1,3,7,5,7,4,7,1,1,Science,Cardiologist,AI Engineer,Cloud Engineer
+0,0,0,0,1,7,3,5,9,9,3,6,0,Science,Cardiologist,Software Engineer,Cybersecurity Analyst
+0,0,0,0,1,4,7,10,7,9,9,5,0,Science,Cardiologist,Surgeon,Web Developer
+0,0,0,0,1,3,5,10,5,7,1,6,0,Arts,Cardiologist,Cardiologist,Journalist
+0,0,0,0,1,3,7,6,7,3,2,1,0,Science,Cardiologist,Web Developer,Product Designer
+0,0,0,0,1,8,4,6,10,4,4,10,1,Arts,Cardiologist,Content Writer,Lawyer
+0,0,0,0,1,8,9,7,3,3,6,9,1,Arts,Cardiologist,Physiotherapist,Marketing Manager
+0,0,0,0,1,8,6,10,7,6,6,6,0,Arts,Cardiologist,Data Scientist,Pharmacist
+0,0,0,0,1,7,6,7,9,8,3,3,0,Arts,Cardiologist,Judge,AI Engineer
+0,0,0,0,1,8,7,10,6,8,5,6,1,Arts,Cardiologist,Cardiologist,Neurologist
+0,0,0,0,1,3,6,5,8,5,2,3,1,Science,Neurologist,Cloud Engineer,Legal Advisor
+0,0,0,0,1,4,8,8,7,9,3,8,0,Commerce,Neurologist,Software Engineer,Content Writer
+0,0,0,0,1,5,5,5,8,7,5,7,0,Science,Neurologist,Marketing Manager,Dentist
+0,0,0,0,1,4,6,9,5,5,10,5,0,Arts,Neurologist,Lawyer,Nurse
+0,0,0,0,1,3,10,8,5,6,7,2,0,Science,Neurologist,Corporate Lawyer,Editor
+0,0,0,0,1,7,6,9,5,8,10,7,0,Arts,Neurologist,Manager,Accountant
+0,0,0,0,1,8,9,3,4,5,5,9,1,Science,Neurologist,Accountant,Dentist
+0,0,0,0,1,6,7,7,4,4,6,8,0,Arts,Neurologist,Cloud Engineer,Editor
+0,0,0,0,1,9,9,9,9,10,10,5,1,Commerce,Neurologist,Software Engineer,Lawyer
+0,0,0,0,1,9,5,8,3,8,10,3,1,Science,Neurologist,Radiologist,Legal Advisor
+0,0,0,0,1,3,7,10,9,3,4,9,1,Science,Neurologist,Copywriter,Corporate Lawyer
+0,0,0,0,1,7,9,4,10,10,8,8,0,Arts,Neurologist,Business Analyst,Cybersecurity Analyst
+0,0,0,0,1,6,9,6,7,8,6,8,1,Commerce,Neurologist,Physiotherapist,Corporate Lawyer
+0,0,0,0,1,10,4,5,10,4,7,2,0,Arts,Neurologist,Copywriter,Public Prosecutor
+0,0,0,0,1,9,8,4,5,4,2,3,0,Arts,Neurologist,UI/UX Designer,Doctor
+0,0,0,0,1,10,7,4,10,5,2,10,0,Commerce,Neurologist,Judge,Editor
+0,0,0,0,1,10,5,10,10,7,4,8,1,Arts,Neurologist,Accountant,Copywriter
+0,0,0,0,1,7,7,7,5,9,8,1,0,Science,Neurologist,Neurologist,Pharmacist
+0,0,0,0,1,10,10,9,4,3,9,2,0,Science,Neurologist,Radiologist,Product Designer
+0,0,0,0,1,8,6,7,3,8,3,7,1,Commerce,Neurologist,Legal Advisor,Graphic Designer
+0,0,0,0,1,8,3,5,6,8,2,4,1,Arts,Neurologist,Product Designer,Lawyer
+0,0,0,0,1,4,5,4,7,3,5,8,0,Commerce,Neurologist,Author,Graphic Designer
+0,0,0,0,1,8,10,6,7,8,10,9,0,Science,Neurologist,Cloud Engineer,Dentist
+0,0,0,0,1,9,6,10,5,6,4,5,1,Science,Neurologist,Manager,Data Scientist
+0,0,0,0,1,7,9,9,7,8,1,8,0,Arts,Neurologist,Animator,Psychiatrist
+0,0,0,0,1,10,8,6,6,8,9,9,0,Commerce,Neurologist,Doctor,Cybersecurity Analyst
+0,0,0,0,1,7,10,8,3,5,3,1,0,Commerce,Neurologist,Software Engineer,Public Prosecutor
+0,0,0,0,1,10,10,8,4,5,2,2,0,Science,Neurologist,Copywriter,Author
+0,0,0,0,1,8,8,4,10,4,3,9,1,Science,Neurologist,Content Writer,Nurse
+0,0,0,0,1,6,3,9,10,8,10,6,1,Arts,Neurologist,Business Analyst,Animator
+0,0,0,0,1,6,6,10,5,6,2,5,0,Commerce,Neurologist,Neurologist,Public Prosecutor
+0,0,0,0,1,7,8,3,5,6,6,5,0,Commerce,Neurologist,AI Engineer,Legal Advisor
+0,0,0,0,1,7,4,4,9,6,3,9,1,Arts,Neurologist,Business Analyst,Cloud Engineer
+0,0,0,0,1,6,5,5,5,6,5,5,0,Commerce,Neurologist,Graphic Designer,Software Engineer
+0,0,0,0,1,10,7,5,6,5,3,5,0,Arts,Neurologist,Physiotherapist,Dentist
+0,0,0,0,1,10,6,3,9,4,7,9,1,Science,Neurologist,Nurse,Doctor
+0,0,0,0,1,3,9,4,4,3,8,3,0,Arts,Neurologist,Journalist,Manager
+0,0,0,0,1,7,7,5,6,7,5,5,1,Arts,Neurologist,Public Prosecutor,Author
+0,0,0,0,1,4,5,5,10,6,9,4,1,Commerce,Neurologist,Neurologist,Corporate Lawyer
+0,0,0,0,1,3,7,4,8,6,1,7,1,Science,Neurologist,Cardiologist,Journalist
+0,0,0,0,1,5,10,8,6,8,3,7,1,Commerce,Neurologist,Corporate Lawyer,Nurse
+0,0,0,0,1,7,5,3,6,3,7,2,0,Science,Neurologist,Software Engineer,Pharmacist
+0,0,0,0,1,5,9,7,10,10,4,3,1,Arts,Neurologist,Marketing Manager,Data Scientist
+0,0,0,0,1,4,6,7,8,3,2,9,1,Arts,Neurologist,Corporate Lawyer,UI/UX Designer
+0,0,0,0,1,7,6,7,8,3,4,10,1,Science,Neurologist,Psychiatrist,Accountant
+0,0,0,0,1,6,9,5,7,5,3,10,0,Arts,Neurologist,Web Developer,Animator
+0,0,0,0,1,10,10,5,8,3,1,9,1,Arts,Neurologist,Cloud Engineer,Data Scientist
+0,0,0,0,1,6,5,5,10,5,10,7,0,Arts,Neurologist,Radiologist,Business Analyst
+0,0,0,0,1,4,7,7,4,9,8,2,0,Arts,Neurologist,Surgeon,Cardiologist
+0,0,0,0,1,9,7,8,3,5,2,2,1,Science,Neurologist,Cloud Engineer,Judge
+0,0,0,0,1,10,7,4,6,4,8,1,1,Science,Neurologist,AI Engineer,Physiotherapist
+0,0,0,0,1,10,5,10,5,4,7,8,0,Science,Neurologist,Software Engineer,Accountant
+0,0,0,0,1,7,7,6,7,7,9,8,0,Arts,Neurologist,Judge,Corporate Lawyer
+0,0,0,0,1,3,3,6,3,10,2,5,1,Science,Neurologist,Web Developer,Content Writer
+0,0,0,0,1,10,7,6,7,4,3,7,0,Science,Neurologist,Cloud Engineer,Lawyer
+0,0,0,0,1,10,5,5,9,10,5,7,1,Science,Neurologist,Copywriter,Legal Advisor
+0,0,0,0,1,5,3,7,9,10,2,1,1,Commerce,Neurologist,Judge,Legal Advisor
+0,0,0,0,1,3,4,6,9,3,5,9,1,Arts,Neurologist,Surgeon,Product Designer
+0,0,0,0,1,9,4,6,3,8,7,1,1,Arts,Neurologist,Marketing Manager,Entrepreneur
+0,0,0,0,1,8,8,9,8,9,5,3,0,Science,Neurologist,Marketing Manager,AI Engineer
+0,0,0,0,1,3,10,6,9,7,4,2,1,Commerce,Psychiatrist,Public Prosecutor,Dentist
+0,0,0,0,1,7,9,9,5,6,3,6,0,Science,Psychiatrist,Software Engineer,Graphic Designer
+0,0,0,0,1,4,6,8,6,6,6,10,1,Science,Psychiatrist,Content Writer,Cardiologist
+0,0,0,0,1,7,8,9,9,9,4,1,0,Commerce,Psychiatrist,Animator,Cybersecurity Analyst
+0,0,0,0,1,9,3,8,10,9,2,2,0,Commerce,Psychiatrist,Cardiologist,Content Writer
+0,0,0,0,1,7,9,3,6,5,6,9,1,Science,Psychiatrist,Data Scientist,Legal Advisor
+0,0,0,0,1,10,3,5,10,3,9,3,1,Commerce,Psychiatrist,Graphic Designer,Doctor
+0,0,0,0,1,7,7,9,9,3,9,4,1,Arts,Psychiatrist,AI Engineer,Web Developer
+0,0,0,0,1,8,10,3,5,8,9,7,0,Commerce,Psychiatrist,Manager,Business Analyst
+0,0,0,0,1,9,6,3,5,10,9,1,0,Science,Psychiatrist,Physiotherapist,Content Writer
+0,0,0,0,1,4,5,3,6,4,1,7,1,Commerce,Psychiatrist,Fashion Designer,Radiologist
+0,0,0,0,1,6,10,5,6,5,3,7,0,Commerce,Psychiatrist,Cardiologist,Corporate Lawyer
+0,0,0,0,1,10,6,3,10,10,7,10,0,Arts,Psychiatrist,Journalist,Cloud Engineer
+0,0,0,0,1,5,10,3,7,9,7,5,0,Commerce,Psychiatrist,Content Writer,Web Developer
+0,0,0,0,1,8,7,4,5,9,1,4,0,Commerce,Psychiatrist,Public Prosecutor,Content Writer
+0,0,0,0,1,5,4,4,7,7,2,6,0,Science,Psychiatrist,Doctor,Dentist
+0,0,0,0,1,8,6,3,4,8,9,7,1,Arts,Psychiatrist,Data Scientist,Product Designer
+0,0,0,0,1,9,10,6,10,9,6,6,0,Commerce,Psychiatrist,Fashion Designer,Neurologist
+0,0,0,0,1,6,5,4,10,9,9,5,1,Arts,Psychiatrist,Accountant,Public Prosecutor
+0,0,0,0,1,3,5,6,3,5,2,3,0,Commerce,Psychiatrist,Web Developer,Business Analyst
+0,0,0,0,1,6,10,10,4,3,1,3,1,Commerce,Psychiatrist,Editor,Lawyer
+0,0,0,0,1,5,8,6,7,10,5,2,1,Arts,Psychiatrist,AI Engineer,Cloud Engineer
+0,0,0,0,1,3,3,9,7,9,8,9,0,Science,Psychiatrist,Dentist,Manager
+0,0,0,0,1,8,7,10,6,5,2,8,1,Science,Psychiatrist,UI/UX Designer,Business Analyst
+0,0,0,0,1,5,3,5,9,6,8,4,0,Science,Psychiatrist,Entrepreneur,Product Designer
+0,0,0,0,1,3,4,3,9,4,8,10,1,Science,Psychiatrist,Doctor,Animator
+0,0,0,0,1,8,10,7,5,3,3,2,0,Science,Psychiatrist,Marketing Manager,Accountant
+0,0,0,0,1,7,5,4,4,3,5,7,0,Arts,Psychiatrist,Neurologist,Software Engineer
+0,0,0,0,1,6,7,3,5,6,7,9,0,Commerce,Psychiatrist,Web Developer,Accountant
+0,0,0,0,1,8,10,7,7,10,1,7,1,Commerce,Psychiatrist,UI/UX Designer,Judge
+0,0,0,0,1,5,6,8,5,6,6,5,0,Science,Psychiatrist,Doctor,Marketing Manager
+0,0,0,0,1,3,9,6,10,4,1,10,0,Arts,Psychiatrist,Graphic Designer,Cardiologist
+0,0,0,0,1,5,7,10,3,10,3,9,0,Commerce,Psychiatrist,Entrepreneur,Journalist
+0,0,0,0,1,5,7,9,5,3,6,5,1,Commerce,Psychiatrist,Radiologist,Neurologist
+0,0,0,0,1,9,10,10,10,8,9,9,1,Commerce,Psychiatrist,AI Engineer,Radiologist
+0,0,0,0,1,9,9,10,5,4,3,9,1,Arts,Psychiatrist,Author,Cloud Engineer
+0,0,0,0,1,7,10,8,4,5,5,7,1,Arts,Psychiatrist,Public Prosecutor,Radiologist
+0,0,0,0,1,8,4,8,8,10,4,9,0,Commerce,Psychiatrist,Animator,Neurologist
+0,0,0,0,1,7,9,5,5,3,4,6,0,Commerce,Psychiatrist,Content Writer,Corporate Lawyer
+0,0,0,0,1,10,6,6,9,3,2,1,1,Commerce,Psychiatrist,Surgeon,Product Designer
+0,0,0,0,1,4,4,3,7,8,3,1,1,Science,Psychiatrist,Cloud Engineer,Manager
+0,0,0,0,1,4,9,9,3,10,3,6,1,Arts,Psychiatrist,Software Engineer,Web Developer
+0,0,0,0,1,3,3,10,10,10,7,4,0,Science,Psychiatrist,Nurse,Accountant
+0,0,0,0,1,5,5,9,4,7,6,3,1,Arts,Psychiatrist,Dentist,Animator
+0,0,0,0,1,4,3,5,3,9,9,5,0,Commerce,Psychiatrist,Journalist,Copywriter
+0,0,0,0,1,3,6,5,5,8,2,7,1,Commerce,Psychiatrist,Content Writer,Journalist
+0,0,0,0,1,6,5,10,7,10,7,9,0,Science,Psychiatrist,Surgeon,Public Prosecutor
+0,0,0,0,1,7,8,8,5,3,3,8,0,Arts,Psychiatrist,Cybersecurity Analyst,Cardiologist
+0,0,0,0,1,5,6,5,9,4,10,5,1,Commerce,Psychiatrist,Psychiatrist,Accountant
+0,0,0,0,1,7,8,9,3,5,7,8,1,Commerce,Psychiatrist,Graphic Designer,Animator
+0,0,0,0,1,4,3,9,3,8,8,2,1,Arts,Psychiatrist,Product Designer,Cloud Engineer
+0,0,0,0,1,9,10,5,8,8,8,8,0,Science,Psychiatrist,Web Developer,Cloud Engineer
+0,0,0,0,1,4,9,3,3,8,7,4,0,Science,Psychiatrist,UI/UX Designer,Neurologist
+0,0,0,0,1,4,4,4,5,9,5,4,1,Commerce,Psychiatrist,Radiologist,Journalist
+0,0,0,0,1,5,6,8,8,6,3,1,1,Commerce,Psychiatrist,Surgeon,Author
+0,0,0,0,1,3,3,9,9,9,8,8,1,Commerce,Psychiatrist,Cardiologist,Surgeon
+0,0,0,0,1,9,5,9,6,4,5,2,0,Science,Psychiatrist,Copywriter,Doctor
+0,0,0,0,1,5,6,10,6,4,6,7,0,Arts,Psychiatrist,Cybersecurity Analyst,Radiologist
+0,0,0,0,1,6,3,10,6,7,3,8,1,Commerce,Psychiatrist,Graphic Designer,Corporate Lawyer
+0,0,0,0,1,4,8,3,10,7,8,6,0,Science,Psychiatrist,Web Developer,Neurologist
+0,0,0,0,1,8,7,8,6,4,3,2,0,Science,Dentist,Business Analyst,Dentist
+0,0,0,0,1,9,7,4,7,5,6,6,0,Science,Dentist,Pharmacist,Product Designer
+0,0,0,0,1,7,7,5,5,9,10,3,1,Arts,Dentist,Lawyer,Legal Advisor
+0,0,0,0,1,8,7,3,7,5,3,6,1,Commerce,Dentist,Pharmacist,Doctor
+0,0,0,0,1,7,9,9,8,4,2,1,0,Arts,Dentist,Manager,Judge
+0,0,0,0,1,10,10,4,10,7,6,6,0,Science,Dentist,Cloud Engineer,Dentist
+0,0,0,0,1,3,3,4,7,6,2,3,1,Science,Dentist,Product Designer,Lawyer
+0,0,0,0,1,6,6,4,3,7,6,8,0,Science,Dentist,Legal Advisor,Radiologist
+0,0,0,0,1,6,4,5,7,4,10,4,0,Arts,Dentist,Web Developer,Journalist
+0,0,0,0,1,7,8,7,10,6,5,5,1,Arts,Dentist,Doctor,Public Prosecutor
+0,0,0,0,1,6,7,7,5,6,7,2,0,Arts,Dentist,Cardiologist,Entrepreneur
+0,0,0,0,1,3,4,3,6,7,5,1,0,Arts,Dentist,AI Engineer,Content Writer
+0,0,0,0,1,5,9,9,8,10,5,7,0,Arts,Dentist,Doctor,Journalist
+0,0,0,0,1,5,8,7,8,10,7,9,1,Arts,Dentist,Psychiatrist,Cardiologist
+0,0,0,0,1,10,7,5,6,10,4,9,0,Science,Dentist,Entrepreneur,Dentist
+0,0,0,0,1,9,9,4,5,10,2,9,1,Commerce,Dentist,Judge,Copywriter
+0,0,0,0,1,6,4,9,5,3,2,9,1,Commerce,Dentist,Manager,Psychiatrist
+0,0,0,0,1,5,4,8,9,7,6,4,1,Science,Dentist,Cybersecurity Analyst,Web Developer
+0,0,0,0,1,7,9,9,7,10,8,3,1,Arts,Dentist,Legal Advisor,Radiologist
+0,0,0,0,1,3,5,9,10,10,9,5,0,Arts,Dentist,Editor,Neurologist
+0,0,0,0,1,4,4,4,10,4,3,6,0,Arts,Dentist,Web Developer,Public Prosecutor
+0,0,0,0,1,3,3,4,7,8,7,6,0,Arts,Dentist,Dentist,Content Writer
+0,0,0,0,1,5,8,5,7,8,3,7,0,Science,Dentist,Data Scientist,Product Designer
+0,0,0,0,1,9,3,9,10,3,10,4,1,Arts,Dentist,Cloud Engineer,Marketing Manager
+0,0,0,0,1,3,9,8,3,6,8,7,0,Arts,Dentist,Cybersecurity Analyst,Public Prosecutor
+0,0,0,0,1,5,7,3,7,3,3,4,1,Arts,Dentist,Surgeon,Business Analyst
+0,0,0,0,1,10,9,4,8,4,3,3,1,Commerce,Dentist,Cybersecurity Analyst,Radiologist
+0,0,0,0,1,7,10,5,10,6,9,2,1,Commerce,Dentist,Product Designer,Copywriter
+0,0,0,0,1,7,4,9,6,6,8,10,1,Commerce,Dentist,Cloud Engineer,Nurse
+0,0,0,0,1,6,7,6,9,5,7,7,0,Arts,Dentist,Software Engineer,Cardiologist
+0,0,0,0,1,6,8,6,9,4,1,10,1,Science,Dentist,Nurse,Graphic Designer
+0,0,0,0,1,7,6,5,9,6,8,10,1,Commerce,Dentist,Radiologist,Cardiologist
+0,0,0,0,1,8,3,6,8,4,1,10,0,Commerce,Dentist,Accountant,Legal Advisor
+0,0,0,0,1,7,10,4,5,10,3,3,1,Arts,Dentist,Entrepreneur,Accountant
+0,0,0,0,1,5,10,3,9,5,9,10,1,Science,Dentist,Legal Advisor,Pharmacist
+0,0,0,0,1,5,9,10,9,10,9,5,1,Arts,Dentist,Cybersecurity Analyst,Accountant
+0,0,0,0,1,8,3,3,9,9,10,5,1,Science,Dentist,Cardiologist,Lawyer
+0,0,0,0,1,7,7,8,8,3,7,10,0,Arts,Dentist,Graphic Designer,Content Writer
+0,0,0,0,1,9,5,4,5,10,3,9,1,Arts,Dentist,Judge,Doctor
+0,0,0,0,1,3,5,4,8,6,4,10,0,Commerce,Dentist,Content Writer,UI/UX Designer
+0,0,0,0,1,9,5,8,5,3,2,10,0,Arts,Dentist,Cybersecurity Analyst,Cloud Engineer
+0,0,0,0,1,9,4,9,10,9,6,8,0,Arts,Dentist,Judge,Pharmacist
+0,0,0,0,1,6,4,9,8,5,6,7,0,Commerce,Dentist,Data Scientist,Radiologist
+0,0,0,0,1,7,7,4,3,8,5,6,0,Science,Dentist,Product Designer,Lawyer
+0,0,0,0,1,5,9,7,6,8,10,9,0,Arts,Dentist,Surgeon,Physiotherapist
+0,0,0,0,1,6,3,3,5,6,1,1,1,Commerce,Dentist,Doctor,AI Engineer
+0,0,0,0,1,8,9,9,8,10,5,1,1,Arts,Dentist,Doctor,Corporate Lawyer
+0,0,0,0,1,6,10,3,10,3,9,3,0,Science,Dentist,Corporate Lawyer,Software Engineer
+0,0,0,0,1,8,8,10,10,9,2,10,1,Arts,Dentist,Doctor,Public Prosecutor
+0,0,0,0,1,8,5,4,5,5,2,8,0,Science,Dentist,Author,Accountant
+0,0,0,0,1,4,6,8,3,3,8,4,1,Arts,Dentist,Judge,Fashion Designer
+0,0,0,0,1,10,4,8,10,9,4,7,0,Commerce,Dentist,Pharmacist,Product Designer
+0,0,0,0,1,6,5,8,7,8,2,6,1,Commerce,Dentist,Neurologist,Cybersecurity Analyst
+0,0,0,0,1,10,9,10,8,8,5,4,1,Science,Dentist,Manager,Lawyer
+0,0,0,0,1,9,6,4,6,8,8,8,1,Commerce,Dentist,Physiotherapist,Nurse
+0,0,0,0,1,10,6,8,5,7,6,10,0,Commerce,Dentist,Doctor,Radiologist
+0,0,0,0,1,10,7,10,6,8,4,6,0,Commerce,Dentist,Manager,Legal Advisor
+0,0,0,0,1,10,5,7,10,8,7,5,0,Arts,Dentist,Author,AI Engineer
+0,0,0,0,1,7,6,3,7,8,3,5,0,Commerce,Dentist,Content Writer,Neurologist
+0,0,0,0,1,5,6,7,4,3,10,6,1,Science,Dentist,Legal Advisor,Nurse
+0,0,0,0,1,4,8,3,6,6,6,9,0,Commerce,Radiologist,Author,UI/UX Designer
+0,0,0,0,1,5,4,3,4,6,2,4,0,Arts,Radiologist,Pharmacist,Manager
+0,0,0,0,1,5,4,9,4,7,5,3,1,Commerce,Radiologist,Cloud Engineer,Pharmacist
+0,0,0,0,1,3,10,5,10,6,9,9,1,Science,Radiologist,Marketing Manager,Copywriter
+0,0,0,0,1,4,5,8,4,6,2,5,1,Science,Radiologist,Doctor,Dentist
+0,0,0,0,1,6,9,7,5,5,6,3,1,Commerce,Radiologist,Software Engineer,Legal Advisor
+0,0,0,0,1,5,4,6,9,8,5,8,1,Commerce,Radiologist,Journalist,Content Writer
+0,0,0,0,1,10,8,8,6,4,6,10,0,Arts,Radiologist,Manager,Doctor
+0,0,0,0,1,5,4,7,3,3,4,2,1,Science,Radiologist,Lawyer,Dentist
+0,0,0,0,1,9,3,7,10,4,1,5,1,Commerce,Radiologist,Psychiatrist,UI/UX Designer
+0,0,0,0,1,7,7,10,10,4,10,3,1,Science,Radiologist,Content Writer,Entrepreneur
+0,0,0,0,1,9,3,7,10,6,5,10,1,Arts,Radiologist,Editor,Content Writer
+0,0,0,0,1,5,8,4,6,5,6,6,0,Science,Radiologist,Doctor,Journalist
+0,0,0,0,1,9,7,4,8,7,1,3,1,Commerce,Radiologist,Judge,UI/UX Designer
+0,0,0,0,1,6,7,3,9,5,6,1,0,Arts,Radiologist,Doctor,Accountant
+0,0,0,0,1,3,3,7,5,10,3,1,0,Commerce,Radiologist,Cloud Engineer,Content Writer
+0,0,0,0,1,5,9,6,6,4,5,9,1,Commerce,Radiologist,Judge,Fashion Designer
+0,0,0,0,1,10,5,9,3,6,2,7,1,Science,Radiologist,Doctor,Accountant
+0,0,0,0,1,8,8,8,5,10,2,10,1,Commerce,Radiologist,Cardiologist,Author
+0,0,0,0,1,4,3,3,9,7,2,5,1,Commerce,Radiologist,Judge,Journalist
+0,0,0,0,1,6,9,8,6,4,3,7,0,Arts,Radiologist,UI/UX Designer,Software Engineer
+0,0,0,0,1,8,10,5,3,9,3,5,0,Science,Radiologist,Cybersecurity Analyst,Fashion Designer
+0,0,0,0,1,10,5,5,10,7,6,2,0,Arts,Radiologist,Graphic Designer,Nurse
+0,0,0,0,1,6,9,10,10,3,6,2,1,Commerce,Radiologist,Lawyer,Editor
+0,0,0,0,1,10,9,7,5,8,10,9,1,Commerce,Radiologist,Cloud Engineer,Accountant
+0,0,0,0,1,10,8,6,10,9,6,3,1,Arts,Radiologist,Dentist,Fashion Designer
+0,0,0,0,1,10,10,10,10,10,9,3,0,Arts,Radiologist,Public Prosecutor,Corporate Lawyer
+0,0,0,0,1,9,6,10,9,4,8,1,0,Science,Radiologist,Cardiologist,Product Designer
+0,0,0,0,1,3,4,5,9,8,1,8,1,Commerce,Radiologist,Pharmacist,Cardiologist
+0,0,0,0,1,7,5,4,8,4,7,4,1,Commerce,Radiologist,Physiotherapist,Doctor
+0,0,0,0,1,9,3,6,7,3,1,2,1,Commerce,Radiologist,Radiologist,Animator
+0,0,0,0,1,5,10,8,5,9,4,3,1,Science,Radiologist,Neurologist,Judge
+0,0,0,0,1,6,9,4,6,6,7,3,1,Science,Radiologist,Corporate Lawyer,Public Prosecutor
+0,0,0,0,1,5,8,5,3,4,2,10,0,Arts,Radiologist,Legal Advisor,Copywriter
+0,0,0,0,1,9,5,5,7,7,4,2,0,Arts,Radiologist,Author,Fashion Designer
+0,0,0,0,1,4,8,4,8,6,5,4,1,Arts,Radiologist,Public Prosecutor,Software Engineer
+0,0,0,0,1,7,10,8,5,7,9,3,0,Arts,Radiologist,Pharmacist,Cloud Engineer
+0,0,0,0,1,5,10,10,10,3,4,1,0,Science,Radiologist,Manager,Physiotherapist
+0,0,0,0,1,9,4,7,3,6,3,10,0,Commerce,Radiologist,UI/UX Designer,Physiotherapist
+0,0,0,0,1,3,4,10,9,6,7,9,1,Science,Radiologist,Lawyer,UI/UX Designer
+0,0,0,0,1,7,10,8,8,3,9,8,0,Arts,Radiologist,Cardiologist,Copywriter
+0,0,0,0,1,6,3,5,8,4,5,9,1,Arts,Radiologist,Psychiatrist,Product Designer
+0,0,0,0,1,4,9,6,4,9,1,2,1,Science,Radiologist,Cardiologist,UI/UX Designer
+0,0,0,0,1,10,10,10,4,7,4,1,0,Arts,Radiologist,Surgeon,Dentist
+0,0,0,0,1,6,7,4,8,6,4,9,0,Arts,Radiologist,Business Analyst,Marketing Manager
+0,0,0,0,1,4,7,9,9,9,9,2,0,Science,Radiologist,Radiologist,Cybersecurity Analyst
+0,0,0,0,1,4,6,8,6,7,6,3,1,Science,Radiologist,UI/UX Designer,Dentist
+0,0,0,0,1,7,7,3,7,5,6,6,0,Arts,Radiologist,Cardiologist,Cloud Engineer
+0,0,0,0,1,3,8,6,5,5,5,1,1,Arts,Radiologist,Fashion Designer,Psychiatrist
+0,0,0,0,1,8,4,9,5,7,7,4,1,Arts,Radiologist,UI/UX Designer,Radiologist
+0,0,0,0,1,3,7,3,6,10,1,2,0,Science,Radiologist,Pharmacist,Graphic Designer
+0,0,0,0,1,4,4,3,7,8,5,2,1,Commerce,Radiologist,Corporate Lawyer,Journalist
+0,0,0,0,1,10,4,10,9,4,6,5,0,Science,Radiologist,Web Developer,Psychiatrist
+0,0,0,0,1,5,8,3,4,9,2,7,0,Commerce,Radiologist,Editor,Entrepreneur
+0,0,0,0,1,6,10,6,8,4,8,1,1,Arts,Radiologist,Cardiologist,Journalist
+0,0,0,0,1,10,5,5,3,9,1,9,1,Science,Radiologist,Psychiatrist,Neurologist
+0,0,0,0,1,7,3,9,4,8,4,4,0,Commerce,Radiologist,Radiologist,Psychiatrist
+0,0,0,0,1,4,4,3,6,9,5,1,0,Science,Radiologist,Doctor,Legal Advisor
+0,0,0,0,1,7,8,9,3,6,4,9,1,Commerce,Radiologist,Nurse,Public Prosecutor
+0,0,0,0,1,4,8,6,5,3,9,4,1,Science,Radiologist,Accountant,Psychiatrist
+0,0,0,0,0,8,6,3,3,8,4,8,1,Commerce,Manager,Manager,Product Designer
+0,0,0,0,0,9,7,8,3,7,5,5,0,Arts,Manager,Manager,Judge
+0,0,0,0,0,6,8,5,5,6,10,7,1,Commerce,Manager,Business Analyst,Surgeon
+0,0,0,0,0,7,6,10,9,4,10,4,1,Commerce,Manager,Cybersecurity Analyst,Data Scientist
+0,0,0,0,0,8,4,9,9,7,1,5,0,Arts,Manager,Nurse,Surgeon
+0,0,0,0,0,9,5,5,5,9,9,8,1,Arts,Manager,Business Analyst,Nurse
+0,0,0,0,0,9,7,9,8,3,5,9,1,Commerce,Manager,Doctor,Psychiatrist
+0,0,0,0,0,3,6,8,5,10,4,9,1,Science,Manager,Legal Advisor,Lawyer
+0,0,0,0,0,4,10,9,7,7,7,10,0,Arts,Manager,Web Developer,Legal Advisor
+0,0,0,0,0,5,6,3,6,4,7,5,1,Commerce,Manager,Editor,Doctor
+0,0,0,0,0,10,9,6,7,8,1,9,0,Arts,Manager,Neurologist,UI/UX Designer
+0,0,0,0,0,5,7,5,7,3,8,5,0,Arts,Manager,Nurse,Animator
+0,0,0,0,0,5,10,8,7,9,8,8,1,Science,Manager,Manager,Radiologist
+0,0,0,0,0,10,9,8,9,4,4,5,1,Arts,Manager,Data Scientist,Psychiatrist
+0,0,0,0,0,6,4,7,9,7,6,10,1,Science,Manager,Manager,Corporate Lawyer
+0,0,0,0,0,4,6,3,9,4,5,5,0,Commerce,Manager,Marketing Manager,Fashion Designer
+0,0,0,0,0,8,9,7,6,8,5,10,0,Science,Manager,Journalist,Public Prosecutor
+0,0,0,0,0,10,6,3,6,9,5,4,0,Arts,Manager,Radiologist,Judge
+0,0,0,0,0,10,9,10,3,7,9,4,0,Arts,Manager,AI Engineer,Doctor
+0,0,0,0,0,8,6,8,8,7,8,8,1,Commerce,Manager,Psychiatrist,Fashion Designer
+0,0,0,0,0,10,7,3,6,3,2,3,1,Science,Manager,Physiotherapist,Software Engineer
+0,0,0,0,0,6,4,7,3,7,3,2,1,Arts,Manager,Copywriter,Editor
+0,0,0,0,0,4,7,3,6,10,10,4,1,Science,Manager,Lawyer,Legal Advisor
+0,0,0,0,0,6,5,8,4,6,1,10,1,Science,Manager,Accountant,Product Designer
+0,0,0,0,0,7,6,10,5,3,1,10,1,Commerce,Manager,Public Prosecutor,Product Designer
+0,0,0,0,0,3,3,5,5,7,7,5,1,Science,Manager,Surgeon,Author
+0,0,0,0,0,7,4,8,8,6,8,2,1,Arts,Manager,Journalist,Physiotherapist
+0,0,0,0,0,7,8,8,3,8,8,2,1,Arts,Manager,Product Designer,Accountant
+0,0,0,0,0,5,7,8,6,10,3,4,0,Commerce,Manager,Pharmacist,Doctor
+0,0,0,0,0,6,7,7,6,6,2,4,0,Arts,Manager,Surgeon,AI Engineer
+0,0,0,0,0,8,6,9,5,5,4,5,0,Arts,Manager,Business Analyst,Content Writer
+0,0,0,0,0,7,7,9,9,3,9,3,1,Commerce,Manager,Doctor,Pharmacist
+0,0,0,0,0,6,9,6,9,10,7,2,0,Science,Manager,Web Developer,Accountant
+0,0,0,0,0,7,7,4,9,10,4,5,1,Arts,Manager,Graphic Designer,Public Prosecutor
+0,0,0,0,0,7,3,9,3,9,7,4,1,Science,Manager,Judge,AI Engineer
+0,0,0,0,0,6,7,4,7,7,5,8,1,Science,Manager,Data Scientist,Author
+0,0,0,0,0,10,8,6,5,5,1,1,1,Arts,Manager,Surgeon,Legal Advisor
+0,0,0,0,0,10,4,5,7,8,4,1,1,Science,Manager,Pharmacist,Entrepreneur
+0,0,0,0,0,10,10,8,5,5,8,1,1,Arts,Manager,Fashion Designer,Cardiologist
+0,0,0,0,0,9,3,3,6,9,1,2,1,Arts,Manager,Entrepreneur,Public Prosecutor
+0,0,0,0,0,8,7,3,3,8,2,6,0,Arts,Manager,Editor,Doctor
+0,0,0,0,0,9,3,5,4,6,9,5,1,Arts,Manager,Accountant,Lawyer
+0,0,0,0,0,6,4,3,10,5,10,5,0,Science,Manager,Product Designer,Graphic Designer
+0,0,0,0,0,6,6,9,8,4,8,6,1,Arts,Manager,Pharmacist,Content Writer
+0,0,0,0,0,4,6,6,5,5,5,8,0,Arts,Manager,Cardiologist,Web Developer
+0,0,0,0,0,5,10,7,10,6,1,4,1,Commerce,Manager,Corporate Lawyer,Surgeon
+0,0,0,0,0,9,9,4,4,6,4,1,0,Commerce,Manager,Cardiologist,Neurologist
+0,0,0,0,0,6,8,9,4,3,8,3,0,Commerce,Manager,Editor,Data Scientist
+0,0,0,0,0,3,7,7,5,7,9,8,1,Arts,Manager,Cardiologist,Physiotherapist
+0,0,0,0,0,8,7,6,8,9,2,7,0,Arts,Manager,Corporate Lawyer,Public Prosecutor
+0,0,0,0,0,9,5,9,8,5,1,8,1,Arts,Manager,Marketing Manager,Judge
+0,0,0,0,0,8,8,7,9,4,10,5,0,Arts,Manager,Author,Radiologist
+0,0,0,0,0,10,9,6,8,6,9,1,1,Commerce,Manager,Manager,Author
+0,0,0,0,0,7,3,6,4,10,2,9,0,Commerce,Manager,Manager,Content Writer
+0,0,0,0,0,3,4,7,7,4,10,2,0,Commerce,Manager,Doctor,Legal Advisor
+0,0,0,0,0,9,10,4,4,3,8,5,1,Arts,Manager,Public Prosecutor,Doctor
+0,0,0,0,0,8,5,7,5,3,2,2,0,Science,Manager,Legal Advisor,Radiologist
+0,0,0,0,0,6,9,7,3,8,7,2,1,Commerce,Manager,Graphic Designer,Cardiologist
+0,0,0,0,0,3,7,10,3,8,2,6,1,Science,Manager,Dentist,Graphic Designer
+0,0,0,0,0,5,9,8,4,9,9,8,0,Science,Manager,AI Engineer,Neurologist
+0,0,0,0,0,8,3,8,5,9,2,3,0,Arts,Entrepreneur,Manager,AI Engineer
+0,0,0,0,0,10,4,3,5,5,10,10,0,Commerce,Entrepreneur,Public Prosecutor,Cloud Engineer
+0,0,0,0,0,5,10,3,6,8,3,10,1,Commerce,Entrepreneur,Lawyer,Accountant
+0,0,0,0,0,8,7,9,9,5,1,7,1,Science,Entrepreneur,Journalist,Surgeon
+0,0,0,0,0,8,9,9,3,8,8,1,0,Science,Entrepreneur,Graphic Designer,Doctor
+0,0,0,0,0,5,5,5,4,5,10,3,1,Science,Entrepreneur,Physiotherapist,Marketing Manager
+0,0,0,0,0,10,6,10,5,7,1,3,1,Commerce,Entrepreneur,Graphic Designer,UI/UX Designer
+0,0,0,0,0,10,6,4,6,5,1,4,0,Commerce,Entrepreneur,Copywriter,Editor
+0,0,0,0,0,8,7,10,5,9,3,7,1,Arts,Entrepreneur,Entrepreneur,Psychiatrist
+0,0,0,0,0,3,9,7,9,7,7,2,0,Commerce,Entrepreneur,Cybersecurity Analyst,Product Designer
+0,0,0,0,0,5,5,5,6,7,6,2,0,Science,Entrepreneur,Doctor,Pharmacist
+0,0,0,0,0,7,4,10,3,4,1,10,1,Arts,Entrepreneur,Editor,Psychiatrist
+0,0,0,0,0,4,10,8,6,4,9,6,1,Commerce,Entrepreneur,Radiologist,Neurologist
+0,0,0,0,0,7,3,3,9,7,10,2,0,Arts,Entrepreneur,Lawyer,Content Writer
+0,0,0,0,0,6,7,7,10,3,10,5,0,Commerce,Entrepreneur,Corporate Lawyer,Doctor
+0,0,0,0,0,6,9,6,8,6,7,2,0,Science,Entrepreneur,Accountant,Judge
+0,0,0,0,0,8,6,5,9,6,5,7,1,Arts,Entrepreneur,UI/UX Designer,Judge
+0,0,0,0,0,6,4,9,8,10,6,6,0,Arts,Entrepreneur,Software Engineer,Radiologist
+0,0,0,0,0,3,7,5,6,6,3,5,1,Science,Entrepreneur,Software Engineer,Judge
+0,0,0,0,0,8,4,7,3,7,5,4,1,Commerce,Entrepreneur,Fashion Designer,AI Engineer
+0,0,0,0,0,8,5,10,7,8,7,1,1,Commerce,Entrepreneur,Business Analyst,Accountant
+0,0,0,0,0,10,3,9,9,7,7,8,0,Science,Entrepreneur,Author,Copywriter
+0,0,0,0,0,4,9,10,9,3,8,10,1,Science,Entrepreneur,Graphic Designer,Lawyer
+0,0,0,0,0,5,8,7,6,7,8,4,0,Commerce,Entrepreneur,Lawyer,Neurologist
+0,0,0,0,0,7,6,9,5,8,1,8,0,Science,Entrepreneur,Doctor,Copywriter
+0,0,0,0,0,8,4,4,6,5,9,4,1,Commerce,Entrepreneur,Accountant,Software Engineer
+0,0,0,0,0,4,3,9,3,3,10,10,0,Arts,Entrepreneur,Manager,Copywriter
+0,0,0,0,0,4,3,10,10,10,1,4,1,Science,Entrepreneur,Cloud Engineer,Public Prosecutor
+0,0,0,0,0,6,5,4,6,7,2,4,0,Commerce,Entrepreneur,Business Analyst,UI/UX Designer
+0,0,0,0,0,10,5,8,9,9,3,5,1,Arts,Entrepreneur,Accountant,Business Analyst
+0,0,0,0,0,9,3,10,9,8,8,10,0,Science,Entrepreneur,Author,Radiologist
+0,0,0,0,0,4,8,4,5,4,7,10,1,Arts,Entrepreneur,Corporate Lawyer,Fashion Designer
+0,0,0,0,0,5,5,7,9,9,2,10,0,Arts,Entrepreneur,Content Writer,Physiotherapist
+0,0,0,0,0,8,4,8,3,4,3,7,0,Science,Entrepreneur,UI/UX Designer,Manager
+0,0,0,0,0,7,6,7,8,10,2,8,1,Arts,Entrepreneur,Legal Advisor,Surgeon
+0,0,0,0,0,3,3,3,9,5,9,6,0,Commerce,Entrepreneur,Doctor,Radiologist
+0,0,0,0,0,10,3,8,7,6,6,5,1,Arts,Entrepreneur,Pharmacist,Manager
+0,0,0,0,0,9,3,4,7,6,2,7,1,Commerce,Entrepreneur,Entrepreneur,Pharmacist
+0,0,0,0,0,6,9,10,10,3,7,10,1,Arts,Entrepreneur,Copywriter,Journalist
+0,0,0,0,0,7,10,5,10,5,3,3,0,Arts,Entrepreneur,Psychiatrist,Nurse
+0,0,0,0,0,10,9,6,10,7,1,9,1,Commerce,Entrepreneur,Neurologist,Public Prosecutor
+0,0,0,0,0,8,5,5,3,10,2,8,1,Commerce,Entrepreneur,AI Engineer,Corporate Lawyer
+0,0,0,0,0,10,10,7,7,6,9,3,0,Science,Entrepreneur,Doctor,Cybersecurity Analyst
+0,0,0,0,0,6,10,9,9,7,4,7,1,Arts,Entrepreneur,Product Designer,Psychiatrist
+0,0,0,0,0,4,9,7,8,4,4,8,0,Commerce,Entrepreneur,Neurologist,Cloud Engineer
+0,0,0,0,0,7,5,8,5,6,6,8,1,Science,Entrepreneur,Software Engineer,Author
+0,0,0,0,0,8,6,10,9,10,8,6,0,Science,Entrepreneur,Data Scientist,Physiotherapist
+0,0,0,0,0,6,9,3,4,8,10,9,0,Arts,Entrepreneur,Neurologist,Journalist
+0,0,0,0,0,8,10,10,8,5,1,1,0,Commerce,Entrepreneur,Editor,Surgeon
+0,0,0,0,0,5,8,9,3,10,4,10,0,Commerce,Entrepreneur,Software Engineer,Data Scientist
+0,0,0,0,0,7,7,4,9,7,7,1,0,Commerce,Entrepreneur,Radiologist,Cybersecurity Analyst
+0,0,0,0,0,4,10,7,3,3,10,4,0,Commerce,Entrepreneur,Psychiatrist,Cardiologist
+0,0,0,0,0,9,6,4,10,5,3,4,1,Science,Entrepreneur,Cloud Engineer,Psychiatrist
+0,0,0,0,0,5,10,6,4,7,6,2,0,Arts,Entrepreneur,Business Analyst,Surgeon
+0,0,0,0,0,8,8,5,4,8,5,8,1,Arts,Entrepreneur,Neurologist,Marketing Manager
+0,0,0,0,0,6,4,7,5,9,6,4,1,Arts,Entrepreneur,Accountant,AI Engineer
+0,0,0,0,0,6,4,4,4,9,8,1,0,Science,Entrepreneur,Legal Advisor,Cardiologist
+0,0,0,0,0,5,7,3,10,8,1,5,1,Arts,Entrepreneur,Physiotherapist,Judge
+0,0,0,0,0,4,6,3,4,4,6,5,0,Science,Entrepreneur,Web Developer,Radiologist
+0,0,0,0,0,5,6,7,6,5,4,5,0,Science,Entrepreneur,Corporate Lawyer,Cloud Engineer
+0,0,0,0,0,9,3,10,4,5,10,8,0,Commerce,Business Analyst,Graphic Designer,Copywriter
+0,0,0,0,0,4,10,3,7,6,3,4,1,Arts,Business Analyst,Animator,Pharmacist
+0,0,0,0,0,9,10,5,10,7,6,10,0,Arts,Business Analyst,Fashion Designer,Product Designer
+0,0,0,0,0,9,4,6,10,4,9,7,1,Commerce,Business Analyst,Doctor,Fashion Designer
+0,0,0,0,0,4,4,9,5,10,8,5,0,Science,Business Analyst,Surgeon,Marketing Manager
+0,0,0,0,0,3,10,3,3,6,5,2,0,Arts,Business Analyst,Product Designer,Public Prosecutor
+0,0,0,0,0,10,9,7,10,8,9,7,1,Commerce,Business Analyst,UI/UX Designer,Author
+0,0,0,0,0,4,6,7,3,7,4,1,0,Arts,Business Analyst,Physiotherapist,Accountant
+0,0,0,0,0,5,5,8,7,5,6,2,0,Science,Business Analyst,Nurse,Web Developer
+0,0,0,0,0,4,7,4,9,5,5,8,0,Arts,Business Analyst,Cloud Engineer,Fashion Designer
+0,0,0,0,0,10,3,10,7,3,9,4,0,Arts,Business Analyst,Graphic Designer,Doctor
+0,0,0,0,0,4,9,9,6,10,7,4,1,Commerce,Business Analyst,Pharmacist,Public Prosecutor
+0,0,0,0,0,4,6,3,8,10,8,9,0,Science,Business Analyst,Nurse,Public Prosecutor
+0,0,0,0,0,4,6,10,4,8,10,1,1,Science,Business Analyst,Product Designer,Copywriter
+0,0,0,0,0,5,8,4,5,3,8,3,0,Arts,Business Analyst,Neurologist,Radiologist
+0,0,0,0,0,6,4,5,9,3,2,3,0,Commerce,Business Analyst,Accountant,Public Prosecutor
+0,0,0,0,0,7,6,6,5,3,1,8,1,Arts,Business Analyst,Judge,Pharmacist
+0,0,0,0,0,10,7,7,3,6,4,8,1,Commerce,Business Analyst,Author,Web Developer
+0,0,0,0,0,3,9,8,4,3,2,6,1,Arts,Business Analyst,Physiotherapist,Corporate Lawyer
+0,0,0,0,0,8,3,9,6,7,6,3,1,Commerce,Business Analyst,Public Prosecutor,Nurse
+0,0,0,0,0,6,9,4,8,6,1,4,1,Science,Business Analyst,Web Developer,Legal Advisor
+0,0,0,0,0,5,4,8,5,7,8,5,0,Arts,Business Analyst,Cardiologist,Manager
+0,0,0,0,0,9,9,9,4,6,9,1,0,Science,Business Analyst,UI/UX Designer,Physiotherapist
+0,0,0,0,0,5,6,5,9,6,4,5,0,Science,Business Analyst,UI/UX Designer,Accountant
+0,0,0,0,0,3,4,5,9,8,7,2,0,Commerce,Business Analyst,Neurologist,Data Scientist
+0,0,0,0,0,8,10,4,7,9,6,10,1,Commerce,Business Analyst,Psychiatrist,Business Analyst
+0,0,0,0,0,4,9,3,8,9,5,3,1,Commerce,Business Analyst,Web Developer,Entrepreneur
+0,0,0,0,0,4,8,6,7,10,6,9,0,Commerce,Business Analyst,Product Designer,Psychiatrist
+0,0,0,0,0,10,10,9,9,7,1,3,0,Commerce,Business Analyst,Product Designer,Pharmacist
+0,0,0,0,0,5,4,10,8,9,8,7,1,Arts,Business Analyst,Marketing Manager,Pharmacist
+0,0,0,0,0,4,7,7,4,6,3,7,1,Commerce,Business Analyst,Web Developer,AI Engineer
+0,0,0,0,0,4,9,8,8,10,7,3,1,Commerce,Business Analyst,Business Analyst,Nurse
+0,0,0,0,0,7,10,6,5,4,2,8,1,Commerce,Business Analyst,Animator,Legal Advisor
+0,0,0,0,0,8,5,10,3,3,4,8,1,Commerce,Business Analyst,Cloud Engineer,Physiotherapist
+0,0,0,0,0,6,8,3,6,3,10,9,0,Arts,Business Analyst,Author,Graphic Designer
+0,0,0,0,0,3,8,7,6,5,2,5,1,Science,Business Analyst,Author,Accountant
+0,0,0,0,0,10,9,10,4,8,4,9,0,Science,Business Analyst,Cardiologist,Accountant
+0,0,0,0,0,7,9,3,9,6,5,2,1,Commerce,Business Analyst,Business Analyst,Entrepreneur
+0,0,0,0,0,9,9,10,10,6,7,3,1,Commerce,Business Analyst,Animator,UI/UX Designer
+0,0,0,0,0,10,7,7,3,4,1,7,0,Arts,Business Analyst,Radiologist,Entrepreneur
+0,0,0,0,0,4,5,3,8,10,7,10,1,Science,Business Analyst,Dentist,Doctor
+0,0,0,0,0,5,3,3,7,8,6,2,1,Commerce,Business Analyst,Lawyer,Surgeon
+0,0,0,0,0,4,4,7,7,6,3,8,1,Arts,Business Analyst,Copywriter,Accountant
+0,0,0,0,0,6,4,7,3,7,5,6,1,Commerce,Business Analyst,Business Analyst,Fashion Designer
+0,0,0,0,0,7,10,5,3,10,5,5,0,Commerce,Business Analyst,UI/UX Designer,Cybersecurity Analyst
+0,0,0,0,0,3,7,6,4,7,8,8,1,Science,Business Analyst,Product Designer,Cybersecurity Analyst
+0,0,0,0,0,10,5,10,9,6,3,10,1,Arts,Business Analyst,Lawyer,Doctor
+0,0,0,0,0,10,4,8,7,7,7,6,0,Science,Business Analyst,Data Scientist,Business Analyst
+0,0,0,0,0,8,5,10,7,8,6,9,1,Arts,Business Analyst,Nurse,Surgeon
+0,0,0,0,0,9,4,4,4,5,10,6,1,Arts,Business Analyst,Journalist,Physiotherapist
+0,0,0,0,0,9,10,4,9,7,1,8,1,Commerce,Business Analyst,Pharmacist,Entrepreneur
+0,0,0,0,0,9,9,4,6,4,4,5,0,Arts,Business Analyst,Graphic Designer,Marketing Manager
+0,0,0,0,0,9,5,6,6,8,3,6,1,Arts,Business Analyst,Manager,Software Engineer
+0,0,0,0,0,4,7,8,7,7,3,4,1,Science,Business Analyst,Radiologist,Nurse
+0,0,0,0,0,9,7,10,9,8,3,3,1,Commerce,Business Analyst,Manager,Content Writer
+0,0,0,0,0,5,9,6,8,7,7,10,0,Arts,Business Analyst,Lawyer,Entrepreneur
+0,0,0,0,0,10,3,7,7,8,8,2,1,Arts,Business Analyst,Corporate Lawyer,Data Scientist
+0,0,0,0,0,4,3,6,10,5,8,3,0,Commerce,Business Analyst,Surgeon,Content Writer
+0,0,0,0,0,3,6,9,10,4,3,3,0,Science,Business Analyst,Editor,Journalist
+0,0,0,0,0,4,8,6,9,5,7,6,1,Arts,Business Analyst,Nurse,Accountant
+0,0,0,0,0,7,6,5,3,6,3,5,0,Science,Accountant,Public Prosecutor,Content Writer
+0,0,0,0,0,10,10,3,6,7,3,5,1,Commerce,Accountant,Fashion Designer,Corporate Lawyer
+0,0,0,0,0,7,9,3,7,8,4,1,1,Arts,Accountant,Radiologist,Copywriter
+0,0,0,0,0,4,3,3,9,3,2,6,0,Arts,Accountant,Copywriter,Animator
+0,0,0,0,0,3,4,6,9,10,4,9,0,Science,Accountant,Content Writer,Web Developer
+0,0,0,0,0,7,7,8,7,6,5,9,1,Arts,Accountant,Software Engineer,Manager
+0,0,0,0,0,3,8,6,10,10,8,1,1,Science,Accountant,Product Designer,Data Scientist
+0,0,0,0,0,6,6,7,9,10,7,6,1,Arts,Accountant,Cloud Engineer,Journalist
+0,0,0,0,0,6,7,8,4,5,3,4,1,Science,Accountant,Graphic Designer,Physiotherapist
+0,0,0,0,0,5,8,6,7,4,1,8,1,Science,Accountant,Cardiologist,Copywriter
+0,0,0,0,0,3,3,8,8,5,5,5,0,Arts,Accountant,Animator,Journalist
+0,0,0,0,0,8,3,5,8,6,1,10,0,Commerce,Accountant,Cardiologist,Dentist
+0,0,0,0,0,9,4,8,7,7,4,9,1,Science,Accountant,Animator,Pharmacist
+0,0,0,0,0,9,4,8,6,5,3,2,0,Commerce,Accountant,Neurologist,Pharmacist
+0,0,0,0,0,3,9,7,9,3,6,10,0,Commerce,Accountant,Fashion Designer,Surgeon
+0,0,0,0,0,3,8,3,5,3,9,8,1,Arts,Accountant,Doctor,Author
+0,0,0,0,0,10,4,6,6,4,7,2,1,Commerce,Accountant,Accountant,Data Scientist
+0,0,0,0,0,4,5,3,5,10,1,7,0,Science,Accountant,Animator,Author
+0,0,0,0,0,10,4,4,5,3,8,3,1,Arts,Accountant,Dentist,Psychiatrist
+0,0,0,0,0,10,3,9,9,9,6,6,1,Arts,Accountant,AI Engineer,Data Scientist
+0,0,0,0,0,3,9,8,6,5,2,4,1,Science,Accountant,Marketing Manager,Public Prosecutor
+0,0,0,0,0,8,5,5,10,10,2,2,1,Arts,Accountant,Animator,Fashion Designer
+0,0,0,0,0,3,6,3,7,8,7,4,0,Science,Accountant,Content Writer,Psychiatrist
+0,0,0,0,0,5,8,6,9,9,2,3,1,Arts,Accountant,Web Developer,Dentist
+0,0,0,0,0,6,10,5,8,4,1,8,0,Commerce,Accountant,Physiotherapist,Cardiologist
+0,0,0,0,0,10,6,7,9,6,2,6,1,Arts,Accountant,Doctor,Cloud Engineer
+0,0,0,0,0,9,6,9,9,5,1,2,0,Arts,Accountant,Cybersecurity Analyst,Product Designer
+0,0,0,0,0,8,6,8,9,3,4,2,0,Science,Accountant,Cloud Engineer,Copywriter
+0,0,0,0,0,3,9,7,7,5,9,3,1,Science,Accountant,AI Engineer,Editor
+0,0,0,0,0,8,7,3,6,4,10,1,0,Science,Accountant,Software Engineer,Animator
+0,0,0,0,0,5,8,8,6,7,6,8,0,Science,Accountant,Judge,Psychiatrist
+0,0,0,0,0,6,6,6,10,8,1,5,1,Arts,Accountant,Dentist,Data Scientist
+0,0,0,0,0,9,10,4,8,7,1,10,0,Commerce,Accountant,Lawyer,Software Engineer
+0,0,0,0,0,4,3,10,8,8,2,9,0,Science,Accountant,Cloud Engineer,Business Analyst
+0,0,0,0,0,6,10,6,7,3,8,5,1,Science,Accountant,Psychiatrist,Manager
+0,0,0,0,0,6,3,8,8,9,5,3,0,Science,Accountant,Editor,Doctor
+0,0,0,0,0,10,7,10,3,10,1,10,1,Commerce,Accountant,Surgeon,Judge
+0,0,0,0,0,4,10,4,7,4,1,9,1,Commerce,Accountant,Journalist,Physiotherapist
+0,0,0,0,0,7,5,7,8,9,7,8,1,Commerce,Accountant,Business Analyst,Lawyer
+0,0,0,0,0,9,4,3,6,8,10,1,1,Commerce,Accountant,Copywriter,Cybersecurity Analyst
+0,0,0,0,0,7,3,9,10,3,5,4,1,Commerce,Accountant,Graphic Designer,Manager
+0,0,0,0,0,4,6,9,9,9,10,2,1,Science,Accountant,Software Engineer,Entrepreneur
+0,0,0,0,0,7,10,3,4,7,2,9,0,Arts,Accountant,Copywriter,Lawyer
+0,0,0,0,0,10,9,7,10,9,1,8,1,Commerce,Accountant,Doctor,Radiologist
+0,0,0,0,0,3,8,3,7,5,5,10,0,Commerce,Accountant,Lawyer,Cloud Engineer
+0,0,0,0,0,4,3,7,9,7,1,2,0,Commerce,Accountant,Neurologist,Public Prosecutor
+0,0,0,0,0,4,10,5,3,9,6,6,0,Arts,Accountant,Software Engineer,Cloud Engineer
+0,0,0,0,0,10,8,4,6,5,4,2,1,Arts,Accountant,Business Analyst,Corporate Lawyer
+0,0,0,0,0,3,4,8,6,6,7,6,1,Commerce,Accountant,Legal Advisor,Graphic Designer
+0,0,0,0,0,7,8,10,4,10,5,3,1,Commerce,Accountant,Graphic Designer,AI Engineer
+0,0,0,0,0,7,6,5,9,5,4,8,0,Science,Accountant,Business Analyst,Legal Advisor
+0,0,0,0,0,5,5,7,4,6,10,9,0,Science,Accountant,Journalist,Doctor
+0,0,0,0,0,3,7,3,6,8,6,8,1,Commerce,Accountant,Surgeon,Graphic Designer
+0,0,0,0,0,5,10,7,6,10,10,5,1,Arts,Accountant,Software Engineer,Nurse
+0,0,0,0,0,5,7,8,9,7,9,6,0,Commerce,Accountant,Cybersecurity Analyst,Data Scientist
+0,0,0,0,0,10,6,6,10,8,4,4,1,Commerce,Accountant,Judge,Neurologist
+0,0,0,0,0,7,10,8,7,6,9,3,1,Commerce,Accountant,Software Engineer,Entrepreneur
+0,0,0,0,0,8,3,6,9,9,2,6,1,Commerce,Accountant,UI/UX Designer,Pharmacist
+0,0,0,0,0,3,4,7,8,5,6,6,0,Commerce,Accountant,Nurse,Surgeon
+0,0,0,0,0,8,8,3,3,8,2,4,0,Commerce,Accountant,Cybersecurity Analyst,Judge
+0,0,0,0,0,7,5,10,3,3,2,9,0,Arts,Marketing Manager,Physiotherapist,Marketing Manager
+0,0,0,0,0,8,9,9,4,4,2,7,1,Commerce,Marketing Manager,AI Engineer,Web Developer
+0,0,0,0,0,8,10,7,5,5,4,3,1,Arts,Marketing Manager,Corporate Lawyer,Data Scientist
+0,0,0,0,0,8,7,6,4,3,4,3,1,Science,Marketing Manager,Dentist,Neurologist
+0,0,0,0,0,3,3,7,7,10,1,6,1,Science,Marketing Manager,Data Scientist,Physiotherapist
+0,0,0,0,0,6,8,8,3,10,6,1,0,Science,Marketing Manager,Radiologist,Software Engineer
+0,0,0,0,0,3,6,6,10,5,8,5,1,Commerce,Marketing Manager,Physiotherapist,Accountant
+0,0,0,0,0,8,3,7,7,3,5,10,1,Arts,Marketing Manager,Accountant,Fashion Designer
+0,0,0,0,0,4,6,8,9,3,1,6,0,Arts,Marketing Manager,Fashion Designer,Copywriter
+0,0,0,0,0,6,9,5,7,3,6,3,0,Arts,Marketing Manager,Fashion Designer,UI/UX Designer
+0,0,0,0,0,8,4,6,9,9,7,2,1,Commerce,Marketing Manager,Graphic Designer,Editor
+0,0,0,0,0,7,6,5,5,3,5,9,1,Arts,Marketing Manager,Content Writer,UI/UX Designer
+0,0,0,0,0,3,10,9,5,10,4,2,1,Commerce,Marketing Manager,Cardiologist,Judge
+0,0,0,0,0,4,4,5,8,4,3,10,0,Arts,Marketing Manager,Copywriter,Cybersecurity Analyst
+0,0,0,0,0,8,4,9,3,6,2,1,0,Commerce,Marketing Manager,Marketing Manager,Graphic Designer
+0,0,0,0,0,10,8,6,3,10,6,9,0,Science,Marketing Manager,Business Analyst,Web Developer
+0,0,0,0,0,9,8,4,4,4,8,2,0,Arts,Marketing Manager,Dentist,UI/UX Designer
+0,0,0,0,0,7,9,9,7,9,4,7,1,Arts,Marketing Manager,Doctor,Marketing Manager
+0,0,0,0,0,5,7,3,9,6,10,2,1,Commerce,Marketing Manager,Editor,Doctor
+0,0,0,0,0,9,8,5,4,3,6,4,0,Science,Marketing Manager,Nurse,Corporate Lawyer
+0,0,0,0,0,6,7,3,4,5,8,3,0,Arts,Marketing Manager,UI/UX Designer,Business Analyst
+0,0,0,0,0,3,9,3,4,6,7,8,1,Commerce,Marketing Manager,Lawyer,Editor
+0,0,0,0,0,8,5,3,3,6,3,10,0,Arts,Marketing Manager,Web Developer,Dentist
+0,0,0,0,0,8,9,8,8,4,2,4,1,Commerce,Marketing Manager,Cardiologist,Software Engineer
+0,0,0,0,0,10,9,10,10,7,10,1,1,Arts,Marketing Manager,Editor,Product Designer
+0,0,0,0,0,6,7,3,6,6,1,3,0,Commerce,Marketing Manager,Cybersecurity Analyst,AI Engineer
+0,0,0,0,0,10,10,10,8,5,4,2,0,Science,Marketing Manager,Cardiologist,Animator
+0,0,0,0,0,5,10,7,4,10,5,9,1,Science,Marketing Manager,Animator,Legal Advisor
+0,0,0,0,0,7,10,3,3,5,10,5,0,Commerce,Marketing Manager,Graphic Designer,Journalist
+0,0,0,0,0,8,5,8,4,4,5,3,1,Commerce,Marketing Manager,Neurologist,Data Scientist
+0,0,0,0,0,3,10,10,7,9,1,3,0,Commerce,Marketing Manager,Product Designer,AI Engineer
+0,0,0,0,0,7,3,9,4,10,10,1,0,Arts,Marketing Manager,Product Designer,AI Engineer
+0,0,0,0,0,8,5,8,6,3,10,2,1,Science,Marketing Manager,Copywriter,Marketing Manager
+0,0,0,0,0,8,9,7,4,7,5,1,0,Arts,Marketing Manager,AI Engineer,Nurse
+0,0,0,0,0,8,3,7,7,5,1,2,0,Arts,Marketing Manager,Cloud Engineer,AI Engineer
+0,0,0,0,0,5,3,8,7,4,2,2,0,Arts,Marketing Manager,Cardiologist,Psychiatrist
+0,0,0,0,0,7,6,5,5,3,10,7,0,Arts,Marketing Manager,Lawyer,Radiologist
+0,0,0,0,0,7,9,5,5,8,6,2,1,Arts,Marketing Manager,Psychiatrist,Content Writer
+0,0,0,0,0,4,4,5,9,3,6,6,0,Commerce,Marketing Manager,Lawyer,Neurologist
+0,0,0,0,0,3,3,6,6,3,10,9,0,Commerce,Marketing Manager,Corporate Lawyer,Radiologist
+0,0,0,0,0,3,5,7,4,8,7,2,1,Commerce,Marketing Manager,Corporate Lawyer,Doctor
+0,0,0,0,0,7,3,5,10,9,6,8,1,Science,Marketing Manager,Legal Advisor,Dentist
+0,0,0,0,0,4,7,4,9,5,2,3,1,Commerce,Marketing Manager,Cardiologist,Physiotherapist
+0,0,0,0,0,4,7,5,3,4,2,3,1,Commerce,Marketing Manager,Corporate Lawyer,Manager
+0,0,0,0,0,10,7,10,10,6,4,7,1,Science,Marketing Manager,Cybersecurity Analyst,Data Scientist
+0,0,0,0,0,6,4,10,3,10,3,9,1,Science,Marketing Manager,Doctor,Animator
+0,0,0,0,0,7,7,5,9,3,8,8,1,Arts,Marketing Manager,Product Designer,Pharmacist
+0,0,0,0,0,10,8,5,3,9,4,7,0,Commerce,Marketing Manager,Dentist,Product Designer
+0,0,0,0,0,4,5,7,8,8,6,3,0,Science,Marketing Manager,Neurologist,Lawyer
+0,0,0,0,0,10,10,7,6,4,4,3,0,Science,Marketing Manager,Content Writer,Fashion Designer
+0,0,0,0,0,3,10,5,6,10,10,10,0,Science,Marketing Manager,UI/UX Designer,Psychiatrist
+0,0,0,0,0,7,5,6,8,5,2,2,1,Arts,Marketing Manager,AI Engineer,Fashion Designer
+0,0,0,0,0,6,9,9,9,8,4,1,1,Arts,Marketing Manager,Judge,Fashion Designer
+0,0,0,0,0,6,7,10,3,10,4,6,0,Commerce,Marketing Manager,Neurologist,Nurse
+0,0,0,0,0,5,7,8,8,3,1,5,0,Commerce,Marketing Manager,Web Developer,Psychiatrist
+0,0,0,0,0,6,9,4,5,5,4,2,0,Science,Marketing Manager,Lawyer,Public Prosecutor
+0,0,0,0,0,3,4,3,8,5,1,10,0,Commerce,Marketing Manager,Journalist,Business Analyst
+0,0,0,0,0,4,10,3,5,9,2,4,1,Commerce,Marketing Manager,AI Engineer,Manager
+0,0,0,0,0,4,7,8,3,5,10,4,0,Commerce,Marketing Manager,Cybersecurity Analyst,Psychiatrist
+0,0,0,0,0,4,6,8,10,7,8,5,0,Science,Marketing Manager,Fashion Designer,Physiotherapist

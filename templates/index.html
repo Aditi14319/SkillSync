@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SkillSync Career Recommender</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=Sora:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="hero">
+      <div class="hero-copy">
+        <span class="badge">SkillSync</span>
+        <h1>Career guidance powered by student interests and skills.</h1>
+        <p>Explore careers across tech, law, design, literature, business, medical and more. Get recommended career paths and suitable bachelor degrees in one place.</p>
+      </div>
+      <div class="hero-card glass">
+        <h3>What this system does</h3>
+        <ul>
+          <li>Analyzes student strengths and interests</li>
+          <li>Matches profiles using your career dataset</li>
+          <li>Suggests bachelor degree options</li>
+          <li>Shows top career matches instantly</li>
+        </ul>
+      </div>
+    </header>
+
+    <main class="grid-layout">
+      <section class="glass panel">
+        <div class="section-head">
+          <h2>Student input</h2>
+          <p>Rate each area from 0 to 10 and choose your subject preference.</p>
+        </div>
+        <form id="recommendationForm">
+          <div class="slider-grid" id="sliderGrid"></div>
+          <div class="select-grid">
+            <label>
+              <span>Subject preference</span>
+              <select id="subject_preference">
+                <option>Science</option>
+                <option>Commerce</option>
+                <option>Arts</option>
+              </select>
+            </label>
+          </div>
+          <button type="submit" class="primary-btn">Get recommendations</button>
+          <p class="status" id="statusText"></p>
+        </form>
+      </section>
+
+      <section class="glass panel results-panel">
+        <div class="section-head">
+          <h2>Career results</h2>
+          <p>Top matched careers and recommended bachelor programs.</p>
+        </div>
+        <div id="topResult"></div>
+        <div id="resultsContainer" class="results-list">
+          <div class="empty-state">No recommendations yet. Submit the form to see results.</div>
+        </div>
+      </section>
+    </main>
+  </div>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
