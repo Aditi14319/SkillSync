@@ -65,44 +65,35 @@ skillsync/
     └── script.js          # Client-side logic
 
 ⚙️ Installation & Setup
+
 1️⃣ Clone the Repository
-git clone https://github.com/YOUR_USERNAME/SkillSync.git
+git clone https://github.com/Aditi14319/SkillSync.git
 cd SkillSync
+
 2️⃣ Create Virtual Environment (Recommended)
 python -m venv venv
 venv\Scripts\activate   # For Windows
+
 3️⃣ Install Dependencies
 pip install -r requirements.txt
+
 4️⃣ Run the Application
 python app.py
+
 5️⃣ Open in Browser
 http://127.0.0.1:5000
+
 📦 Requirements
 Flask==3.0.3
 flask-cors==4.0.1
 pandas==2.2.2
-gunicorn==22.0.0
-☁️ Deployment (Render)
-
-SkillSync can be easily deployed using Render.
 
 🔧 Configuration
 Environment: Python
 
 Build Command:
-
 pip install -r requirements.txt
 
-Start Command:
-
-gunicorn app:app
-🚀 Steps
-Push your code to GitHub
-Go to https://render.com
-Create a new Web Service
-Connect your repository
-Add build & start commands
-Deploy 🎉
 ⚠️ Important Notes
 Ensure career_dataset.csv is in the root directory
 Always run the Flask server before accessing the app
